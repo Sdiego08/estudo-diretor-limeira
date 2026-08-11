@@ -1,0 +1,2005 @@
+{
+  "versao": 1,
+  "questoes": [
+    {
+      "id": "leg-001",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "enunciado": "Segundo a LDB, é incumbência do estabelecimento de ensino:",
+      "alternativas": [
+        "Elaborar e cumprir plano de trabalho segundo a proposta pedagógica.",
+        "Estabelecer estratégias de recuperação para os alunos de menor rendimento.",
+        "Prover meios para a recuperação dos alunos de menor rendimento.",
+        "Participar da elaboração da proposta pedagógica do estabelecimento.",
+        "Colaborar com as atividades de articulação da escola com as famílias."
+      ],
+      "gabarito": 2,
+      "comentario": "As alternativas A, B, D e E são incumbências do DOCENTE (art. 13). A escola PROVÊ MEIOS para a recuperação; o docente ESTABELECE ESTRATÉGIAS. Este par é o mais cobrado da LDB inteira.\n\nRepare no padrão geral: a escola tem sempre o verbo forte (elabora e executa, vela, provê, articula-se) e o docente tem o verbo de participação (participa, colabora, cumpre).",
+      "fonte": "Módulo 1, questão 1"
+    },
+    {
+      "id": "leg-002",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "enunciado": "Sobre a atuação prioritária dos entes federados na educação, é correto afirmar que:",
+      "alternativas": [
+        "Os Municípios oferecerão a educação infantil e, com prioridade, o ensino médio.",
+        "Os Estados assegurarão o ensino fundamental e oferecerão com prioridade o ensino médio.",
+        "A União assegurará prioritariamente o ensino fundamental.",
+        "Os Municípios atuarão exclusivamente na educação infantil.",
+        "O Distrito Federal acumula apenas as competências dos Estados."
+      ],
+      "gabarito": 1,
+      "comentario": "A: erro clássico de inversão — o Município tem prioridade no FUNDAMENTAL, não no médio. C: a União coordena a política nacional, não assegura prioritariamente o fundamental. D: 'exclusivamente' está errado — o Município também atua com prioridade no fundamental. E: o DF acumula competências de Estados E Municípios.",
+      "fonte": "Módulo 1, questão 2"
+    },
+    {
+      "id": "leg-003",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "enunciado": "Quanto à verificação do rendimento escolar na LDB, é correto:",
+      "alternativas": [
+        "Prevalência dos aspectos quantitativos sobre os qualitativos.",
+        "Prevalência dos resultados de provas finais sobre os do período.",
+        "Obrigatoriedade de estudos de recuperação, de preferência ao final do período letivo.",
+        "Avaliação contínua e cumulativa, com prevalência dos aspectos qualitativos.",
+        "Vedação ao aproveitamento de estudos concluídos com êxito."
+      ],
+      "gabarito": 3,
+      "comentario": "A e B invertem a regra: prevalecem os QUALITATIVOS e os resultados ao LONGO do período. C troca 'paralelos' por 'ao final' — a recuperação é preferencialmente PARALELA ao período letivo. E contraria o inciso que expressamente permite o aproveitamento de estudos.",
+      "fonte": "Módulo 1, questão 3"
+    },
+    {
+      "id": "leg-004",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "enunciado": "São princípios da gestão democrática do ensino público na educação básica, segundo o art. 14 da LDB:",
+      "alternativas": [
+        "Participação dos profissionais na elaboração do projeto pedagógico e participação das comunidades escolar e local em conselhos escolares.",
+        "Eleição direta para diretor e autonomia financeira plena.",
+        "Participação dos pais na gestão financeira e eleição de conselhos.",
+        "Autonomia pedagógica, administrativa e financeira das unidades.",
+        "Descentralização administrativa e transparência orçamentária."
+      ],
+      "gabarito": 0,
+      "comentario": "São exatamente DOIS princípios, e a alternativa A os reproduz. D confunde com o art. 15, que trata dos graus progressivos de autonomia — assunto correlato, mas artigo diferente. As demais inventam princípios que a lei não lista.\n\nRegra prática: se a alternativa listar três ou quatro princípios de gestão democrática, quase certamente inventou.",
+      "fonte": "Módulo 1, questão 4"
+    },
+    {
+      "id": "leg-005",
+      "materia": "legislacao",
+      "tema": "eca",
+      "enunciado": "Nos termos do ECA, os dirigentes de estabelecimentos de ensino fundamental comunicarão ao Conselho Tutelar os casos de:",
+      "alternativas": [
+        "Maus-tratos, indisciplina reiterada e evasão escolar.",
+        "Maus-tratos, reiteração de faltas injustificadas e evasão escolar, e elevados níveis de repetência.",
+        "Evasão escolar, uso de drogas e maus-tratos.",
+        "Repetência, indisciplina e ausência dos pais em reuniões.",
+        "Maus-tratos e apenas os casos de evasão definitiva."
+      ],
+      "gabarito": 1,
+      "comentario": "O art. 56 tem exatamente TRÊS incisos, reproduzidos em B. As demais inserem hipóteses inexistentes (indisciplina, uso de drogas, ausência em reuniões). Note que a reiteração de faltas só é comunicada 'esgotados os recursos escolares'.",
+      "fonte": "Módulo 1, questão 5"
+    },
+    {
+      "id": "leg-006",
+      "materia": "legislacao",
+      "tema": "eca",
+      "enunciado": "Sobre o Conselho Tutelar, assinale a alternativa correta:",
+      "alternativas": [
+        "É órgão jurisdicional, composto por 5 membros com mandato de 3 anos.",
+        "É órgão permanente e autônomo, não jurisdicional, com 5 membros e mandato de 4 anos.",
+        "É órgão deliberativo de composição paritária entre governo e sociedade civil.",
+        "Seus membros são nomeados pelo Prefeito para mandato de 4 anos.",
+        "Exige-se idade superior a 18 anos e residência no Estado."
+      ],
+      "gabarito": 1,
+      "comentario": "A: erra ao chamá-lo de jurisdicional e ao dizer 3 anos. C: descreve o Conselho de DIREITOS (CMDCA), não o Tutelar. D: os membros são ESCOLHIDOS PELA POPULAÇÃO local, não nomeados. E: exige-se idade superior a 21 anos e residência no MUNICÍPIO.",
+      "fonte": "Módulo 1, questão 6"
+    },
+    {
+      "id": "leg-007",
+      "materia": "legislacao",
+      "tema": "bncc-dcn",
+      "enunciado": "Segundo a BNCC, competência é definida como a mobilização de:",
+      "alternativas": [
+        "Conteúdos, metodologias e recursos didáticos.",
+        "Conhecimentos, habilidades, atitudes e valores para resolver demandas complexas.",
+        "Saberes teóricos e práticos para aprovação nas avaliações externas.",
+        "Objetivos, conteúdos e critérios de avaliação.",
+        "Competências gerais e específicas de cada área."
+      ],
+      "gabarito": 1,
+      "comentario": "A definição é literal na BNCC: conhecimentos (conceitos e procedimentos) + habilidades (práticas, cognitivas e socioemocionais) + atitudes e valores, mobilizados para resolver demandas complexas da vida cotidiana, do exercício da cidadania e do mundo do trabalho. As demais confundem competência com elementos de planejamento.",
+      "fonte": "Módulo 1, questão 7"
+    },
+    {
+      "id": "leg-008",
+      "materia": "legislacao",
+      "tema": "bncc-dcn",
+      "enunciado": "Sobre a BNCC, é INCORRETO afirmar que:",
+      "alternativas": [
+        "Tem caráter normativo.",
+        "É referência obrigatória para os currículos das redes públicas e privadas.",
+        "Define as aprendizagens essenciais da Educação Básica.",
+        "Prescreve as metodologias de ensino a serem adotadas pelas escolas.",
+        "Deve ser complementada pela parte diversificada dos currículos."
+      ],
+      "gabarito": 3,
+      "comentario": "A BNCC define O QUE deve ser aprendido, não COMO ensinar. A escolha metodológica permanece com o sistema, a escola e o professor. As demais alternativas estão corretas — inclusive B, já que a BNCC alcança também a rede privada, ponto que a banca costuma negar.",
+      "fonte": "Módulo 1, questão 8"
+    },
+    {
+      "id": "leg-009",
+      "materia": "legislacao",
+      "tema": "bncc-dcn",
+      "enunciado": "Os eixos estruturantes da prática pedagógica na Educação Infantil, conforme a BNCC e as DCNEI, são:",
+      "alternativas": [
+        "Cuidar e educar.",
+        "Interações e brincadeira.",
+        "Ludicidade e afetividade.",
+        "Autonomia e socialização.",
+        "Corpo e movimento."
+      ],
+      "gabarito": 1,
+      "comentario": "INTERAÇÕES e BRINCADEIRA são os eixos estruturantes, definidos na Resolução CNE/CEB 05/2009 e reafirmados na BNCC. 'Cuidar e educar' é o binômio indissociável da função da Educação Infantil, mas não são os eixos estruturantes — é a confusão mais comum nesta questão.",
+      "fonte": "Módulo 1, questão 9"
+    },
+    {
+      "id": "leg-010",
+      "materia": "legislacao",
+      "tema": "constituicao",
+      "enunciado": "Nos termos do art. 208 da Constituição Federal, o não oferecimento do ensino obrigatório pelo Poder Público, ou sua oferta irregular:",
+      "alternativas": [
+        "Enseja apenas advertência administrativa ao gestor.",
+        "Importa responsabilidade da autoridade competente.",
+        "Autoriza a suspensão dos repasses federais ao ente.",
+        "Deve ser comunicada ao Conselho Escolar.",
+        "Não gera consequência jurídica, por se tratar de norma programática."
+      ],
+      "gabarito": 1,
+      "comentario": "É a literalidade do §2º do art. 208. E é justamente o oposto de 'norma programática': o §1º define o acesso ao ensino obrigatório e gratuito como DIREITO PÚBLICO SUBJETIVO, exigível judicialmente por qualquer cidadão ou pelo Ministério Público.",
+      "fonte": "Módulo 1, questão 10"
+    },
+    {
+      "id": "leg-011",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "enunciado": "Sobre a educação especial na LDB, assinale a correta:",
+      "alternativas": [
+        "É oferecida exclusivamente em classes especiais.",
+        "É oferecida preferencialmente na rede regular de ensino.",
+        "Tem início obrigatoriamente no ensino fundamental.",
+        "Destina-se apenas a educandos com deficiência física.",
+        "Veda a terminalidade específica."
+      ],
+      "gabarito": 1,
+      "comentario": "O advérbio PREFERENCIALMENTE é a palavra-chave, e a banca o troca por 'exclusivamente' ou 'obrigatoriamente'. C está errada: a oferta tem início na EDUCAÇÃO INFANTIL. D restringe indevidamente o público-alvo, que inclui transtornos globais do desenvolvimento e altas habilidades/superdotação. E contraria a lei, que prevê terminalidade específica.",
+      "fonte": "Módulo 1, questão 11"
+    },
+    {
+      "id": "leg-012",
+      "materia": "legislacao",
+      "tema": "bncc-dcn",
+      "enunciado": "A Resolução CNE/CEB 07/2010, que fixa as DCN para o Ensino Fundamental de 9 anos, estabelece que nos três anos iniciais:",
+      "alternativas": [
+        "A retenção é obrigatória para alunos não alfabetizados.",
+        "É vedada a interrupção do trabalho pedagógico com retenção do aluno.",
+        "A avaliação deve ser exclusivamente classificatória.",
+        "O currículo dispensa a parte diversificada.",
+        "A alfabetização deve concluir-se no primeiro ano."
+      ],
+      "gabarito": 1,
+      "comentario": "A vedação à retenção nos três anos iniciais visa assegurar a continuidade do processo de alfabetização e letramento. D contraria a estrutura de base comum + parte diversificada, que se articulam e não se separam. E antecipa indevidamente o prazo — a Resolução trata dos TRÊS anos iniciais como bloco pedagógico.",
+      "fonte": "Módulo 1, questão 12"
+    },
+    {
+      "id": "leg-013",
+      "materia": "legislacao",
+      "tema": "normativos-recentes",
+      "enunciado": "Sobre o uso de dispositivos digitais nas escolas, conforme a Resolução CNE/CEB 02/2025, é correto afirmar que:",
+      "alternativas": [
+        "A proibição é absoluta, sem qualquer exceção.",
+        "Cabe ao diretor definir isoladamente as regras da unidade escolar.",
+        "São admitidas exceções para fins pedagógicos, acessibilidade e saúde.",
+        "A norma alcança apenas o ensino médio.",
+        "O uso é liberado durante recreios e intervalos."
+      ],
+      "gabarito": 2,
+      "comentario": "São exatamente três hipóteses de exceção: uso pedagógico sob supervisão, acessibilidade e inclusão, e necessidade de saúde. A está errada porque a restrição não é absoluta; B porque a construção das regras deve ser COLETIVA, no PPP e no regimento; D porque a norma alcança toda a educação básica; E porque a restrição abrange também recreios e intervalos.",
+      "fonte": "Módulo 1, questão 13"
+    },
+    {
+      "id": "leg-014",
+      "materia": "legislacao",
+      "tema": "normativos-recentes",
+      "enunciado": "A distinção entre educação integral e tempo integral, conforme a Resolução CNE/CEB 07/2025, indica que:",
+      "alternativas": [
+        "São expressões sinônimas.",
+        "Educação integral é a ampliação da jornada; tempo integral é a concepção formativa.",
+        "Educação integral é a concepção de formação humana multidimensional; tempo integral é a ampliação da jornada.",
+        "Ambas exigem jornada mínima de 5 horas diárias.",
+        "Tempo integral dispensa projeto pedagógico específico."
+      ],
+      "gabarito": 2,
+      "comentario": "B inverte os conceitos — pegadinha frequente. D erra a carga horária: o tempo integral exige jornada igual ou superior a 7 horas diárias ou 35 semanais. E contraria a diretriz, que exige projeto pedagógico específico, infraestrutura e formação docente. Ampliar o tempo sem mudar a concepção é apenas turno estendido.",
+      "fonte": "Módulo 1, questão 14"
+    },
+    {
+      "id": "leg-015",
+      "materia": "legislacao",
+      "tema": "eca",
+      "enunciado": "Segundo o ECA, a falta ou carência de recursos materiais:",
+      "alternativas": [
+        "Constitui motivo suficiente para a perda do poder familiar.",
+        "Autoriza o acolhimento institucional imediato.",
+        "Não constitui motivo suficiente para a perda ou suspensão do poder familiar.",
+        "Permite a colocação em família substituta independentemente de decisão judicial.",
+        "Justifica a suspensão temporária do poder familiar por até seis meses."
+      ],
+      "gabarito": 2,
+      "comentario": "Pobreza não é causa de perda ou suspensão do poder familiar. Inexistindo outro motivo, a criança deve ser mantida na família de origem, que será obrigatoriamente incluída em programas oficiais de auxílio. É um dos pontos mais cobrados do ECA.",
+      "fonte": "Módulo 1, questão 15"
+    },
+    {
+      "id": "leg-016",
+      "materia": "legislacao",
+      "tema": "leis-avulsas",
+      "enunciado": "Considera-se intimidação sistemática (bullying), nos termos da Lei 13.185/2015, o ato:",
+      "alternativas": [
+        "Isolado de agressão física entre alunos de mesma idade.",
+        "Intencional e repetitivo, praticado em relação de desequilíbrio de poder.",
+        "Praticado exclusivamente em ambiente virtual.",
+        "De indisciplina reiterada contra o professor.",
+        "Que cause dano patrimonial à escola."
+      ],
+      "gabarito": 1,
+      "comentario": "Os três elementos definidores são intencionalidade, repetição e desequilíbrio de poder. A falha justamente por ser ato ISOLADO e entre pares em equilíbrio. C está errada porque o ambiente virtual é uma das classificações (cyberbullying), não a única forma.",
+      "fonte": "Módulo 1, questão 16"
+    },
+    {
+      "id": "leg-017",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "enunciado": "Quanto à valorização dos profissionais da educação (art. 67 da LDB), é assegurado:",
+      "alternativas": [
+        "Ingresso por concurso público de provas e títulos ou por processo seletivo simplificado.",
+        "Ingresso exclusivamente por concurso público de provas e títulos.",
+        "Progressão funcional baseada apenas no tempo de serviço.",
+        "Aperfeiçoamento profissional sem licenciamento remunerado.",
+        "Período de estudos e planejamento fora da carga de trabalho."
+      ],
+      "gabarito": 1,
+      "comentario": "O advérbio EXCLUSIVAMENTE é essencial e a banca o remove. C está errada: a progressão baseia-se na titulação ou habilitação E na avaliação de desempenho. D e E invertem as garantias — o licenciamento periódico é remunerado e o período de estudos é INCLUÍDO na carga de trabalho.",
+      "fonte": "Módulo 1, questão 17"
+    },
+    {
+      "id": "leg-018",
+      "materia": "legislacao",
+      "tema": "normativos-recentes",
+      "enunciado": "Conforme o Decreto 12.686/2025, o atendimento educacional especializado é:",
+      "alternativas": [
+        "Substitutivo à escolarização comum.",
+        "Complementar ou suplementar à escolarização comum, conforme o público.",
+        "Restrito a escolas especiais.",
+        "Ofertado apenas no ensino fundamental.",
+        "Facultativo aos sistemas de ensino."
+      ],
+      "gabarito": 1,
+      "comentario": "COMPLEMENTAR para estudantes com deficiência e transtornos globais do desenvolvimento; SUPLEMENTAR para altas habilidades ou superdotação. Em nenhuma hipótese substitui a escolarização comum — a matrícula na rede regular é a regra. A alternativa que disser 'substitutivo' está sempre errada.",
+      "fonte": "Módulo 1, questão 18"
+    },
+    {
+      "id": "leg-019",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "enunciado": "A carga horária mínima anual da educação básica, nos termos da LDB, é de:",
+      "alternativas": [
+        "720 horas distribuídas em 180 dias letivos.",
+        "800 horas distribuídas em no mínimo 200 dias de efetivo trabalho escolar.",
+        "800 horas distribuídas em 180 dias letivos.",
+        "1.000 horas distribuídas em 200 dias letivos.",
+        "600 horas distribuídas em 200 dias letivos."
+      ],
+      "gabarito": 1,
+      "comentario": "800 horas e 200 dias, excluído o tempo reservado aos exames finais quando houver. Guarde junto: jornada mínima diária de 4 horas de trabalho efetivo em sala no ensino fundamental, e frequência mínima de 75% para aprovação.",
+      "fonte": "Módulo 1, questão 19"
+    },
+    {
+      "id": "leg-020",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "enunciado": "A formação de profissionais de educação para administração, planejamento, inspeção, supervisão e orientação educacional para a educação básica será feita:",
+      "alternativas": [
+        "Exclusivamente em cursos de mestrado na área.",
+        "Em cursos de graduação em Pedagogia ou em nível de pós-graduação, garantida a base comum nacional.",
+        "Em qualquer licenciatura, dispensada formação específica.",
+        "Somente em cursos de especialização com 360 horas.",
+        "Em nível médio, na modalidade normal."
+      ],
+      "gabarito": 1,
+      "comentario": "É a literalidade do art. 64 da LDB — e é exatamente o requisito de formação do cargo de Diretor de Escola neste edital. A escolha entre graduação em Pedagogia e pós-graduação fica a critério da instituição de ensino, sempre garantida a base comum nacional.",
+      "fonte": "Módulo 1, questão 20"
+    },
+    {
+      "id": "leg-021",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "enunciado": "NÃO constitui princípio do ensino, nos termos do art. 3º da LDB:",
+      "alternativas": [
+        "Pluralismo de ideias e de concepções pedagógicas.",
+        "Valorização da experiência extraescolar.",
+        "Uniformidade de concepções pedagógicas nos sistemas de ensino.",
+        "Gestão democrática do ensino público, na forma da lei.",
+        "Garantia do direito à educação e à aprendizagem ao longo da vida."
+      ],
+      "gabarito": 2,
+      "comentario": "'Uniformidade de concepções pedagógicas' é exatamente o OPOSTO do pluralismo, que a lei consagra — é princípio inventado, e a banca gosta desse tipo de inversão. Observe ainda dois detalhes das alternativas corretas: a gestão democrática é do ensino PÚBLICO (não de todo o ensino), e a lei valoriza a experiência EXTRAescolar, não apenas a escolar.",
+      "fonte": "Gerado — Módulo 1, bloco 1.2"
+    },
+    {
+      "id": "leg-022",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "enunciado": "A LDB determina que o estabelecimento de ensino notifique a relação de alunos com excesso de faltas. O percentual de referência e os destinatários da notificação são:",
+      "alternativas": [
+        "20% das faltas, ao Conselho Escolar e à Secretaria de Educação.",
+        "Acima de 30% do percentual permitido em lei, ao Conselho Tutelar, ao juiz competente da Comarca e ao Ministério Público.",
+        "25% das faltas, apenas ao Conselho Tutelar.",
+        "50% das faltas, ao Ministério Público e à Delegacia da Criança.",
+        "Acima de 30% das faltas, exclusivamente aos pais ou responsáveis."
+      ],
+      "gabarito": 1,
+      "comentario": "São TRÊS destinatários simultâneos, e a banca costuma suprimir um deles ou trocar por órgãos que não constam da lei (Conselho Escolar, Secretaria, Delegacia). Atenção à redação exata: o gatilho é quantidade de faltas acima de 30% DO PERCENTUAL PERMITIDO em lei — não 30% das aulas.\n\nNão confunda com o art. 56 do ECA, que trata da comunicação ao Conselho Tutelar por reiteração de faltas e evasão, esgotados os recursos escolares.",
+      "fonte": "Gerado — Módulo 1, bloco 1.5"
+    },
+    {
+      "id": "leg-023",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "enunciado": "Nos termos do art. 13 da LDB, incumbe aos docentes:",
+      "alternativas": [
+        "Administrar o pessoal e os recursos materiais e financeiros da escola.",
+        "Velar pelo cumprimento do plano de trabalho de cada docente.",
+        "Zelar pela aprendizagem dos alunos e estabelecer estratégias de recuperação.",
+        "Assegurar o cumprimento dos dias letivos e horas-aula estabelecidos pela rede.",
+        "Notificar o Conselho Tutelar sobre a relação de alunos com excesso de faltas."
+      ],
+      "gabarito": 2,
+      "comentario": "A, B, D e E são incumbências do ESTABELECIMENTO DE ENSINO (art. 12), não do docente. Note a diferença fina em D: a escola ASSEGURA o cumprimento dos dias letivos; o docente MINISTRA os dias letivos e horas-aula. Sempre que a alternativa der ao professor um verbo forte de gestão — administrar, velar, assegurar, notificar —, desconfie.",
+      "fonte": "Gerado — Módulo 1, bloco 1.6"
+    },
+    {
+      "id": "leg-024",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "enunciado": "O art. 15 da LDB assegura às unidades escolares públicas de educação básica progressivos graus de autonomia:",
+      "alternativas": [
+        "Pedagógica, administrativa e de gestão financeira.",
+        "Pedagógica, curricular e orçamentária.",
+        "Administrativa, financeira e disciplinar.",
+        "Pedagógica e administrativa, vedada a autonomia financeira.",
+        "Plena em todos os aspectos, sem observância de normas gerais."
+      ],
+      "gabarito": 0,
+      "comentario": "São três graus, com a redação exata 'de gestão financeira' — e não 'financeira plena' nem 'orçamentária'. D erra ao vedar a dimensão financeira; E ignora a ressalva expressa do artigo, que sujeita a autonomia às normas gerais de direito financeiro público. Não confunda este artigo com o art. 14, que trata dos dois princípios da gestão democrática.",
+      "fonte": "Gerado — Módulo 1, bloco 1.7"
+    },
+    {
+      "id": "leg-025",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "enunciado": "O acesso à educação básica obrigatória é direito público subjetivo. Pode acionar o poder público para exigi-lo:",
+      "alternativas": [
+        "Apenas o Ministério Público.",
+        "Apenas os pais ou responsáveis pelo aluno.",
+        "Qualquer cidadão, grupo de cidadãos, associação comunitária, organização sindical, entidade de classe ou o Ministério Público.",
+        "Somente o Conselho Tutelar do Município.",
+        "Exclusivamente a Defensoria Pública, mediante representação."
+      ],
+      "gabarito": 2,
+      "comentario": "A legitimidade é amplíssima, e é justamente isso que caracteriza o direito público subjetivo. As alternativas erradas funcionam todas pela mesma técnica: restringir a um único legitimado. Some a isso o §2º do art. 208 da CF — a oferta irregular importa responsabilidade da autoridade competente.",
+      "fonte": "Gerado — Módulo 1, bloco 1.3"
+    },
+    {
+      "id": "leg-026",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "enunciado": "A educação básica obrigatória e gratuita, conforme a LDB e a Constituição, abrange a faixa etária:",
+      "alternativas": [
+        "Dos 6 aos 14 anos, correspondente ao ensino fundamental.",
+        "Dos 4 aos 17 anos, organizada em pré-escola, ensino fundamental e ensino médio.",
+        "Dos 0 aos 17 anos, incluída a creche.",
+        "Dos 4 aos 14 anos, excluído o ensino médio.",
+        "Dos 6 aos 17 anos, iniciando-se no 1º ano do fundamental."
+      ],
+      "gabarito": 1,
+      "comentario": "A obrigatoriedade começa aos 4 anos (pré-escola) e vai até os 17. C erra ao incluir a creche na obrigatoriedade: a educação infantil é gratuita às crianças de até 5 anos, mas só a PRÉ-ESCOLA é obrigatória. A e E excluem indevidamente a pré-escola; D exclui o ensino médio.\n\nGuarde o par: dever dos pais de efetuar a matrícula a partir dos 4 anos; ensino fundamental de 9 anos iniciando aos 6.",
+      "fonte": "Gerado — Módulo 1, bloco 1.3"
+    },
+    {
+      "id": "leg-027",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "enunciado": "As idades mínimas para inscrição em exames supletivos de Educação de Jovens e Adultos são:",
+      "alternativas": [
+        "14 anos para o ensino fundamental e 17 para o médio.",
+        "15 anos para o ensino fundamental e 18 para o médio.",
+        "16 anos para o ensino fundamental e 18 para o médio.",
+        "18 anos para ambos os níveis.",
+        "15 anos para ambos os níveis."
+      ],
+      "gabarito": 1,
+      "comentario": "15 e 18 são os números da LDB, e as alternativas erradas trabalham deslocando um deles em um ou dois anos. Associe pela lógica da idade própria: quem terminaria o fundamental aos 14 e o médio aos 17 pode prestar o exame um ano depois.",
+      "fonte": "Gerado — Módulo 1, bloco 1.11"
+    },
+    {
+      "id": "leg-028",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "enunciado": "Sobre o ensino religioso nas escolas públicas de ensino fundamental, a LDB e a Constituição estabelecem que é:",
+      "alternativas": [
+        "De oferta facultativa pela escola e matrícula obrigatória para o aluno.",
+        "De matrícula facultativa, constituindo disciplina dos horários normais.",
+        "Vedado nas escolas públicas, em razão da laicidade do Estado.",
+        "Obrigatório para todos os alunos, respeitada a diversidade de credos.",
+        "Ofertado apenas em turno contrário ao das aulas regulares."
+      ],
+      "gabarito": 1,
+      "comentario": "A inversão de A é a pegadinha padrão: a OFERTA é obrigatória para a escola, a MATRÍCULA é facultativa para o aluno. C confunde laicidade com proibição — a Constituição expressamente prevê a disciplina. E contraria a norma, que a situa nos horários NORMAIS das escolas.",
+      "fonte": "Gerado — Módulo 1, bloco 1.10"
+    },
+    {
+      "id": "leg-029",
+      "materia": "legislacao",
+      "tema": "constituicao",
+      "enunciado": "Conforme o art. 205 da Constituição Federal, a educação visa:",
+      "alternativas": [
+        "Ao pleno desenvolvimento da pessoa, seu preparo para o exercício da cidadania e sua qualificação para o trabalho.",
+        "Ao desenvolvimento intelectual e à inserção no mercado de trabalho.",
+        "À formação técnica e à empregabilidade dos egressos.",
+        "Ao desenvolvimento da pessoa e à sua profissionalização precoce.",
+        "À erradicação do analfabetismo e à universalização do ensino médio."
+      ],
+      "gabarito": 0,
+      "comentario": "A tríade é literal — PLENO DESENVOLVIMENTO, CIDADANIA, TRABALHO — e a banca troca 'qualificação para o trabalho' por 'inserção no mercado de trabalho', que soa parecido e está errado. E descreve objetivos do PNE (art. 214), não a finalidade do art. 205.\n\nA mesma tríade aparece na LDB (art. 2º) e no ECA (art. 53): três leis, uma redação.",
+      "fonte": "Gerado — Módulo 1, bloco 2.1"
+    },
+    {
+      "id": "leg-030",
+      "materia": "legislacao",
+      "tema": "constituicao",
+      "enunciado": "Os percentuais mínimos da receita resultante de impostos que devem ser aplicados na manutenção e desenvolvimento do ensino são:",
+      "alternativas": [
+        "18% para a União e 25% para Estados, DF e Municípios.",
+        "25% para a União e 18% para Estados, DF e Municípios.",
+        "18% para todos os entes federados.",
+        "25% para todos os entes federados.",
+        "20% para a União e 30% para Estados e Municípios."
+      ],
+      "gabarito": 0,
+      "comentario": "União 18%, demais entes 25%. B é a inversão clássica. Guarde dois detalhes que já foram cobrados: a parcela transferida pela União aos Estados e Municípios não é computada como receita de quem transferiu; e os programas suplementares de alimentação e assistência à saúde NÃO entram na conta dos mínimos vinculados, por serem financiados com contribuições sociais.",
+      "fonte": "Gerado — Módulo 1, bloco 2.5"
+    },
+    {
+      "id": "leg-031",
+      "materia": "legislacao",
+      "tema": "constituicao",
+      "enunciado": "O Plano Nacional de Educação, previsto no art. 214 da Constituição Federal, tem duração:",
+      "alternativas": [
+        "Quadrienal, coincidente com o mandato presidencial.",
+        "Quinquenal, revisado a cada dois anos.",
+        "Decenal, com o objetivo de articular o sistema nacional de educação.",
+        "Permanente, sem prazo definido de vigência.",
+        "Bienal, acompanhando o ciclo orçamentário."
+      ],
+      "gabarito": 2,
+      "comentario": "DECENAL é o adjetivo constitucional. A alternativa A explora a associação intuitiva com o mandato de governo, mas o PNE foi desenhado justamente para atravessar mandatos. Guarde junto os números da Lei 13.005/2014, que o materializa: 10 diretrizes e 20 metas, com meta de investimento de 7% do PIB no 5º ano e 10% ao final do decênio.",
+      "fonte": "Gerado — Módulo 1, bloco 2.6"
+    },
+    {
+      "id": "leg-032",
+      "materia": "legislacao",
+      "tema": "eca",
+      "enunciado": "Nos termos do ECA, considera-se:",
+      "alternativas": [
+        "Criança a pessoa até 12 anos completos e adolescente a de 12 a 18 anos.",
+        "Criança a pessoa até 12 anos incompletos e adolescente a de 12 a 18 anos de idade.",
+        "Criança a pessoa até 10 anos e adolescente a de 10 a 18 anos.",
+        "Criança a pessoa até 14 anos e adolescente a de 14 a 21 anos.",
+        "Criança a pessoa até 12 anos incompletos e adolescente a de 12 a 21 anos."
+      ],
+      "gabarito": 1,
+      "comentario": "A palavra decisiva é INCOMPLETOS: criança vai até os 12 anos incompletos, ou seja, até a véspera do 12º aniversário. A alternativa A troca por 'completos' e produz uma sobreposição de faixas. E antecipa a regra excepcional: o Estatuto só se aplica a pessoas entre 18 e 21 anos nos casos EXPRESSOS em lei, não como regra geral.",
+      "fonte": "Gerado — Módulo 1, bloco 3.1"
+    },
+    {
+      "id": "leg-033",
+      "materia": "legislacao",
+      "tema": "eca",
+      "enunciado": "A garantia de ABSOLUTA PRIORIDADE prevista no art. 4º do ECA compreende:",
+      "alternativas": [
+        "Apenas a destinação privilegiada de recursos públicos à infância.",
+        "Primazia de proteção e socorro, precedência de atendimento nos serviços públicos, preferência na formulação e execução de políticas sociais e destinação privilegiada de recursos.",
+        "Preferência de atendimento apenas em situações de risco comprovado.",
+        "Prioridade de matrícula na escola mais próxima da residência.",
+        "Atendimento preferencial em creches e pré-escolas da rede pública."
+      ],
+      "gabarito": 1,
+      "comentario": "São quatro alíneas e a banca costuma pedir exatamente elas. As alternativas erradas reduzem a garantia a uma só dimensão (A), condicionam-na a risco comprovado (C) — o que contraria a incondicionalidade do dispositivo — ou a confundem com direitos específicos da educação previstos nos arts. 53 e 54 (D e E).",
+      "fonte": "Gerado — Módulo 1, bloco 3.1"
+    },
+    {
+      "id": "leg-034",
+      "materia": "legislacao",
+      "tema": "eca",
+      "enunciado": "Segundo o ECA, com a redação dada pela Lei Menino Bernardo, tratamento cruel ou degradante caracteriza-se por:",
+      "alternativas": [
+        "Uso da força física que resulte em sofrimento ou lesão.",
+        "Conduta que humilhe, ameace gravemente ou ridicularize a criança ou o adolescente.",
+        "Qualquer forma de repreensão verbal aplicada pelos pais.",
+        "Ato de negligência quanto à alimentação e à higiene.",
+        "Aplicação de medida disciplinar sem prévia autorização judicial."
+      ],
+      "gabarito": 1,
+      "comentario": "A descreve o CASTIGO FÍSICO, que é o outro conceito do mesmo artigo — a diferença está em que o castigo físico exige força física e sofrimento ou lesão, enquanto o tratamento cruel dispensa contato físico e se caracteriza pela humilhação, ameaça grave ou ridicularização. C exagera: nem toda repreensão verbal configura tratamento cruel. D descreve negligência, categoria distinta.",
+      "fonte": "Gerado — Módulo 1, bloco 3.3"
+    },
+    {
+      "id": "leg-035",
+      "materia": "legislacao",
+      "tema": "eca",
+      "enunciado": "Sobre a distinção entre o Conselho Tutelar e o Conselho Municipal dos Direitos da Criança e do Adolescente (CMDCA), é correto afirmar:",
+      "alternativas": [
+        "Ambos atuam em casos concretos, diferindo apenas na forma de escolha dos membros.",
+        "O Conselho Tutelar atua em casos concretos; o CMDCA é deliberativo e controlador das políticas, com composição paritária.",
+        "O CMDCA atende crianças em situação de violação de direitos e aplica medidas de proteção.",
+        "O Conselho Tutelar formula as políticas públicas de atendimento e fiscaliza sua execução.",
+        "Ambos têm composição paritária entre governo e sociedade civil."
+      ],
+      "gabarito": 1,
+      "comentario": "A regra de memória resolve: Tutelar cuida do CASO; de Direitos cuida da POLÍTICA. C e D simplesmente trocam as funções dos dois órgãos. E atribui ao Conselho Tutelar a paridade, que é característica do CMDCA — o Tutelar tem 5 membros escolhidos pela população, não representantes de governo e sociedade civil.\n\nDetalhe cobrado: é o CMDCA que organiza o processo de escolha do Conselho Tutelar, sob fiscalização do Ministério Público.",
+      "fonte": "Gerado — Módulo 1, bloco 4.3"
+    },
+    {
+      "id": "leg-036",
+      "materia": "legislacao",
+      "tema": "bncc-dcn",
+      "enunciado": "Na BNCC, o código de habilidade EF06CI03 indica:",
+      "alternativas": [
+        "Terceira habilidade de Ciências do 6º ano do Ensino Fundamental.",
+        "Sexta habilidade de Ciências do 3º ano do Ensino Fundamental.",
+        "Terceira competência específica de Ciências da Natureza no Ensino Fundamental.",
+        "Habilidade 63 do componente Ciências, sem indicação de ano.",
+        "Terceiro objeto de conhecimento do 6º ano em Ciências Humanas."
+      ],
+      "gabarito": 0,
+      "comentario": "A leitura do código é posicional: EF = etapa (Ensino Fundamental), 06 = ano, CI = componente curricular (Ciências), 03 = número sequencial da habilidade. B inverte ano e sequência; C confunde habilidade com competência específica; E troca o componente.\n\nNa Educação Infantil (EI) os dois dígitos indicam o grupo etário; no Ensino Médio (EM), a área.",
+      "fonte": "Gerado — Módulo 1, bloco 5.5"
+    },
+    {
+      "id": "leg-037",
+      "materia": "legislacao",
+      "tema": "bncc-dcn",
+      "enunciado": "Os cinco campos de experiências que organizam a Educação Infantil na BNCC incluem:",
+      "alternativas": [
+        "Linguagens, Matemática, Ciências da Natureza, Ciências Humanas e Ensino Religioso.",
+        "O eu, o outro e o nós; Corpo, gestos e movimentos; Traços, sons, cores e formas; Escuta, fala, pensamento e imaginação; Espaços, tempos, quantidades, relações e transformações.",
+        "Conviver, brincar, participar, explorar e expressar.",
+        "Cuidar, educar, brincar, interagir e avaliar.",
+        "Bebês, crianças bem pequenas e crianças pequenas."
+      ],
+      "gabarito": 1,
+      "comentario": "A lista as cinco ÁREAS DO CONHECIMENTO do Ensino Fundamental, não os campos de experiências. C traz os direitos de aprendizagem e desenvolvimento, que são seis (falta 'conhecer-se') — outro conceito do mesmo documento. E traz os três grupos por faixa etária. A confusão entre campos de experiências, direitos de aprendizagem e grupos etários é o miolo desta questão.",
+      "fonte": "Gerado — Módulo 1, bloco 5.4"
+    },
+    {
+      "id": "leg-038",
+      "materia": "legislacao",
+      "tema": "normativos-recentes",
+      "enunciado": "A Política Nacional de Educação Digital, instituída pela Lei 14.533/2023, estrutura-se nos eixos:",
+      "alternativas": [
+        "Inclusão digital; educação digital escolar; capacitação e especialização digital; e pesquisa e desenvolvimento em TIC.",
+        "Conectividade, equipamentos, formação docente e proteção de dados.",
+        "Cultura digital, pensamento computacional, letramento midiático e cidadania digital.",
+        "Infraestrutura, currículo e avaliação.",
+        "Inclusão digital e educação digital escolar, apenas."
+      ],
+      "gabarito": 0,
+      "comentario": "São quatro eixos estruturantes, com essa nomenclatura. C lista os componentes da integração curricular prevista na Resolução CNE/CEB 02/2025 — conteúdo próximo, norma diferente. E suprime dois eixos; B e D descrevem objetivos ou meios, não a estrutura da política.",
+      "fonte": "Gerado — Módulo 1, bloco 6.4"
+    },
+    {
+      "id": "leg-039",
+      "materia": "legislacao",
+      "tema": "leis-avulsas",
+      "enunciado": "A Lei 13.722/2018 (Lei Lucas) determina que a capacitação em noções básicas de primeiros socorros seja:",
+      "alternativas": [
+        "Realizada uma única vez, no ato da contratação do profissional.",
+        "Realizada anualmente, alcançando professores e funcionários de estabelecimentos públicos e privados de educação básica.",
+        "Facultativa para as escolas privadas.",
+        "Restrita aos profissionais da educação infantil.",
+        "Realizada a cada cinco anos, exclusivamente por profissionais do SAMU."
+      ],
+      "gabarito": 1,
+      "comentario": "A periodicidade é ANUAL e o alcance é amplo: professores e funcionários, rede pública e privada, incluídos os estabelecimentos de recreação infantil. C e D restringem indevidamente o alcance; A e E erram a periodicidade. A lei exige ainda que o estabelecimento disponha de kit de primeiros socorros.",
+      "fonte": "Gerado — Módulo 1, bloco 7.3"
+    },
+    {
+      "id": "leg-040",
+      "materia": "legislacao",
+      "tema": "leis-avulsas",
+      "enunciado": "O Marco Legal da Primeira Infância (Lei 13.257/2016) define primeira infância como o período que abrange:",
+      "alternativas": [
+        "Os primeiros 3 anos completos, ou 36 meses de vida.",
+        "Os primeiros 6 anos completos, ou 72 meses de vida.",
+        "Os primeiros 5 anos completos, ou 60 meses de vida.",
+        "O período da creche, dos 0 aos 3 anos.",
+        "Toda a educação infantil, dos 0 aos 5 anos e 11 meses."
+      ],
+      "gabarito": 1,
+      "comentario": "Seis anos completos, ou 72 meses — a lei enuncia as duas formas, e a banca costuma manter os anos e errar os meses (ou vice-versa). C e E confundem o marco legal com a faixa de atendimento da educação infantil, que vai até 5 anos; D confunde com a etapa creche.",
+      "fonte": "Gerado — Módulo 1, bloco 7.4"
+    },
+    {
+      "id": "ped-001",
+      "materia": "pedagogia",
+      "tema": "tendencias-autores",
+      "enunciado": "A concepção pedagógica que se caracteriza pela ênfase em objetivos operacionais, eficiência e planejamento por especialistas externos à sala de aula é a:",
+      "alternativas": ["Tradicional", "Renovada", "Tecnicista", "Libertadora", "Histórico-crítica"],
+      "gabarito": 2,
+      "comentario": "Objetivos operacionais, eficiência e instrução programada são marcas do tecnicismo. A tradicional centra-se no conteúdo e na autoridade do professor; a renovada, no interesse do aluno; a libertadora, no diálogo e na conscientização; a histórico-crítica, na relação entre educação e sociedade.",
+      "fonte": "Módulo 2, questão 1"
+    },
+    {
+      "id": "ped-002",
+      "materia": "pedagogia",
+      "tema": "tendencias-autores",
+      "enunciado": "Os cinco passos do método pedagógico proposto por Saviani são, na ordem:",
+      "alternativas": [
+        "Diagnóstico, planejamento, execução, avaliação e replanejamento",
+        "Prática social inicial, problematização, instrumentalização, catarse e prática social final",
+        "Sensibilização, exposição, exercício, fixação e verificação",
+        "Motivação, apresentação, assimilação, generalização e aplicação",
+        "Observação, hipótese, experimentação, análise e conclusão"
+      ],
+      "gabarito": 1,
+      "comentario": "O método começa e termina na prática social, e a catarse é o momento de síntese e incorporação do novo saber. As demais alternativas descrevem sequências didáticas de outras tradições ou modelos de projeto instrucional.\n\nA palavra CATARSE é praticamente exclusiva de Saviani no vocabulário pedagógico. Se aparecer, é ele.",
+      "fonte": "Módulo 2, questão 2"
+    },
+    {
+      "id": "ped-003",
+      "materia": "pedagogia",
+      "tema": "didatica-curriculo",
+      "enunciado": "Segundo Zabala, a capacidade de utilizar corretamente um instrumento de medida em laboratório corresponde a conteúdo:",
+      "alternativas": ["Factual", "Conceitual", "Procedimental", "Atitudinal", "Transversal"],
+      "gabarito": 2,
+      "comentario": "Procedimentos são habilidades e técnicas, aprendidos por exercitação progressiva com reflexão sobre a ação. Factual seria lembrar o nome do instrumento; conceitual, compreender o princípio físico envolvido; atitudinal, o cuidado com o material coletivo. 'Transversal' não é tipo de conteúdo na classificação do autor.",
+      "fonte": "Módulo 2, questão 3"
+    },
+    {
+      "id": "ped-004",
+      "materia": "pedagogia",
+      "tema": "avaliacao",
+      "enunciado": "Para Luckesi, a diferença essencial entre exame e avaliação da aprendizagem está em que a avaliação:",
+      "alternativas": [
+        "É mais rigorosa e utiliza instrumentos padronizados",
+        "É diagnóstica e subsidia decisões pedagógicas, sendo processual e inclusiva",
+        "Ocorre exclusivamente ao final do período letivo",
+        "Dispensa o registro dos resultados",
+        "Substitui a atribuição de notas por conceitos"
+      ],
+      "gabarito": 1,
+      "comentario": "A avaliação é processual, diagnóstica e voltada à decisão; o exame é pontual, classificatório e excludente. A alternativa E confunde a crítica de Luckesi com uma mudança meramente formal de instrumento — trocar nota por conceito sem mudar a função continua sendo exame.",
+      "fonte": "Módulo 2, questão 4"
+    },
+    {
+      "id": "ped-005",
+      "materia": "pedagogia",
+      "tema": "didatica-curriculo",
+      "enunciado": "Sobre o Projeto Político-Pedagógico, é correto afirmar que:",
+      "alternativas": [
+        "Deve ser elaborado pelo diretor e apresentado à equipe para ciência",
+        "É documento burocrático exigido pela secretaria de educação",
+        "É construído coletivamente e expressa a identidade e as opções da escola",
+        "Substitui o regimento escolar",
+        "Tem validade permanente, dispensando revisão"
+      ],
+      "gabarito": 2,
+      "comentario": "O PPP é construção coletiva (LDB, art. 14, I) e documento vivo, revisto periodicamente. É político porque expressa opções e compromissos, e pedagógico porque define a ação educativa. Não substitui o regimento, que trata da organização e das normas.\n\nEm prova de Diretor, a alternativa que atribuir a elaboração do PPP ao diretor sozinho ou à secretaria está sempre errada.",
+      "fonte": "Módulo 2, questão 5"
+    },
+    {
+      "id": "ped-006",
+      "materia": "pedagogia",
+      "tema": "inclusao-diversidade",
+      "enunciado": "A distinção entre integração e inclusão escolar, conforme Mantoan, indica que na inclusão:",
+      "alternativas": [
+        "O aluno com deficiência deve adaptar-se às condições existentes na escola",
+        "A escola se transforma para acolher a diferença, removendo barreiras",
+        "O atendimento ocorre preferencialmente em classes especiais",
+        "A matrícula na rede regular depende de avaliação prévia de capacidade",
+        "Os serviços especializados substituem a escolarização comum"
+      ],
+      "gabarito": 1,
+      "comentario": "A inversão de quem se adapta a quem é o núcleo da distinção. As alternativas A, C, D e E descrevem a lógica da INTEGRAÇÃO ou contrariam a legislação vigente, que assegura a matrícula na rede regular como regra e o AEE como não substitutivo.",
+      "fonte": "Módulo 2, questão 6"
+    },
+    {
+      "id": "ped-007",
+      "materia": "pedagogia",
+      "tema": "gestao-escolar",
+      "enunciado": "O IDEB é composto pela combinação de:",
+      "alternativas": [
+        "Desempenho em avaliações externas e fluxo escolar",
+        "Frequência dos alunos e formação dos professores",
+        "Investimento por aluno e resultados do Saeb",
+        "Taxa de aprovação e índice de distorção idade-série",
+        "Nota do Enem e taxa de conclusão"
+      ],
+      "gabarito": 0,
+      "comentario": "Desempenho (Saeb) × fluxo (aprovação). Foi construído assim justamente para que nem aprovar em massa sem aprendizagem, nem reprovar em massa, melhorem isoladamente o índice. D cita dois indicadores de fluxo, sem o componente de desempenho.",
+      "fonte": "Módulo 2, questão 7"
+    },
+    {
+      "id": "ped-008",
+      "materia": "pedagogia",
+      "tema": "gestao-escolar",
+      "enunciado": "Os saberes docentes, segundo Tardif, classificam-se em:",
+      "alternativas": [
+        "Teóricos e práticos",
+        "Da formação profissional, disciplinares, curriculares e experienciais",
+        "Científicos, pedagógicos e tecnológicos",
+        "Prévios, construídos e consolidados",
+        "Individuais e institucionais"
+      ],
+      "gabarito": 1,
+      "comentario": "Tardif destaca que o saber docente é plural, temporal e situado, e que os saberes experienciais — construídos no exercício cotidiano — tendem a ser os mais valorizados pelos próprios professores. As demais alternativas propõem dicotomias simplificadoras que não constam da obra.",
+      "fonte": "Módulo 2, questão 8"
+    },
+    {
+      "id": "ped-009",
+      "materia": "pedagogia",
+      "tema": "gestao-escolar",
+      "enunciado": "O conceito de 'reflexão na ação', de Donald Schön, refere-se ao processo de:",
+      "alternativas": [
+        "Analisar a prática depois de encerrada, em momento de formação",
+        "Ajustar a prática durante sua realização, a partir da leitura da situação",
+        "Planejar a aula antecipadamente com base na teoria",
+        "Avaliar os alunos ao final de cada unidade",
+        "Registrar por escrito as ocorrências da aula"
+      ],
+      "gabarito": 1,
+      "comentario": "A reflexão NA ação ocorre durante a prática, em tempo real. A alternativa A descreve a reflexão SOBRE a ação. Schön ainda propõe um terceiro nível: a reflexão sobre a reflexão na ação, metanálise que constrói repertório profissional.",
+      "fonte": "Módulo 2, questão 9"
+    },
+    {
+      "id": "ped-010",
+      "materia": "pedagogia",
+      "tema": "tendencias-autores",
+      "enunciado": "Sobre alfabetização e letramento, segundo Magda Soares, é correto afirmar:",
+      "alternativas": [
+        "São sinônimos",
+        "Letramento antecede necessariamente a alfabetização",
+        "São processos distintos e simultâneos: alfabetizar letrando",
+        "A alfabetização dispensa o ensino explícito do sistema de escrita",
+        "O letramento só se inicia após o domínio ortográfico"
+      ],
+      "gabarito": 2,
+      "comentario": "Alfabetização é a apropriação do sistema de escrita; letramento é o uso social da leitura e da escrita. Soares recusa tanto tratá-los como sinônimos (A) quanto colocá-los em sequência, em qualquer das duas ordens (B e E). D contraria a autora, que defende o ensino explícito do sistema.",
+      "fonte": "Módulo 2, questão 10"
+    },
+    {
+      "id": "ped-011",
+      "materia": "pedagogia",
+      "tema": "gestao-escolar",
+      "enunciado": "Na concepção democrático-participativa de gestão escolar defendida por Libâneo:",
+      "alternativas": [
+        "As decisões são centralizadas no diretor, garantindo agilidade",
+        "Recusam-se normas e formas de controle, em favor da participação direta",
+        "Articulam-se a direção e a participação, com decisões coletivas e responsabilização",
+        "A organização é entendida apenas como construção subjetiva de significados",
+        "A gestão é técnica e neutra, alheia a disputas de projeto"
+      ],
+      "gabarito": 2,
+      "comentario": "A alternativa A descreve a técnico-científica; B, a autogestionária; D, a interpretativa. A democrático-participativa não elimina a direção — articula direção com participação, e decisões coletivas com responsabilização individual.",
+      "fonte": "Módulo 2, questão 11"
+    },
+    {
+      "id": "ped-012",
+      "materia": "pedagogia",
+      "tema": "didatica-curriculo",
+      "enunciado": "O currículo oculto pode ser definido como:",
+      "alternativas": [
+        "Os conteúdos previstos e não ministrados por falta de tempo",
+        "O conjunto de valores, normas e relações transmitidos sem estar prescrito nos documentos",
+        "A parte diversificada do currículo definida pela escola",
+        "O planejamento individual de cada professor",
+        "Os conteúdos das avaliações externas não constantes da BNCC"
+      ],
+      "gabarito": 1,
+      "comentario": "O currículo oculto se transmite pelas rotinas, hierarquias, formas de tratamento e organização do espaço — sem estar escrito. Distingue-se do currículo formal (o prescrito) e do currículo real (o efetivamente praticado). A alternativa A descreve uma lacuna do currículo real, não o oculto.",
+      "fonte": "Módulo 2, questão 12"
+    },
+    {
+      "id": "ped-013",
+      "materia": "pedagogia",
+      "tema": "gestao-escolar",
+      "enunciado": "Diante de um conflito entre uma família e um professor sobre critérios de avaliação, a conduta mais adequada do Diretor é:",
+      "alternativas": [
+        "Decidir imediatamente em favor do professor, para preservar sua autoridade",
+        "Encaminhar o caso ao Conselho Tutelar",
+        "Ouvir as partes, verificar a coerência dos critérios com o PPP e levar o caso ao colegiado quando necessário",
+        "Orientar a família a procurar a secretaria de educação",
+        "Alterar a nota do aluno para encerrar o conflito"
+      ],
+      "gabarito": 2,
+      "comentario": "O padrão de resposta correta em gestão de conflito envolve escuta de todas as partes, referência ao que está institucionalmente pactuado e decisão coletiva quando cabível. B transfere à rede de proteção um problema pedagógico; A e E são decisões isoladas do diretor, em sentidos opostos e ambas erradas; D esquiva a escola de sua responsabilidade.\n\nO ECA assegura ao aluno contestar critérios avaliativos e recorrer às instâncias escolares superiores.",
+      "fonte": "Módulo 2, questão 13"
+    },
+    {
+      "id": "ped-014",
+      "materia": "pedagogia",
+      "tema": "didatica-curriculo",
+      "enunciado": "O modelo TPACK indica que a competência do professor para o uso de tecnologias está:",
+      "alternativas": [
+        "No domínio técnico dos equipamentos",
+        "Na interseção entre os conhecimentos tecnológico, pedagógico e do conteúdo",
+        "Na formação específica em informática educativa",
+        "Na quantidade de recursos digitais disponíveis na escola",
+        "Na substituição dos materiais impressos por digitais"
+      ],
+      "gabarito": 1,
+      "comentario": "A competência não está em nenhum dos três conhecimentos isoladamente, mas na articulação entre eles. Dominar a ferramenta sem saber para que ensiná-la e em qual conteúdo não produz uso pedagógico relevante — é exatamente o que A e C descrevem.",
+      "fonte": "Módulo 2, questão 14"
+    },
+    {
+      "id": "ped-015",
+      "materia": "pedagogia",
+      "tema": "inclusao-diversidade",
+      "enunciado": "Sobre a educação em direitos humanos na educação básica, conforme as Diretrizes Nacionais, é correto afirmar que:",
+      "alternativas": [
+        "Deve constituir disciplina obrigatória e autônoma no currículo",
+        "Pode ser desenvolvida de forma transversal, como conteúdo específico ou de maneira mista",
+        "Restringe-se a atividades comemorativas em datas específicas",
+        "É facultativa aos sistemas de ensino",
+        "Aplica-se apenas ao ensino médio"
+      ],
+      "gabarito": 1,
+      "comentario": "O Parecer CNE/CP 08/2012 admite as três formas de inserção curricular — por isso A está errada ao impor uma só. A educação em direitos humanos alcança não só o currículo, mas também a gestão democrática, a formação docente e a convivência escolar, o que afasta C e E.",
+      "fonte": "Módulo 2, questão 15"
+    },
+    {
+      "id": "ped-016",
+      "materia": "pedagogia",
+      "tema": "tendencias-autores",
+      "enunciado": "A expressão 'educação bancária', criticada por Paulo Freire, designa a concepção em que:",
+      "alternativas": [
+        "O currículo é organizado a partir do interesse espontâneo do aluno.",
+        "O educador deposita conteúdos no educando, tratado como recipiente vazio.",
+        "O ensino é planejado por especialistas segundo objetivos operacionais.",
+        "A escola socializa o saber elaborado às camadas populares.",
+        "O aluno constrói o conhecimento sem intervenção do professor."
+      ],
+      "gabarito": 1,
+      "comentario": "A metáfora do depósito é literal em Freire, que lhe opõe a educação problematizadora, dialógica, partindo dos temas geradores. A descreve a Escola Nova; C, o tecnicismo; D, Saviani. E é uma caricatura construtivista que Freire não defende — ele nunca dispensa o educador, apenas recusa a transferência unilateral.\n\nErro comum: confundir Freire com a Escola Nova porque ambos valorizam o aluno. Freire é político e coletivo; a Escola Nova é psicológica e individual.",
+      "fonte": "Gerado — Módulo 2, bloco 1.3"
+    },
+    {
+      "id": "ped-017",
+      "materia": "pedagogia",
+      "tema": "didatica-curriculo",
+      "enunciado": "Para Libâneo, os três componentes indissociáveis do processo de ensino são:",
+      "alternativas": [
+        "Planejamento, execução e avaliação.",
+        "Objetivos, conteúdos e métodos.",
+        "Professor, aluno e conhecimento.",
+        "Currículo, didática e gestão.",
+        "Diagnóstico, intervenção e registro."
+      ],
+      "gabarito": 1,
+      "comentario": "Objetivos, conteúdos e métodos formam a tríade didática de Libâneo — o que se pretende, o que se ensina e como se ensina. A descreve as etapas do trabalho pedagógico, não os componentes do processo de ensino; C descreve os polos da relação didática, categoria distinta.\n\nLembre também que Libâneo define o ensino como BILATERAL: combina a atividade do professor e a do aluno.",
+      "fonte": "Gerado — Módulo 2, bloco 2.1"
+    },
+    {
+      "id": "ped-018",
+      "materia": "pedagogia",
+      "tema": "didatica-curriculo",
+      "enunciado": "Celso Vasconcellos distingue três níveis de planejamento. O plano de trabalho do professor com sua turma, que faz a mediação entre o PPP e a sala de aula, é o:",
+      "alternativas": [
+        "Projeto Político-Pedagógico.",
+        "Projeto de Ensino-Aprendizagem.",
+        "Plano de aula.",
+        "Regimento escolar.",
+        "Plano de gestão."
+      ],
+      "gabarito": 1,
+      "comentario": "A hierarquia é: PPP (plano global da instituição) → Projeto de Ensino-Aprendizagem (do professor com a turma) → plano de curso e plano de aula (detalhamento operacional de curto prazo). C erra por descer um nível; A, por subir um. D não é instrumento de planejamento, e sim de organização e normas.",
+      "fonte": "Gerado — Módulo 2, bloco 2.3"
+    },
+    {
+      "id": "ped-019",
+      "materia": "pedagogia",
+      "tema": "didatica-curriculo",
+      "enunciado": "As três dimensões do Projeto Político-Pedagógico, segundo Vasconcellos, são:",
+      "alternativas": [
+        "Marco referencial, diagnóstico e programação.",
+        "Introdução, desenvolvimento e conclusão.",
+        "Missão, visão e valores.",
+        "Objetivos, metas e indicadores.",
+        "Marco situacional, marco doutrinal e marco operativo."
+      ],
+      "gabarito": 0,
+      "comentario": "Marco referencial (o que queremos), diagnóstico (o que temos e o que falta) e programação (o que faremos para superar a distância entre os dois). A alternativa E é uma armadilha bem construída: esses três marcos existem, mas são as subdivisões INTERNAS do marco referencial, não as dimensões do PPP. C importa vocabulário de planejamento estratégico empresarial.",
+      "fonte": "Gerado — Módulo 2, bloco 2.3"
+    },
+    {
+      "id": "ped-020",
+      "materia": "pedagogia",
+      "tema": "didatica-curriculo",
+      "enunciado": "Na classificação de Zabala, 'respeitar a opinião divergente do colega' constitui conteúdo:",
+      "alternativas": ["Factual", "Conceitual", "Procedimental", "Atitudinal", "Conceitual e procedimental"],
+      "gabarito": 3,
+      "comentario": "Valores, atitudes e normas formam os conteúdos atitudinais, aprendidos pela vivência, pelo exemplo e pela participação em situações reais — não por explicação nem por exercitação. Factual seria memorizar uma data; conceitual, compreender o conceito de tolerância; procedimental, dominar uma técnica de mediação.\n\nPergunta que resolve a maioria dos casos: o conteúdo exige lembrar, compreender, executar ou conviver?",
+      "fonte": "Gerado — Módulo 2, bloco 2.2"
+    },
+    {
+      "id": "ped-021",
+      "materia": "pedagogia",
+      "tema": "avaliacao",
+      "enunciado": "A avaliação realizada ao longo do processo, com a finalidade de regular o ensino e a aprendizagem enquanto ainda há tempo de intervir, denomina-se:",
+      "alternativas": ["Diagnóstica", "Formativa", "Somativa", "Classificatória", "Externa"],
+      "gabarito": 1,
+      "comentario": "A palavra-chave é 'ao longo' com finalidade de regulação. A diagnóstica ocorre no INÍCIO, para identificar conhecimentos prévios; a somativa, ao FINAL, para verificar resultados e certificar. A banca costuma deslocar a formativa para o fim do processo — é o erro mais comum do tópico.\n\nA LDB opta pela lógica formativa ao determinar prevalência dos resultados ao longo do período sobre os de eventuais provas finais.",
+      "fonte": "Gerado — Módulo 2, bloco 3.2"
+    },
+    {
+      "id": "ped-022",
+      "materia": "pedagogia",
+      "tema": "avaliacao",
+      "enunciado": "Conforme a Resolução CNE/CEB 05/2009, a avaliação na Educação Infantil deve:",
+      "alternativas": [
+        "Ser realizada por meio de provas bimestrais adaptadas à faixa etária.",
+        "Fazer-se mediante acompanhamento e registro do desenvolvimento, sem objetivo de seleção, promoção ou classificação.",
+        "Definir a promoção da criança para a etapa seguinte.",
+        "Classificar as crianças por nível de desempenho ao final do ano.",
+        "Ser dispensada, por não haver aprendizagem formal nessa etapa."
+      ],
+      "gabarito": 1,
+      "comentario": "A tríade proibida é seleção, promoção e classificação — e é exatamente ela que A, C e D violam, cada uma por um ângulo. E vai ao extremo oposto e também erra: há avaliação, feita por acompanhamento e registro, apenas sem função classificatória.",
+      "fonte": "Gerado — Módulo 2, bloco 3.2"
+    },
+    {
+      "id": "ped-023",
+      "materia": "pedagogia",
+      "tema": "inclusao-diversidade",
+      "enunciado": "Descreve a lógica da INTEGRAÇÃO escolar, e não da inclusão, a afirmação de que:",
+      "alternativas": [
+        "A escola repensa currículo, práticas e organização para receber todos os alunos.",
+        "O foco da intervenção está nas barreiras presentes no ambiente escolar.",
+        "O aluno é inserido na classe comum se demonstrar capacidade de acompanhar o currículo mantido.",
+        "O apoio especializado ocorre dentro do percurso comum, sem substituí-lo.",
+        "O direito à escola comum é incondicional."
+      ],
+      "gabarito": 2,
+      "comentario": "A condicionalidade é a marca da integração: o aluno se adapta à escola e permanece 'se puder'. As demais alternativas descrevem a inclusão como formulada por Mantoan — é a escola que se transforma, o foco desloca-se da deficiência do sujeito para as barreiras do ambiente, e o direito é incondicional.",
+      "fonte": "Gerado — Módulo 2, bloco 4.1"
+    },
+    {
+      "id": "ped-024",
+      "materia": "pedagogia",
+      "tema": "inclusao-diversidade",
+      "enunciado": "O Atendimento Educacional Especializado é SUPLEMENTAR para estudantes:",
+      "alternativas": [
+        "Com deficiência.",
+        "Com transtornos globais do desenvolvimento.",
+        "Com altas habilidades ou superdotação.",
+        "Com dificuldades de aprendizagem em geral.",
+        "Em distorção idade-série."
+      ],
+      "gabarito": 2,
+      "comentario": "SUPLEMENTAR é para altas habilidades ou superdotação — suplementa, enriquece e aprofunda. Para deficiência e transtornos globais do desenvolvimento o AEE é COMPLEMENTAR, isto é, complementa o que a escolarização comum oferece (Libras, Braille, tecnologia assistiva). D e E descrevem públicos que não integram o público-alvo da educação especial.\n\nEm nenhuma hipótese o AEE substitui a escolarização comum.",
+      "fonte": "Gerado — Módulo 2, bloco 4.2"
+    },
+    {
+      "id": "ped-025",
+      "materia": "pedagogia",
+      "tema": "inclusao-diversidade",
+      "enunciado": "As seis dimensões da acessibilidade compreendem:",
+      "alternativas": [
+        "Arquitetônica, comunicacional, atitudinal, metodológica, instrumental e programática.",
+        "Física, sensorial, intelectual, social, digital e econômica.",
+        "Arquitetônica, tecnológica, pedagógica, familiar, comunitária e institucional.",
+        "Estrutural, curricular, avaliativa, formativa, orçamentária e normativa.",
+        "Espacial, temporal, material, humana, digital e legal."
+      ],
+      "gabarito": 0,
+      "comentario": "A lista é fechada e a banca costuma trocar um ou dois termos por sinônimos aparentes — 'física' por arquitetônica, 'pedagógica' por metodológica. Vale memorizar a sequência inteira: a dimensão ATITUDINAL (barreiras nas atitudes e nos preconceitos) e a PROGRAMÁTICA (barreiras embutidas em normas e políticas) são as mais esquecidas e as mais cobradas.",
+      "fonte": "Gerado — Módulo 2, bloco 4.2"
+    },
+    {
+      "id": "ped-026",
+      "materia": "pedagogia",
+      "tema": "gestao-escolar",
+      "enunciado": "O Conselho de Escola caracteriza-se por ser órgão:",
+      "alternativas": [
+        "Consultivo apenas, sem poder de decisão sobre o PPP.",
+        "Colegiado deliberativo e consultivo, com representação de todos os segmentos da comunidade escolar.",
+        "De direito privado, sem fins lucrativos, voltado à gestão de recursos.",
+        "Composto exclusivamente por docentes e pela direção.",
+        "Vinculado à secretaria de educação, com membros por ela designados."
+      ],
+      "gabarito": 1,
+      "comentario": "A natureza é dupla — deliberativa e consultiva — e a representação abrange docentes, funcionários, pais, alunos e direção. C descreve a APM (Associação de Pais e Mestres); D suprime os segmentos não docentes, esvaziando a gestão democrática; E contraria a lógica da representação, já que os membros são escolhidos pelos próprios segmentos.",
+      "fonte": "Gerado — Módulo 2, bloco 5.1"
+    },
+    {
+      "id": "ped-027",
+      "materia": "pedagogia",
+      "tema": "gestao-escolar",
+      "enunciado": "Em uma situação de conflito escolar, constitui marca típica da conduta INADEQUADA do gestor:",
+      "alternativas": [
+        "Escutar todas as partes antes de formar juízo.",
+        "Distinguir o problema pedagógico do disciplinar e do de proteção.",
+        "Excluir o aluno do convívio como primeira medida.",
+        "Registrar o ocorrido e dar retorno formal às partes.",
+        "Acionar a rede de proteção quando houver indício de violação de direitos."
+      ],
+      "gabarito": 2,
+      "comentario": "A exclusão como primeira medida inverte a lógica do ECA e da função pedagógica da escola: a resposta deve ser formativa antes de restritiva. As demais alternativas reproduzem o padrão da conduta correta.\n\nOutras marcas da alternativa errada em questões desse tipo: o diretor decide sozinho; a escola transfere ao Conselho Tutelar um problema pedagógico; a escola oculta o caso da família; a resposta é apenas punitiva.",
+      "fonte": "Gerado — Módulo 2, bloco 5.2"
+    },
+    {
+      "id": "ped-028",
+      "materia": "pedagogia",
+      "tema": "didatica-curriculo",
+      "enunciado": "Na metodologia conhecida como sala de aula invertida:",
+      "alternativas": [
+        "O aluno assume o papel de professor durante parte das aulas.",
+        "O primeiro contato com o conteúdo ocorre fora da aula, e o tempo presencial é usado para aplicação e discussão.",
+        "As avaliações antecedem a exposição do conteúdo.",
+        "O conteúdo é integralmente substituído por videoaulas.",
+        "A ordem dos componentes curriculares é alterada a cada bimestre."
+      ],
+      "gabarito": 1,
+      "comentario": "O que se inverte é o MOMENTO do primeiro contato com o conteúdo, não os papéis (A) nem a ordem das avaliações (C) ou dos componentes (E). D confunde o método com mera troca de suporte — e é exatamente contra isso que Moran adverte: colocar vídeo no lugar do livro sem mudar a concepção de ensino não altera nada.",
+      "fonte": "Gerado — Módulo 2, bloco 5.4"
+    },
+    {
+      "id": "ped-029",
+      "materia": "pedagogia",
+      "tema": "tendencias-autores",
+      "enunciado": "A tese de que o currículo é um 'território em disputa', e não uma lista neutra de conteúdos, é associada a:",
+      "alternativas": ["Cipriano Luckesi", "Miguel Arroyo", "Antoni Zabala", "Maurice Tardif", "Donald Schön"],
+      "gabarito": 1,
+      "comentario": "Arroyo trata o currículo como campo de conflito sobre quais saberes, sujeitos e experiências merecem estar na escola. Luckesi é avaliação; Zabala, tipos de conteúdo e variáveis da prática; Tardif, saberes docentes; Schön, professor reflexivo.\n\nA tese dialoga com Cortella: o conhecimento é construção social e a escola não é neutra — recusar a opção política já é, ela própria, uma opção.",
+      "fonte": "Gerado — Módulo 2, bloco 2.4"
+    },
+    {
+      "id": "ped-030",
+      "materia": "pedagogia",
+      "tema": "gestao-escolar",
+      "enunciado": "Uma escola apresenta boas notas no Saeb, mas IDEB abaixo do esperado. A explicação mais provável é:",
+      "alternativas": [
+        "Baixo investimento por aluno na rede.",
+        "Elevada taxa de reprovação, que compromete o componente de fluxo.",
+        "Número reduzido de alunos matriculados.",
+        "Ausência de projeto político-pedagógico atualizado.",
+        "Alta rotatividade de professores."
+      ],
+      "gabarito": 1,
+      "comentario": "IDEB = desempenho × fluxo. Se o desempenho está bom e o índice não está, o problema está no outro fator: reprovação alta derruba o fluxo. As demais alternativas citam fatores que podem influenciar indiretamente a qualidade, mas não entram no cálculo do índice — e a questão pergunta pela composição, não por causas gerais.\n\nO índice foi construído assim de propósito: nem aprovar em massa sem aprendizagem, nem reprovar em massa melhora o resultado isoladamente.",
+      "fonte": "Gerado — Módulo 2, bloco 3.3"
+    },
+    {
+      "id": "mat-001",
+      "materia": "matematica",
+      "tema": "logica",
+      "enunciado": "A negação da proposição 'Todos os professores da escola participaram da formação' é:",
+      "alternativas": [
+        "Nenhum professor da escola participou da formação",
+        "Pelo menos um professor da escola não participou da formação",
+        "Todos os professores da escola não participaram da formação",
+        "Alguns professores da escola participaram da formação"
+      ],
+      "gabarito": 1,
+      "comentario": "A negação de TODO é ALGUM NÃO. Basta um contraexemplo para derrubar uma afirmação universal. A alternativa A ('nenhum') é uma afirmação muito mais forte — ela nega 'algum participou', não 'todos participaram'.",
+      "fonte": "Módulo 3, questão 1"
+    },
+    {
+      "id": "mat-002",
+      "materia": "matematica",
+      "tema": "logica",
+      "enunciado": "A negação de 'Se chover, então a aula será cancelada' é:",
+      "alternativas": [
+        "Se não chover, a aula não será cancelada",
+        "Choveu e a aula não foi cancelada",
+        "Não choveu ou a aula foi cancelada",
+        "Se a aula não for cancelada, não choveu"
+      ],
+      "gabarito": 1,
+      "comentario": "Negação do condicional: mantém a primeira, nega a segunda, junta com E (p ∧ ~q). A alternativa D é a contrapositiva, que é EQUIVALENTE à original, não sua negação. A alternativa C é a forma disjuntiva equivalente (~p ∨ q).",
+      "fonte": "Módulo 3, questão 2"
+    },
+    {
+      "id": "mat-003",
+      "materia": "matematica",
+      "tema": "logica",
+      "enunciado": "A proposição equivalente a 'Se é diretor, então tem formação pedagógica' é:",
+      "alternativas": [
+        "Se tem formação pedagógica, então é diretor",
+        "Se não é diretor, então não tem formação pedagógica",
+        "Se não tem formação pedagógica, então não é diretor",
+        "É diretor e tem formação pedagógica"
+      ],
+      "gabarito": 2,
+      "comentario": "É a contrapositiva (~q → ~p): inverte a ordem E nega ambas. A alternativa A é a recíproca e a B é a inversa — nenhuma das duas é equivalente. Fazer só a inversão ou só a negação produz proposição diferente.",
+      "fonte": "Módulo 3, questão 3"
+    },
+    {
+      "id": "mat-004",
+      "materia": "matematica",
+      "tema": "aritmetica",
+      "enunciado": "Um produto custa R$ 480. Sofre um aumento de 25% e, em seguida, um desconto de 20% sobre o novo valor. O preço final é:",
+      "alternativas": ["R$ 456,00", "R$ 480,00", "R$ 504,00", "R$ 528,00"],
+      "gabarito": 1,
+      "comentario": "480 × 1,25 × 0,80 = 480. Neste caso volta ao original porque 1,25 × 0,80 = 1 exatamente. Cuidado: isso é coincidência dos números, não regra geral. Com 20% de aumento e 20% de desconto o resultado seria 0,96 do original.",
+      "fonte": "Módulo 3, questão 4"
+    },
+    {
+      "id": "mat-005",
+      "materia": "matematica",
+      "tema": "aritmetica",
+      "enunciado": "Seis operários constroem um muro em 10 dias. Mantido o ritmo, 15 operários construirão o mesmo muro em:",
+      "alternativas": ["4 dias", "6 dias", "8 dias", "25 dias"],
+      "gabarito": 0,
+      "comentario": "Grandezas inversamente proporcionais: mais operários, menos dias. Então 6 × 10 = 15 × x, logo x = 4. Quem trata como direta obtém 25 dias — que é exatamente a alternativa D, colocada ali de propósito.",
+      "fonte": "Módulo 3, questão 5"
+    },
+    {
+      "id": "mat-006",
+      "materia": "matematica",
+      "tema": "aritmetica",
+      "enunciado": "Um aluno obteve notas 7,0 (peso 2), 6,0 (peso 3) e 9,0 (peso 5). Sua média ponderada é:",
+      "alternativas": ["7,33", "7,40", "7,70", "8,00"],
+      "gabarito": 2,
+      "comentario": "(7×2 + 6×3 + 9×5) ÷ (2+3+5) = (14 + 18 + 45) ÷ 10 = 77 ÷ 10 = 7,7. O erro clássico é dividir por 3 (quantidade de notas) em vez de 10 (soma dos pesos), o que daria 25,67 — valor absurdo que costuma denunciar o engano.",
+      "fonte": "Módulo 3, questão 6"
+    },
+    {
+      "id": "mat-007",
+      "materia": "matematica",
+      "tema": "aritmetica",
+      "enunciado": "Um capital de R$ 4.000 aplicado a juro simples de 1,5% ao mês durante 10 meses gera montante de:",
+      "alternativas": ["R$ 600,00", "R$ 4.600,00", "R$ 4.060,00", "R$ 6.000,00"],
+      "gabarito": 1,
+      "comentario": "J = 4000 × 0,015 × 10 = 600. Montante = capital + juro = 4600. A alternativa A é o JURO, não o montante — leia sempre o que a questão pede. No juro simples, o rendimento incide sempre sobre o capital inicial.",
+      "fonte": "Módulo 3, questão 7"
+    },
+    {
+      "id": "mat-008",
+      "materia": "matematica",
+      "tema": "logica",
+      "enunciado": "Considere: 'Todo diretor é pedagogo' e 'Algum pedagogo é pesquisador'. Pode-se concluir necessariamente que:",
+      "alternativas": [
+        "Algum diretor é pesquisador",
+        "Todo pesquisador é pedagogo",
+        "Nenhum diretor é pesquisador",
+        "Nenhuma das conclusões anteriores decorre necessariamente"
+      ],
+      "gabarito": 3,
+      "comentario": "Desenhe: diretores dentro de pedagogos. A porção de pedagogos que são pesquisadores pode estar inteiramente fora do círculo dos diretores — ou pode incluí-los. Como existe configuração compatível com as premissas em que cada conclusão é falsa, nenhuma decorre necessariamente.\n\nRegra: se você consegue desenhar UM cenário que respeita as premissas e contraria a conclusão, a conclusão não é válida.",
+      "fonte": "Módulo 3, questão 8"
+    },
+    {
+      "id": "mat-009",
+      "materia": "matematica",
+      "tema": "logica",
+      "enunciado": "Na sequência 2, 5, 11, 23, 47, ... o próximo termo é:",
+      "alternativas": ["71", "83", "94", "95"],
+      "gabarito": 3,
+      "comentario": "O padrão é multiplicar por 2 e somar 1: 2×2+1=5, 5×2+1=11, 11×2+1=23, 23×2+1=47, 47×2+1=95. Outra leitura equivalente: as diferenças são 3, 6, 12, 24, 48 — dobrando. 47 + 48 = 95. A alternativa C (94) atende só à duplicação, sem o +1.",
+      "fonte": "Módulo 3, questão 9"
+    },
+    {
+      "id": "mat-010",
+      "materia": "matematica",
+      "tema": "aritmetica",
+      "enunciado": "Dois ônibus partem do terminal simultaneamente. O primeiro parte a cada 18 minutos e o segundo a cada 24 minutos. Eles voltarão a partir juntos após:",
+      "alternativas": ["42 minutos", "48 minutos", "72 minutos", "6 minutos"],
+      "gabarito": 2,
+      "comentario": "Problema de coincidência → MMC. MMC(18,24) = 72. A alternativa D é o MDC(18,24) = 6, colocada para pegar quem confunde os dois. A alternativa A é a soma dos intervalos.\n\nRegra: QUANDO se juntam de novo → MMC; em QUANTAS partes iguais dividir → MDC.",
+      "fonte": "Módulo 3, questão 10"
+    },
+    {
+      "id": "mat-011",
+      "materia": "matematica",
+      "tema": "geometria-medidas",
+      "enunciado": "Uma sala retangular mede 6 m por 4,5 m. A área, em centímetros quadrados, é:",
+      "alternativas": ["2.700 cm²", "27.000 cm²", "270.000 cm²", "2.700.000 cm²"],
+      "gabarito": 2,
+      "comentario": "Área = 6 × 4,5 = 27 m². Para converter m² em cm², multiplique por 10.000 (não por 100): 27 × 10.000 = 270.000 cm². Área anda de 100 em 100 a cada degrau, e de metro para centímetro são dois degraus: 100 × 100 = 10.000.",
+      "fonte": "Módulo 3, questão 11"
+    },
+    {
+      "id": "mat-012",
+      "materia": "matematica",
+      "tema": "geometria-medidas",
+      "enunciado": "Em um triângulo retângulo, os catetos medem 9 cm e 12 cm. A hipotenusa mede:",
+      "alternativas": ["13 cm", "15 cm", "18 cm", "21 cm"],
+      "gabarito": 1,
+      "comentario": "a² = 9² + 12² = 81 + 144 = 225, logo a = 15. Este é o terno pitagórico (9, 12, 15) — múltiplo de (3, 4, 5). Reconhecer o terno dispensa a conta. A alternativa D (21) é a soma dos catetos, erro comum.",
+      "fonte": "Módulo 3, questão 12"
+    },
+    {
+      "id": "mat-013",
+      "materia": "matematica",
+      "tema": "logica",
+      "enunciado": "A negação de 'O aluno estudou e foi aprovado' é:",
+      "alternativas": [
+        "O aluno não estudou e não foi aprovado",
+        "O aluno não estudou ou não foi aprovado",
+        "Se o aluno estudou, foi aprovado",
+        "O aluno estudou ou foi aprovado"
+      ],
+      "gabarito": 1,
+      "comentario": "Lei de De Morgan: nega as duas partes e troca o E por OU. Para a afirmação original ser falsa, basta que UMA das duas condições falhe — por isso o conectivo vira OU, não E. A alternativa A exige que ambas falhem, o que é mais forte do que a negação.",
+      "fonte": "Módulo 3, questão 13"
+    },
+    {
+      "id": "mat-014",
+      "materia": "matematica",
+      "tema": "aritmetica",
+      "enunciado": "Quatro professores corrigem 200 provas em 5 dias. Nas mesmas condições, 6 professores corrigirão 450 provas em:",
+      "alternativas": ["5 dias", "6,5 dias", "7,5 dias", "9 dias"],
+      "gabarito": 2,
+      "comentario": "Regra de três composta. Em relação a dias: mais professores → menos dias (inversa); mais provas → mais dias (direta). Montagem: 5/x = (6/4) × (200/450) = 1200/1800 = 2/3. Logo x = 15/2 = 7,5 dias.",
+      "fonte": "Módulo 3, questão 14"
+    },
+    {
+      "id": "mat-015",
+      "materia": "matematica",
+      "tema": "aritmetica",
+      "enunciado": "Em uma escola com 750 alunos, 18% participam do contraturno. O número de alunos que NÃO participam é:",
+      "alternativas": ["135", "570", "615", "732"],
+      "gabarito": 2,
+      "comentario": "Participam: 750 × 0,18 = 135. Não participam: 750 − 135 = 615. Ou direto: 750 × 0,82 = 615. A alternativa A é a quantidade que participa — a questão pergunta o oposto, e é aí que se perde a questão.",
+      "fonte": "Módulo 3, questão 15"
+    },
+    {
+      "id": "mat-016",
+      "materia": "matematica",
+      "tema": "aritmetica",
+      "enunciado": "A matrícula de uma escola passou de 640 para 800 alunos. O aumento percentual foi de:",
+      "alternativas": ["16%", "20%", "25%", "160%"],
+      "gabarito": 2,
+      "comentario": "Variação = (800 − 640) ÷ 640 = 160 ÷ 640 = 0,25 = 25%. O erro comum é dividir pelo valor FINAL (160 ÷ 800 = 20%, alternativa B) — a variação percentual sempre se calcula sobre o valor INICIAL.",
+      "fonte": "Módulo 3, questão 16"
+    },
+    {
+      "id": "mat-017",
+      "materia": "matematica",
+      "tema": "logica",
+      "enunciado": "São proposições lógicas, EXCETO:",
+      "alternativas": [
+        "Limeira pertence ao estado de São Paulo",
+        "A prova será aplicada em dezembro",
+        "Estude a legislação com atenção",
+        "Nenhum candidato faltou à prova"
+      ],
+      "gabarito": 2,
+      "comentario": "'Estude...' é uma ordem (imperativo), e não se pode atribuir verdadeiro ou falso a ela. Proposição exige sentença DECLARATIVA. Perguntas, ordens, exclamações e sentenças abertas (com variável indefinida, como x + 2 = 5) não são proposições.",
+      "fonte": "Módulo 3, questão 17"
+    },
+    {
+      "id": "mat-018",
+      "materia": "matematica",
+      "tema": "geometria-medidas",
+      "enunciado": "Um reservatório tem 2,5 m de comprimento, 1,2 m de largura e 0,8 m de altura. Sua capacidade, em litros, é:",
+      "alternativas": ["240 L", "2.400 L", "24.000 L", "2,4 L"],
+      "gabarito": 1,
+      "comentario": "V = 2,5 × 1,2 × 0,8 = 2,4 m³. Como 1 m³ = 1.000 litros, temos 2.400 L. Guardar essa equivalência resolve praticamente toda questão de capacidade: 1 m³ = 1000 L e 1 L = 1 dm³.",
+      "fonte": "Módulo 3, questão 18"
+    },
+    {
+      "id": "mat-019",
+      "materia": "matematica",
+      "tema": "logica",
+      "enunciado": "Se p é verdadeira e q é falsa, o valor lógico da proposição (p → q) ∨ (~p ∧ q) é:",
+      "alternativas": [
+        "Verdadeiro",
+        "Falso",
+        "Indeterminado",
+        "Depende do valor de uma terceira proposição"
+      ],
+      "gabarito": 1,
+      "comentario": "p → q com p=V e q=F resulta F (único caso falso do condicional). ~p = F, então (~p ∧ q) = F. Logo F ∨ F = F. Vale reforçar: o condicional só é falso quando o antecedente é verdadeiro e o consequente é falso.",
+      "fonte": "Módulo 3, questão 19"
+    },
+    {
+      "id": "mat-020",
+      "materia": "matematica",
+      "tema": "aritmetica",
+      "enunciado": "Uma turma tem 32 alunos. Se 3/8 são meninos, o número de meninas é:",
+      "alternativas": ["12", "20", "24", "8"],
+      "gabarito": 1,
+      "comentario": "Meninos: 32 × 3/8 = 12. Meninas: 32 − 12 = 20. Ou direto: 5/8 de 32 = 20. A alternativa A é a quantidade de meninos — mais uma vez, o erro está em responder o que não foi perguntado.",
+      "fonte": "Módulo 3, questão 20"
+    },
+    {
+      "id": "mat-021",
+      "materia": "matematica",
+      "tema": "logica",
+      "enunciado": "A negação de 'Nenhum candidato faltou à prova' é:",
+      "alternativas": [
+        "Todos os candidatos faltaram à prova",
+        "Pelo menos um candidato faltou à prova",
+        "Algum candidato não faltou à prova",
+        "Nem todos os candidatos faltaram à prova"
+      ],
+      "gabarito": 1,
+      "comentario": "A negação de NENHUM é ALGUM. Basta um caso para derrubar a afirmação de que não existe nenhum. A alternativa A é forte demais: negar que ninguém faltou não significa afirmar que todos faltaram. C é a negação de 'todo A é B', e D é apenas outra redação de C.\n\nO quadro completo: negação de TODO é ALGUM NÃO; negação de NENHUM é ALGUM; negação de ALGUM é NENHUM.",
+      "fonte": "Gerado — Módulo 3, bloco 1.2"
+    },
+    {
+      "id": "mat-022",
+      "materia": "matematica",
+      "tema": "aritmetica",
+      "enunciado": "Um material escolar teve o preço aumentado em 10% e, no mês seguinte, sofreu desconto de 10% sobre o novo valor. Em relação ao preço original, houve:",
+      "alternativas": [
+        "Retorno exato ao preço original",
+        "Perda de 1%",
+        "Perda de 10%",
+        "Ganho de 1%"
+      ],
+      "gabarito": 1,
+      "comentario": "Multiplique os fatores: 1,10 × 0,90 = 0,99, ou seja, 99% do original — perda de 1%. Aumentar e depois descontar o mesmo percentual SEMPRE gera perda, porque o desconto incide sobre uma base maior. A alternativa A é a resposta intuitiva e errada; C soma percentuais em vez de multiplicar fatores.",
+      "fonte": "Gerado — Módulo 3, bloco 2.1"
+    },
+    {
+      "id": "mat-023",
+      "materia": "matematica",
+      "tema": "aritmetica",
+      "enunciado": "Uma escola quer montar kits iguais, sem sobra, com 48 cadernos e 36 lápis, no maior número possível de kits. Quantos kits serão montados?",
+      "alternativas": ["6", "12", "84", "144"],
+      "gabarito": 1,
+      "comentario": "Divisão em partes iguais e máximas → MDC. MDC(48,36) = 12, resultando em kits com 4 cadernos e 3 lápis. A alternativa D é o MMC(48,36) = 144, armadilha para quem confunde as duas operações; C é a soma dos totais.\n\nRegra prática: se o problema pergunta QUANDO as coisas coincidem de novo, é MMC. Se pergunta em QUANTAS PARTES IGUAIS dá para dividir, é MDC.",
+      "fonte": "Gerado — Módulo 3, bloco 2.5"
+    },
+    {
+      "id": "mat-024",
+      "materia": "matematica",
+      "tema": "aritmetica",
+      "enunciado": "Um capital de R$ 6.000 é aplicado a juro simples com taxa de 12% ao ano, durante 8 meses. O juro produzido é:",
+      "alternativas": ["R$ 480,00", "R$ 720,00", "R$ 5.760,00", "R$ 96,00"],
+      "gabarito": 0,
+      "comentario": "Taxa e tempo precisam estar na mesma unidade. Convertendo a taxa: 12% ao ano = 1% ao mês. J = 6000 × 0,01 × 8 = R$ 480. Alternativamente, tempo em anos: 6000 × 0,12 × (8/12) = 480.\n\nA alternativa B (720) é o resultado de quem aplica a taxa anual como se o tempo fosse 1 ano inteiro; a C ignora a divisão por 100. É o erro que mais derruba candidato neste tópico.",
+      "fonte": "Gerado — Módulo 3, bloco 2.4"
+    },
+    {
+      "id": "mat-025",
+      "materia": "matematica",
+      "tema": "logica",
+      "enunciado": "A proposição 'Se o candidato estuda, então é aprovado' equivale, na forma disjuntiva, a:",
+      "alternativas": [
+        "O candidato estuda ou é aprovado",
+        "O candidato não estuda ou é aprovado",
+        "O candidato estuda e não é aprovado",
+        "O candidato não estuda e não é aprovado"
+      ],
+      "gabarito": 1,
+      "comentario": "A equivalência é p → q ≡ ~p ∨ q: nega o antecedente e mantém o consequente, unindo por OU. A alternativa C é a NEGAÇÃO da proposição original (p ∧ ~q), não sua equivalente — confundir equivalência com negação é o erro central aqui.\n\nGuarde as três equivalências cobradas: p → q ≡ ~q → ~p (contrapositiva); p → q ≡ ~p ∨ q; p ∨ q ≡ q ∨ p.",
+      "fonte": "Gerado — Módulo 3, bloco 1.3"
+    },
+    {
+      "id": "por-001",
+      "materia": "portugues",
+      "tema": "crase-regencia",
+      "enunciado": "Assinale a alternativa em que o sinal indicativo de crase está corretamente empregado:",
+      "alternativas": [
+        "Cheguei à casa cansado depois da reunião.",
+        "Refiro-me à situação relatada no ofício.",
+        "Começou à chover durante o intervalo.",
+        "Entreguei o documento à ele ontem."
+      ],
+      "gabarito": 1,
+      "comentario": "Referir-se exige preposição A e 'situação' admite artigo — há crase. Em A, 'casa' sem especificação não admite artigo. Em C, não há crase antes de verbo. Em D, não há crase antes de pronome pessoal.",
+      "fonte": "Módulo 4, questão 1"
+    },
+    {
+      "id": "por-002",
+      "materia": "portugues",
+      "tema": "crase-regencia",
+      "enunciado": "Assinale a frase correta quanto à regência verbal:",
+      "alternativas": [
+        "Assisti o congresso de educação em Campinas.",
+        "A nova política visa a redução da evasão escolar.",
+        "O atraso implicou em prejuízo ao calendário.",
+        "Prefiro estudar à noite do que pela manhã."
+      ],
+      "gabarito": 1,
+      "comentario": "Visar no sentido de objetivar pede preposição A. Em A, assistir no sentido de ver pede AO. Em C, implicar (acarretar) não pede preposição. Em D, preferir não admite 'do que' — o correto é 'prefiro estudar à noite A estudar pela manhã'.",
+      "fonte": "Módulo 4, questão 2"
+    },
+    {
+      "id": "por-003",
+      "materia": "portugues",
+      "tema": "colocacao-concordancia",
+      "enunciado": "A colocação pronominal está correta em:",
+      "alternativas": [
+        "Me disseram que a prova será em dezembro.",
+        "Não disseram-me nada sobre o resultado.",
+        "Quando se aproximou, todos silenciaram.",
+        "Foi ele que avisou-me da mudança."
+      ],
+      "gabarito": 2,
+      "comentario": "'Quando' é conjunção subordinativa e atrai o pronome (próclise). Em A, não se inicia período com oblíquo átono na norma culta escrita. Em B, a negação atrai. Em D, o pronome relativo 'que' atrai. Todas as erradas ignoram palavra atrativa.",
+      "fonte": "Módulo 4, questão 3"
+    },
+    {
+      "id": "por-004",
+      "materia": "portugues",
+      "tema": "colocacao-concordancia",
+      "enunciado": "Assinale a alternativa correta quanto à concordância verbal:",
+      "alternativas": [
+        "Haviam muitos candidatos inscritos no certame.",
+        "Fazem dois anos que ele leciona na rede.",
+        "Havia muitos candidatos inscritos no certame.",
+        "Deviam haver mais vagas para o cargo."
+      ],
+      "gabarito": 2,
+      "comentario": "Haver no sentido de existir é impessoal e fica no singular. Fazer indicando tempo decorrido também é impessoal ('faz dois anos'), o que elimina B. Em D, a impessoalidade se transmite ao auxiliar: o correto é 'devia haver'.",
+      "fonte": "Módulo 4, questão 4"
+    },
+    {
+      "id": "por-005",
+      "materia": "portugues",
+      "tema": "colocacao-concordancia",
+      "enunciado": "Considere: 'Os professores, que participaram da formação, receberão certificado.' A vírgula indica que:",
+      "alternativas": [
+        "Apenas os professores participantes receberão certificado",
+        "Todos os professores participaram e todos receberão certificado",
+        "A oração é restritiva",
+        "Houve erro de pontuação"
+      ],
+      "gabarito": 1,
+      "comentario": "Com vírgulas, a oração adjetiva é EXPLICATIVA: a informação vale para todo o conjunto. Sem vírgulas seria restritiva, delimitando apenas o subconjunto dos que participaram — que é o que A e C descrevem. A vírgula muda o sentido, não é opcional.",
+      "fonte": "Módulo 4, questão 5"
+    },
+    {
+      "id": "por-006",
+      "materia": "portugues",
+      "tema": "colocacao-concordancia",
+      "enunciado": "Assinale a alternativa em que a concordância nominal está correta:",
+      "alternativas": [
+        "Seguem anexo as cópias do relatório.",
+        "Seguem anexas as cópias do relatório.",
+        "A entrada é proibido após o início.",
+        "Ela ficou meia preocupada com o prazo."
+      ],
+      "gabarito": 1,
+      "comentario": "'Anexo' é adjetivo e concorda com o substantivo. Em C, com artigo, o correto seria 'é proibida a entrada'. Em D, 'meio' como advérbio é invariável: 'meio preocupada'. A expressão 'em anexo', essa sim, é invariável.",
+      "fonte": "Módulo 4, questão 6"
+    },
+    {
+      "id": "por-007",
+      "materia": "portugues",
+      "tema": "interpretacao-figuras-oficial",
+      "enunciado": "Em 'Li Drummond durante toda a tarde', a figura de linguagem presente é:",
+      "alternativas": ["Metáfora", "Metonímia", "Hipérbole", "Catacrese"],
+      "gabarito": 1,
+      "comentario": "Metonímia: troca-se a obra pelo autor, por relação de proximidade. A metáfora seria uma comparação implícita; a hipérbole, um exagero intencional; a catacrese, uma metáfora já cristalizada no uso, como 'braço do rio'.",
+      "fonte": "Módulo 4, questão 7"
+    },
+    {
+      "id": "por-008",
+      "materia": "portugues",
+      "tema": "crase-regencia",
+      "enunciado": "Assinale a alternativa em que NÃO ocorre crase:",
+      "alternativas": [
+        "Estarei disponível às 14 horas.",
+        "O relatório foi entregue à secretária.",
+        "Compareceu a reunião sem ter sido convocado.",
+        "Referiu-se às normas do regimento."
+      ],
+      "gabarito": 2,
+      "comentario": "Comparecer pede preposição A, e 'reunião' admite artigo — então deveria haver crase ('compareceu À reunião'). Como a alternativa pede onde NÃO ocorre o sinal, e nas demais a crase está corretamente empregada (hora determinada, palavra feminina que admite artigo e locução com plural), C é a resposta.",
+      "fonte": "Módulo 4, questão 8"
+    },
+    {
+      "id": "por-009",
+      "materia": "portugues",
+      "tema": "colocacao-concordancia",
+      "enunciado": "Assinale a frase pontuada corretamente:",
+      "alternativas": [
+        "Os alunos da escola municipal, receberam o material didático.",
+        "Em dezembro, será aplicada a prova objetiva.",
+        "O diretor entregou, o relatório à secretaria.",
+        "Diego professor de Ciências foi aprovado."
+      ],
+      "gabarito": 1,
+      "comentario": "Adjunto adverbial deslocado para o início é isolado por vírgula. Em A, separa-se indevidamente sujeito de predicado. Em C, separa-se verbo de complemento direto. Em D, falta isolar o aposto entre vírgulas.",
+      "fonte": "Módulo 4, questão 9"
+    },
+    {
+      "id": "por-010",
+      "materia": "portugues",
+      "tema": "interpretacao-figuras-oficial",
+      "enunciado": "Quanto aos pronomes de tratamento na redação oficial, é correto afirmar:",
+      "alternativas": [
+        "Vossa Excelência exige verbos na segunda pessoa",
+        "Usa-se 'Sua Excelência' ao dirigir-se diretamente à autoridade",
+        "Vossa Senhoria é empregado para demais autoridades e particulares em tratamento formal",
+        "Vossa Magnificência dirige-se a Secretários de Estado"
+      ],
+      "gabarito": 2,
+      "comentario": "VOSSA quando se fala COM a pessoa; SUA quando se fala DELA — o que inverte B. A concordância vai para a TERCEIRA pessoa, o que elimina A. Vossa Magnificência é reservado a Reitores de universidade; Secretários recebem Vossa Excelência.",
+      "fonte": "Módulo 4, questão 10"
+    },
+    {
+      "id": "por-011",
+      "materia": "portugues",
+      "tema": "colocacao-concordancia",
+      "enunciado": "Em 'É preciso conhecê-lo melhor antes de decidir', a colocação pronominal é:",
+      "alternativas": [
+        "Próclise, obrigatória pelo advérbio",
+        "Ênclise, correta com infinitivo impessoal",
+        "Mesóclise, exigida pelo futuro",
+        "Incorreta, pois deveria ser 'lo conhecer'"
+      ],
+      "gabarito": 1,
+      "comentario": "Com infinitivo impessoal e sem palavra atrativa, a ênclise é a colocação natural. Não há advérbio atrativo antes do verbo, o que afasta A. A mesóclise só ocorre com futuro do presente ou do pretérito, o que afasta C.",
+      "fonte": "Módulo 4, questão 11"
+    },
+    {
+      "id": "por-012",
+      "materia": "portugues",
+      "tema": "crase-regencia",
+      "enunciado": "Assinale a alternativa correta quanto à regência nominal:",
+      "alternativas": [
+        "A medida é prejudicial ao rendimento dos alunos.",
+        "Ele é capaz em resolver o problema.",
+        "Tenho preferência a trabalhos em grupo.",
+        "O texto é acessível para todos os leitores."
+      ],
+      "gabarito": 0,
+      "comentario": "Prejudicial rege A. Em B, capaz rege DE. Em C, preferência rege POR. Em D, acessível rege A ('acessível a todos'). Regência nominal é tópico de memorização — vale manter uma lista curta das que mais aparecem.",
+      "fonte": "Módulo 4, questão 12"
+    },
+    {
+      "id": "por-013",
+      "materia": "portugues",
+      "tema": "interpretacao-figuras-oficial",
+      "enunciado": "Na ata de reunião, é característica exigida:",
+      "alternativas": [
+        "Divisão em parágrafos numerados para facilitar a leitura",
+        "Registro fiel e cronológico, sem espaços em branco ou rasuras",
+        "Uso de linguagem informal para maior fidelidade ao ocorrido",
+        "Inclusão de opinião do redator sobre os fatos"
+      ],
+      "gabarito": 1,
+      "comentario": "A ata registra fielmente o ocorrido, sem parágrafos e sem espaços que permitam acréscimos posteriores, com números por extenso — o que elimina A. Não comporta opinião do redator nem linguagem informal, pois sua função é probatória.",
+      "fonte": "Módulo 4, questão 13"
+    },
+    {
+      "id": "por-014",
+      "materia": "portugues",
+      "tema": "interpretacao-figuras-oficial",
+      "enunciado": "'Estou cego de tanto ver.' A figura presente é:",
+      "alternativas": ["Antítese", "Paradoxo", "Ironia", "Eufemismo"],
+      "gabarito": 1,
+      "comentario": "Paradoxo: a contradição está na MESMA ideia ou no mesmo ser. Na antítese, os opostos estão em termos diferentes colocados lado a lado ('o amor e o ódio caminham juntos'). É a confusão mais comum entre as duas figuras.",
+      "fonte": "Módulo 4, questão 14"
+    },
+    {
+      "id": "por-015",
+      "materia": "portugues",
+      "tema": "crase-regencia",
+      "enunciado": "Assinale a alternativa em que a crase é FACULTATIVA:",
+      "alternativas": [
+        "Entreguei o documento à Maria.",
+        "Vou à escola todos os dias.",
+        "Saímos às pressas da reunião.",
+        "A reunião começa às nove horas."
+      ],
+      "gabarito": 0,
+      "comentario": "Antes de nome próprio feminino a crase é facultativa. Também são facultativos os casos de pronome possessivo feminino e depois da preposição 'até'. Nas demais alternativas a crase é obrigatória: locução adverbial em C e hora determinada em D.",
+      "fonte": "Módulo 4, questão 15"
+    },
+    {
+      "id": "por-016",
+      "materia": "portugues",
+      "tema": "crase-regencia",
+      "enunciado": "A crase NÃO é facultativa em:",
+      "alternativas": [
+        "Fui até a secretaria buscar o documento.",
+        "Referi-me a sua proposta na reunião.",
+        "Entreguei o relatório a Marina ontem.",
+        "Os professores saíram às pressas da escola."
+      ],
+      "gabarito": 3,
+      "comentario": "'Às pressas' é locução adverbial feminina — crase obrigatória, sem alternativa de grafia. Os outros três são justamente os casos facultativos: depois da preposição 'até' (A), antes de pronome possessivo feminino (B) e antes de nome próprio feminino (C).\n\nA banca costuma apresentar um caso facultativo e afirmar que há erro. Não há.",
+      "fonte": "Gerado — Módulo 4, bloco 1.3"
+    },
+    {
+      "id": "por-017",
+      "materia": "portugues",
+      "tema": "crase-regencia",
+      "enunciado": "Assinale a alternativa em que a regência verbal está de acordo com a norma culta:",
+      "alternativas": [
+        "Os alunos devem obedecer o regimento escolar.",
+        "Cheguei na escola antes do horário.",
+        "A diretora paga o fornecedor no fim do mês.",
+        "É preciso obedecer às normas do sistema de ensino."
+      ],
+      "gabarito": 3,
+      "comentario": "Obedecer e desobedecer regem a preposição A, o que corrige A. Em B, chegar e ir pedem A, não EM: 'cheguei à escola'. Em C, pagar admite objeto direto para a coisa e indireto para a pessoa: paga-se A CONTA, mas paga-se AO fornecedor.",
+      "fonte": "Gerado — Módulo 4, bloco 2.2"
+    },
+    {
+      "id": "por-018",
+      "materia": "portugues",
+      "tema": "colocacao-concordancia",
+      "enunciado": "A próclise é obrigatória, por presença de palavra atrativa, em:",
+      "alternativas": [
+        "Entregaram-me o relatório na segunda-feira.",
+        "Sempre se dedicou ao trabalho com afinco.",
+        "Traga-me o documento assinado.",
+        "Saiu da sala deixando-nos preocupados."
+      ],
+      "gabarito": 1,
+      "comentario": "'Sempre' é advérbio sem vírgula e atrai o pronome. Nas demais, a ênclise é a colocação correta: verbo iniciando a oração (A), imperativo afirmativo (C) e gerúndio sem 'em' antecedente (D).\n\nAs atrativas a memorizar: negação, advérbio sem vírgula, pronome relativo, indefinido ou demonstrativo, conjunção subordinativa, orações exclamativas ou interrogativas e 'em' + gerúndio.",
+      "fonte": "Gerado — Módulo 4, bloco 3.1"
+    },
+    {
+      "id": "por-019",
+      "materia": "portugues",
+      "tema": "colocacao-concordancia",
+      "enunciado": "A mesóclise está corretamente empregada em:",
+      "alternativas": [
+        "Não far-se-á a leitura da ata nesta reunião.",
+        "Far-se-á a leitura da ata na próxima reunião.",
+        "Se dirá o resultado na próxima semana.",
+        "Quando dir-se-á o resultado?"
+      ],
+      "gabarito": 1,
+      "comentario": "A mesóclise exige futuro do presente ou do pretérito E ausência de palavra atrativa — é o caso de B. Em A a negação atrai e o correto é 'não se fará'; em D, 'quando' atrai e o correto é 'quando se dirá'. Em C não há atrativa alguma, então a próclise é indevida: não se inicia período com pronome oblíquo átono, e o correto seria 'dir-se-á'.",
+      "fonte": "Gerado — Módulo 4, bloco 3.3"
+    },
+    {
+      "id": "por-020",
+      "materia": "portugues",
+      "tema": "colocacao-concordancia",
+      "enunciado": "Assinale a alternativa correta quanto à concordância nominal:",
+      "alternativas": [
+        "Seguem em anexas as certidões solicitadas.",
+        "Seguem em anexo as certidões solicitadas.",
+        "Ela apresentou bastante justificativa para o atraso, todas plausíveis.",
+        "É proibida entrada de pessoas não autorizadas."
+      ],
+      "gabarito": 1,
+      "comentario": "A locução 'em anexo' é invariável, o que elimina A. Em C, 'bastante' como adjetivo deveria variar diante de substantivo plural: 'bastantes justificativas'. Em D, sem artigo antes do substantivo, a expressão fica invariável: 'é proibido entrada' — com artigo, sim, varia: 'é proibida a entrada'.",
+      "fonte": "Gerado — Módulo 4, bloco 4.2"
+    },
+    {
+      "id": "por-021",
+      "materia": "portugues",
+      "tema": "colocacao-concordancia",
+      "enunciado": "A vírgula isola corretamente um VOCATIVO em:",
+      "alternativas": [
+        "Diretor, o relatório está pronto para assinatura.",
+        "Diego, professor de Ciências, foi aprovado no concurso.",
+        "Em dezembro, será aplicada a prova.",
+        "Os documentos, foram entregues na secretaria."
+      ],
+      "gabarito": 0,
+      "comentario": "Vocativo é o chamamento do interlocutor, e é isso que ocorre em A. B isola um APOSTO explicativo, e C isola um adjunto adverbial deslocado — ambos usos corretos da vírgula, mas de outra função sintática. D está simplesmente errada: separa sujeito de predicado.",
+      "fonte": "Gerado — Módulo 4, bloco 4.3"
+    },
+    {
+      "id": "por-022",
+      "materia": "portugues",
+      "tema": "interpretacao-figuras-oficial",
+      "enunciado": "Em 'Ele nos deixou na noite passada', usada para comunicar um falecimento, a figura de linguagem é:",
+      "alternativas": ["Ironia", "Eufemismo", "Metonímia", "Hipérbole"],
+      "gabarito": 1,
+      "comentario": "Eufemismo é a suavização de uma expressão dura. Ironia seria dizer o contrário do que se pensa; metonímia, a troca por relação de proximidade; hipérbole, o exagero intencional. O critério é a INTENÇÃO de atenuar, não a mera substituição de palavras.",
+      "fonte": "Gerado — Módulo 4, bloco 5.2"
+    },
+    {
+      "id": "por-023",
+      "materia": "portugues",
+      "tema": "interpretacao-figuras-oficial",
+      "enunciado": "O documento oficial destinado ao registro de manifestação técnica fundamentada sobre matéria submetida a exame denomina-se:",
+      "alternativas": ["Ata", "Relatório", "Parecer", "Requerimento"],
+      "gabarito": 2,
+      "comentario": "Parecer é a manifestação técnica fundamentada. A ata registra fielmente o ocorrido em reunião; o relatório é exposição circunstanciada de atividades ou fatos; o requerimento é solicitação de algo a que se tem ou se julga ter direito, dirigida à autoridade competente.\n\nGuarde também: o OFÍCIO é o documento padrão de comunicação oficial, tendo absorvido o antigo memorando na nomenclatura atual.",
+      "fonte": "Gerado — Módulo 4, bloco 5.3"
+    },
+    {
+      "id": "por-024",
+      "materia": "portugues",
+      "tema": "crase-regencia",
+      "enunciado": "Considere as frases: I. 'Refiro-me a pessoas responsáveis.' II. 'Refiro-me às pessoas responsáveis.' Sobre elas, é correto afirmar:",
+      "alternativas": [
+        "Apenas I está correta; em II a crase é indevida.",
+        "Apenas II está correta; em I falta o sinal de crase.",
+        "Ambas estão corretas, com sentidos diferentes: I é genérico, II é determinado.",
+        "Ambas estão erradas, pois não há crase diante de plural."
+      ],
+      "gabarito": 2,
+      "comentario": "Diante de palavra no plural, 'a' sozinho indica ausência de artigo e, portanto, sentido genérico. Havendo artigo, o sinal aparece em 'às' e o sentido passa a ser determinado. As duas construções existem e não competem — a escolha depende do que se quer dizer.\n\nRegra prática: ver 'a' singular diante de substantivo plural é sinal de que não há artigo, logo não há crase.",
+      "fonte": "Gerado — Módulo 4, bloco 1.4"
+    },
+    {
+      "id": "por-025",
+      "materia": "portugues",
+      "tema": "colocacao-concordancia",
+      "enunciado": "Assinale a alternativa em que a concordância verbal está INCORRETA:",
+      "alternativas": [
+        "A maioria dos professores aderiu à formação continuada.",
+        "Fazem cinco anos que ele dirige a escola.",
+        "Existiam poucas vagas para o cargo de diretor.",
+        "Fui eu quem resolveu a pendência com a secretaria."
+      ],
+      "gabarito": 1,
+      "comentario": "FAZER indicando tempo decorrido é impessoal e não vai ao plural: 'faz cinco anos'. As demais estão corretas e cada uma cobre uma regra diferente: expressões partitivas como 'a maioria de' admitem singular ou plural (A); EXISTIR concorda normalmente com o sujeito, ao contrário de HAVER no sentido de existir, que é impessoal (C); e com o relativo QUEM admite-se o verbo na 3ª pessoa (D).\n\nO par que mais cai: 'havia muitos candidatos' (singular obrigatório) x 'existiam muitos candidatos' (plural correto).",
+      "fonte": "Gerado — Módulo 4, bloco 4.1"
+    },
+    {
+      "id": "inf-001",
+      "materia": "informatica",
+      "tema": "excel",
+      "enunciado": "No MS-Excel, a fórmula =SOMA(A1;A5) resulta na soma:",
+      "alternativas": [
+        "Das células A1, A2, A3, A4 e A5",
+        "Apenas das células A1 e A5",
+        "Da célula A1 dividida por A5",
+        "De todas as células da coluna A"
+      ],
+      "gabarito": 1,
+      "comentario": "O ponto e vírgula SEPARA argumentos; os dois-pontos indicam INTERVALO. Para somar de A1 até A5 seria =SOMA(A1:A5). É a distinção mais cobrada do Excel em concurso.",
+      "fonte": "Módulo 5, questão 1"
+    },
+    {
+      "id": "inf-002",
+      "materia": "informatica",
+      "tema": "excel",
+      "enunciado": "A fórmula =$C2+D$3, digitada em E5 e copiada para G8, tornar-se-á:",
+      "alternativas": ["=$C5+F$3", "=$C2+D$3", "=$E5+F$6", "=$C8+F$3"],
+      "gabarito": 0,
+      "comentario": "Deslocamento de E5 para G8: duas colunas à direita e três linhas abaixo. Em $C2, a coluna está travada e a linha vira 5. Em D$3, a coluna vira F e a linha permanece 3. Resultado: =$C5+F$3. A alternativa D erra ao somar três à linha de $C2 partindo de 5, e não de 2.",
+      "fonte": "Módulo 5, questão 2"
+    },
+    {
+      "id": "inf-003",
+      "materia": "informatica",
+      "tema": "windows-word",
+      "enunciado": "No MS-Word em português, o atalho Ctrl+S corresponde a:",
+      "alternativas": [
+        "Salvar o documento",
+        "Sublinhar o texto selecionado",
+        "Selecionar todo o documento",
+        "Substituir texto"
+      ],
+      "gabarito": 1,
+      "comentario": "No Word em português: Ctrl+N negrito, Ctrl+I itálico, Ctrl+S sublinhado e Ctrl+B salvar. A confusão com o padrão em inglês (Save/Bold) é justamente o que a banca testa.",
+      "fonte": "Módulo 5, questão 3"
+    },
+    {
+      "id": "inf-004",
+      "materia": "informatica",
+      "tema": "windows-word",
+      "enunciado": "O recurso do MS-Word que permite aplicar orientação de página e numeração diferentes em partes do mesmo documento é:",
+      "alternativas": ["Quebra de página", "Quebra de seção", "Caixa de texto", "Coluna"],
+      "gabarito": 1,
+      "comentario": "A quebra de SEÇÃO isola trechos com formatação independente — orientação, margens, numeração. A quebra de página apenas força o início de uma nova página, mantendo a formatação da seção. É o recurso mais perguntado do Word.",
+      "fonte": "Módulo 5, questão 4"
+    },
+    {
+      "id": "inf-005",
+      "materia": "informatica",
+      "tema": "excel",
+      "enunciado": "Em um intervalo com 4 células contendo números, 3 contendo texto e 2 vazias, a função CONT.VALORES retornará:",
+      "alternativas": ["4", "7", "9", "2"],
+      "gabarito": 1,
+      "comentario": "CONT.VALORES conta todas as células NÃO VAZIAS: 4 números + 3 textos = 7. CONT.NÚM retornaria 4 (só números, alternativa A) e CONTAR.VAZIO retornaria 2 (alternativa D). A alternativa C soma tudo, inclusive as vazias.",
+      "fonte": "Módulo 5, questão 5"
+    },
+    {
+      "id": "inf-006",
+      "materia": "informatica",
+      "tema": "powerpoint-internet",
+      "enunciado": "No PowerPoint, o efeito aplicado à passagem de um slide para o seguinte chama-se:",
+      "alternativas": ["Animação", "Transição", "Layout", "Slide mestre"],
+      "gabarito": 1,
+      "comentario": "Transição é ENTRE slides; animação é DENTRO do slide, aplicada a objetos. Layout é a disposição dos espaços reservados; slide mestre define a formatação padrão do conjunto. Regra de memória: transição = transitar de um slide para outro.",
+      "fonte": "Módulo 5, questão 6"
+    },
+    {
+      "id": "inf-007",
+      "materia": "informatica",
+      "tema": "powerpoint-internet",
+      "enunciado": "No correio eletrônico, o campo Cco tem a função de:",
+      "alternativas": [
+        "Enviar cópia visível a todos os destinatários",
+        "Enviar cópia sem que os demais destinatários vejam o endereço",
+        "Encaminhar automaticamente a mensagem",
+        "Confirmar o recebimento da mensagem"
+      ],
+      "gabarito": 1,
+      "comentario": "Cco é cópia oculta: o destinatário recebe, mas seu endereço não é exibido aos demais. Cc, descrito na alternativa A, é a cópia visível. É recurso importante para preservar dados pessoais em comunicações institucionais.",
+      "fonte": "Módulo 5, questão 7"
+    },
+    {
+      "id": "inf-008",
+      "materia": "informatica",
+      "tema": "excel",
+      "enunciado": "O erro #DIV/0! no Excel indica:",
+      "alternativas": [
+        "Função escrita incorretamente",
+        "Referência a célula excluída",
+        "Tentativa de divisão por zero ou por célula vazia",
+        "Tipo de dado incompatível na operação"
+      ],
+      "gabarito": 2,
+      "comentario": "#NOME? indica função escrita errada; #REF! indica referência excluída; #VALOR! indica tipo incompatível; #N/D indica valor não encontrado, típico do PROCV. Cada alternativa errada aqui corresponde a um erro real com código diferente.",
+      "fonte": "Módulo 5, questão 8"
+    },
+    {
+      "id": "inf-009",
+      "materia": "informatica",
+      "tema": "windows-word",
+      "enunciado": "No Windows, a exclusão de um atalho da área de trabalho:",
+      "alternativas": [
+        "Exclui também o arquivo original",
+        "Move o arquivo original para a Lixeira",
+        "Remove apenas o atalho, preservando o arquivo original",
+        "Impede o acesso ao arquivo original"
+      ],
+      "gabarito": 2,
+      "comentario": "O atalho é apenas um ponteiro para o item. Excluí-lo não afeta o original, que permanece em sua pasta e continua acessível por ela. É item recorrente em prova.",
+      "fonte": "Módulo 5, questão 9"
+    },
+    {
+      "id": "inf-010",
+      "materia": "informatica",
+      "tema": "excel",
+      "enunciado": "A fórmula =SE(B2>=6;\"Aprovado\";\"Reprovado\"), com B2 contendo 6, retornará:",
+      "alternativas": ["Aprovado", "Reprovado", "#VALOR!", "FALSO"],
+      "gabarito": 0,
+      "comentario": "O operador >= inclui o valor 6. Se fosse apenas >, o resultado seria 'Reprovado'. A banca costuma explorar exatamente a diferença entre > e >= no valor de corte.",
+      "fonte": "Módulo 5, questão 10"
+    },
+    {
+      "id": "inf-011",
+      "materia": "informatica",
+      "tema": "powerpoint-internet",
+      "enunciado": "A navegação anônima em um navegador:",
+      "alternativas": [
+        "Impede que o provedor de internet registre os acessos",
+        "Torna o usuário invisível aos sites visitados",
+        "Não grava histórico, cookies e dados locais da sessão",
+        "Criptografa todo o tráfego de rede automaticamente"
+      ],
+      "gabarito": 2,
+      "comentario": "A navegação anônima atua apenas no dispositivo local. O provedor, o empregador e os sites visitados continuam podendo registrar os acessos — o que elimina A e B. A criptografia do tráfego depende do HTTPS, não do modo anônimo, o que elimina D.",
+      "fonte": "Módulo 5, questão 11"
+    },
+    {
+      "id": "inf-012",
+      "materia": "informatica",
+      "tema": "excel",
+      "enunciado": "No Excel, para fixar a coluna e permitir que a linha varie ao copiar a fórmula, usa-se a referência:",
+      "alternativas": ["A1", "$A$1", "$A1", "A$1"],
+      "gabarito": 2,
+      "comentario": "O cifrão trava o que vem DEPOIS dele. $A1 trava a coluna A e permite a variação da linha. A$1 faz o inverso; $A$1 trava as duas; A1 não trava nenhuma. F4 alterna entre os quatro tipos durante a edição da fórmula.",
+      "fonte": "Módulo 5, questão 12"
+    },
+    {
+      "id": "inf-013",
+      "materia": "informatica",
+      "tema": "excel",
+      "enunciado": "Um intervalo contém 5 células com números, 2 com texto e 3 vazias. O resultado de CONT.NÚM aplicado a esse intervalo é:",
+      "alternativas": ["5", "7", "10", "3"],
+      "gabarito": 0,
+      "comentario": "CONT.NÚM conta apenas células com NÚMEROS: 5. A alternativa B é o resultado de CONT.VALORES (não vazias); D é o de CONTAR.VAZIO; C é o total de células do intervalo.\n\nAs três funções aparecem juntas na prova justamente porque a diferença entre elas é sutil na leitura e decisiva no resultado.",
+      "fonte": "Gerado — Módulo 5, bloco 3.2"
+    },
+    {
+      "id": "inf-014",
+      "materia": "informatica",
+      "tema": "windows-word",
+      "enunciado": "No MS-Word, o atalho Ctrl+Enter executa a ação de:",
+      "alternativas": [
+        "Inserir quebra de página",
+        "Salvar o documento",
+        "Inserir quebra de seção",
+        "Aplicar justificação ao parágrafo"
+      ],
+      "gabarito": 0,
+      "comentario": "Ctrl+Enter força o início de nova página, mantendo a formatação da seção atual. A quebra de SEÇÃO (alternativa C) não tem atalho equivalente — é inserida pela guia Layout, e serve para formatações independentes. Salvar no Word em português é Ctrl+B; justificar é Ctrl+J.",
+      "fonte": "Gerado — Módulo 5, bloco 2.1"
+    },
+    {
+      "id": "inf-015",
+      "materia": "informatica",
+      "tema": "windows-word",
+      "enunciado": "No Windows, a combinação Shift+Delete aplicada a um arquivo:",
+      "alternativas": [
+        "Envia o arquivo para a Lixeira",
+        "Exclui o arquivo sem enviá-lo para a Lixeira",
+        "Renomeia o arquivo selecionado",
+        "Cria uma cópia de segurança antes de excluir"
+      ],
+      "gabarito": 1,
+      "comentario": "Shift+Delete ignora a Lixeira, tornando a recuperação bem mais difícil. Delete sozinho é que envia para a Lixeira (alternativa A). Renomear é F2 (alternativa C). Não há criação automática de cópia de segurança.",
+      "fonte": "Gerado — Módulo 5, bloco 1.2"
+    },
+    {
+      "id": "inf-016",
+      "materia": "informatica",
+      "tema": "excel",
+      "enunciado": "No Excel, o erro #N/D exibido por uma fórmula PROCV indica que:",
+      "alternativas": [
+        "A função foi escrita com nome incorreto",
+        "O valor procurado não foi encontrado na matriz de busca",
+        "Houve divisão por zero",
+        "A referência de célula foi excluída"
+      ],
+      "gabarito": 1,
+      "comentario": "#N/D significa 'não disponível': o valor procurado não existe na primeira coluna da matriz. As demais alternativas descrevem erros distintos e com códigos próprios: #NOME? para função mal escrita, #DIV/0! para divisão por zero e #REF! para referência excluída.\n\nA sintaxe cobrada é =PROCV(valor;matriz;coluna;0), em que o zero final exige correspondência exata.",
+      "fonte": "Gerado — Módulo 5, bloco 3.3"
+    },
+    {
+      "id": "inf-017",
+      "materia": "informatica",
+      "tema": "powerpoint-internet",
+      "enunciado": "No PowerPoint, o recurso que define a formatação padrão aplicada a todos os slides da apresentação é:",
+      "alternativas": ["Layout", "Slide mestre", "Transição", "Botão de ação"],
+      "gabarito": 1,
+      "comentario": "Alterar o slide mestre altera o conjunto de uma vez. Layout é a disposição dos espaços reservados em um slide específico, e não define a formatação global. Transição é o efeito entre slides; botão de ação executa um comando, como ir para outro slide ou abrir um arquivo.",
+      "fonte": "Gerado — Módulo 5, bloco 4.1"
+    },
+    {
+      "id": "inf-018",
+      "materia": "informatica",
+      "tema": "powerpoint-internet",
+      "enunciado": "A mensagem fraudulenta que simula um remetente confiável para obter dados pessoais da vítima é denominada:",
+      "alternativas": ["Spam", "Phishing", "Cookie", "Anexo"],
+      "gabarito": 1,
+      "comentario": "Phishing é a fraude por personificação de remetente confiável. Spam são mensagens não solicitadas, geralmente publicitárias, sem necessariamente intenção fraudulenta — a diferença está no objetivo de obter dados. Cookie é arquivo que armazena informações de navegação; anexo é arquivo enviado junto à mensagem.",
+      "fonte": "Gerado — Módulo 5, bloco 4.2"
+    },
+    {
+      "id": "inf-019",
+      "materia": "informatica",
+      "tema": "powerpoint-internet",
+      "enunciado": "Em um endereço da web, o protocolo HTTPS distingue-se do HTTP por:",
+      "alternativas": [
+        "Permitir o acesso a páginas hospedadas no exterior",
+        "Indicar conexão criptografada entre o navegador e o servidor",
+        "Garantir que o site não armazene cookies",
+        "Dispensar o uso de navegador para acesso"
+      ],
+      "gabarito": 1,
+      "comentario": "O 'S' indica conexão criptografada, exigida em páginas com dados sensíveis. A criptografia protege o transporte da informação, mas não impede que o site armazene cookies (alternativa C) nem tem relação com a localização do servidor (A).\n\nEstrutura da URL cobrada em prova: protocolo://domínio/caminho.",
+      "fonte": "Gerado — Módulo 5, bloco 4.3"
+    },
+    {
+      "id": "inf-020",
+      "materia": "informatica",
+      "tema": "powerpoint-internet",
+      "enunciado": "Sobre navegadores e buscadores, é correto afirmar que:",
+      "alternativas": [
+        "São sinônimos, designando o mesmo tipo de programa",
+        "O navegador é o programa que acessa páginas; o buscador é um site de pesquisa",
+        "O buscador é o programa instalado no computador e o navegador é o site acessado",
+        "Ambos são serviços que exigem instalação prévia no dispositivo"
+      ],
+      "gabarito": 1,
+      "comentario": "Navegador (browser) é o programa — Chrome, Firefox, Edge. Buscador é um site de pesquisa acessado por meio dele — Google, Bing. A alternativa C inverte os dois conceitos, e D erra porque o buscador é acessado pela web, sem instalação.\n\nAtalhos de navegador cobrados: Ctrl+T abre nova guia, Ctrl+W fecha a guia, Ctrl+Shift+T reabre a última fechada, F5 atualiza e F11 alterna tela cheia.",
+      "fonte": "Gerado — Módulo 5, bloco 4.3"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Saída do vite-plugin-pwa (gerada no build)
+dev-dist/
+public/sw.js
+public/workbox-*.js
+public/registerSW.js
+
+# Configuração local do Claude Code
+.claude/
+
+# Editores
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+
+# Sistema
+.DS_Store
+Thumbs.db

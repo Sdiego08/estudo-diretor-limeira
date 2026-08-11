@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+  Fontes auto-hospedadas para funcionar offline.
+  Coloque os .woff2 em public/fontes/ — enquanto não estiverem lá, valem as
+  fontes de sistema declaradas no fallback do tailwind.config.js.
+*/
+@font-face {
+  font-family: 'Archivo';
+  src: url('/fontes/archivo-variable.woff2') format('woff2-variations');
+  font-weight: 400 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('/fontes/source-serif-4-variable.woff2') format('woff2-variations');
+  font-weight: 400 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    @apply bg-papel text-tinta font-corpo antialiased;
+    overscroll-behavior-y: none;
+  }
+
+  h1,
+  h2,
+  h3 {
+    @apply font-titulo;
+  }
+
+  /* Foco de teclado sempre visível, em âmbar sobre o papel. */
+  :focus-visible {
+    outline: 2px solid theme('colors.ambar');
+    outline-offset: 3px;
+    border-radius: 4px;
+  }
+
+  button {
+    @apply font-titulo;
+  }
+}
+
+@layer components {
+  .superficie {
+    @apply bg-white/70 border border-linha rounded-carta;
+  }
+
+  .rotulo-secao {
+    @apply font-titulo text-[11px] uppercase tracking-[0.14em] text-tinta-suave;
+  }
+}
+
+/* Papel pautado discreto ao fundo — a única licença decorativa do app. */
+.textura-caderno {
+  background-image: linear-gradient(to bottom, transparent 31px, rgba(47, 79, 67, 0.06) 32px);
+  background-size: 100% 32px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

@@ -1,0 +1,1261 @@
+{
+  "versao": 1,
+  "cartoes": [
+    {
+      "id": "cleg-001",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "Quais são os dois princípios da gestão democrática do ensino público (LDB, art. 14)?",
+      "verso": "1) Participação dos profissionais da educação na elaboração do projeto pedagógico da escola.\n2) Participação das comunidades escolar e local em conselhos escolares ou equivalentes.\n\nSão apenas DOIS. Alternativa que listar três ou quatro quase certamente inventou.",
+      "fonte": "Módulo 1, recall bloco 1"
+    },
+    {
+      "id": "cleg-002",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "Quais os três graus de autonomia assegurados às escolas públicas pelo art. 15 da LDB?",
+      "verso": "Autonomia PEDAGÓGICA, ADMINISTRATIVA e de GESTÃO FINANCEIRA — progressivos, observadas as normas gerais de direito financeiro público.\n\nNão confunda com o art. 14 (dois princípios da gestão democrática).",
+      "fonte": "Módulo 1, recall bloco 1"
+    },
+    {
+      "id": "cleg-003",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "Dias letivos, carga horária anual, jornada diária mínima e frequência mínima na educação básica.",
+      "verso": "200 dias de efetivo trabalho escolar · 800 horas anuais (excluídos exames finais) · 4 horas diárias de trabalho efetivo em sala no ensino fundamental · 75% de frequência para aprovação.\n\nEducação Infantil: também 200 dias e 800 horas; jornada de 4h (parcial) ou 7h (integral).",
+      "fonte": "Módulo 1, recall bloco 1"
+    },
+    {
+      "id": "cleg-004",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "Proposta pedagógica, recuperação, articulação com a comunidade e plano de trabalho: o que faz a ESCOLA e o que faz o DOCENTE?",
+      "verso": "PROPOSTA PEDAGÓGICA — Escola: elabora e EXECUTA. Docente: PARTICIPA da elaboração.\nRECUPERAÇÃO — Escola: PROVÊ MEIOS. Docente: ESTABELECE ESTRATÉGIAS.\nARTICULAÇÃO — Escola: ARTICULA-SE, criando processos. Docente: COLABORA.\nPLANO DE TRABALHO — Escola: VELA pelo cumprimento. Docente: ELABORA E CUMPRE.\n\nPadrão: a escola tem o verbo forte, o docente o verbo de participação.",
+      "fonte": "Módulo 1, recall bloco 1"
+    },
+    {
+      "id": "cleg-005",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "Cite sete incumbências do estabelecimento de ensino (LDB, art. 12).",
+      "verso": "Elaborar e executar sua proposta pedagógica · administrar pessoal e recursos materiais e financeiros · assegurar o cumprimento dos dias letivos e horas-aula · velar pelo cumprimento do plano de trabalho de cada docente · prover meios para a recuperação dos alunos de menor rendimento · articular-se com as famílias e a comunidade · informar pai e mãe sobre frequência e rendimento · notificar Conselho Tutelar, juiz e MP sobre excesso de faltas · combater a intimidação sistemática · promover cultura de paz · promover ambiente escolar seguro quanto a drogas.",
+      "fonte": "Módulo 1, recall bloco 1"
+    },
+    {
+      "id": "cleg-006",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "Cite as seis incumbências dos docentes (LDB, art. 13).",
+      "verso": "1) Participar da elaboração da proposta pedagógica.\n2) Elaborar e cumprir plano de trabalho segundo essa proposta.\n3) Zelar pela aprendizagem dos alunos.\n4) Estabelecer estratégias de recuperação para os de menor rendimento.\n5) Ministrar os dias letivos e horas-aula e participar dos períodos de planejamento, avaliação e desenvolvimento profissional.\n6) Colaborar com as atividades de articulação com as famílias e a comunidade.",
+      "fonte": "Módulo 1, recall bloco 1"
+    },
+    {
+      "id": "cleg-007",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "Município, Estado e DF: em que etapas atuam prioritariamente?",
+      "verso": "MUNICÍPIO: educação infantil (creches e pré-escolas) como obrigação direta + PRIORIDADE no ensino fundamental.\nESTADO: assegura o ensino fundamental + PRIORIDADE no ensino médio.\nDF: acumula as competências de Estados E Municípios.\n\nRegra: cada ente tem prioridade na etapa seguinte à do ente 'menor'.",
+      "fonte": "Módulo 1, recall bloco 1"
+    },
+    {
+      "id": "cleg-008",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "Quando o Município pode atuar em outros níveis de ensino?",
+      "verso": "Somente quando já atendidas plenamente as necessidades de sua área de competência (educação infantil e ensino fundamental) e com recursos ACIMA dos percentuais mínimos vinculados à manutenção e ao desenvolvimento do ensino.",
+      "fonte": "Módulo 1, recall bloco 1"
+    },
+    {
+      "id": "cleg-009",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "Na verificação do rendimento escolar, o que prevalece? E os estudos de recuperação são de que tipo?",
+      "verso": "Prevalecem os aspectos QUALITATIVOS sobre os quantitativos, e os resultados AO LONGO do período sobre os de eventuais provas finais.\n\nOs estudos de recuperação são obrigatórios e, de preferência, PARALELOS ao período letivo — nunca 'ao final'.",
+      "fonte": "Módulo 1, recall bloco 1"
+    },
+    {
+      "id": "cleg-010",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "Cite oito princípios do ensino do art. 3º da LDB.",
+      "verso": "Igualdade de condições para acesso e permanência · liberdade de aprender, ensinar, pesquisar e divulgar · pluralismo de ideias e concepções pedagógicas · respeito à liberdade e apreço à tolerância · coexistência de instituições públicas e privadas · gratuidade do ensino público em estabelecimentos oficiais · valorização do profissional da educação · gestão democrática do ensino PÚBLICO · garantia de padrão de qualidade · valorização da experiência EXTRAescolar · vinculação entre educação, trabalho e práticas sociais · consideração com a diversidade étnico-racial · direito à educação e à aprendizagem ao longo da vida.",
+      "fonte": "Módulo 1, recall bloco 1"
+    },
+    {
+      "id": "cleg-011",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "Como o art. 26 da LDB estrutura os currículos da educação básica?",
+      "verso": "BASE NACIONAL COMUM, complementada em cada sistema e escola por uma PARTE DIVERSIFICADA, exigida pelas características regionais e locais.\n\nObrigatórios: língua portuguesa, matemática, conhecimento do mundo físico e natural e da realidade social e política, arte, educação física, história do Brasil com obrigatoriedade de história e cultura afro-brasileira e indígena. Ensino religioso: matrícula FACULTATIVA.",
+      "fonte": "Módulo 1, recall bloco 1"
+    },
+    {
+      "id": "cleg-012",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "Idades mínimas para os exames supletivos de EJA.",
+      "verso": "15 anos para o nível de conclusão do ENSINO FUNDAMENTAL.\n18 anos para o ENSINO MÉDIO.",
+      "fonte": "Módulo 1, recall bloco 1"
+    },
+    {
+      "id": "cleg-013",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "A educação especial é ofertada de que forma na rede regular? Qual o advérbio exato da LDB?",
+      "verso": "PREFERENCIALMENTE na rede regular de ensino — nunca 'exclusivamente' nem 'obrigatoriamente em classes especiais'.\n\nA oferta tem início na EDUCAÇÃO INFANTIL e se estende ao longo da vida. Público-alvo: deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação.",
+      "fonte": "Módulo 1, recall bloco 1"
+    },
+    {
+      "id": "cleg-014",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "Qual a formação exigida para administração, planejamento, inspeção, supervisão e orientação educacional (LDB, art. 64)?",
+      "verso": "Cursos de graduação em PEDAGOGIA ou em nível de PÓS-GRADUAÇÃO, a critério da instituição de ensino, garantida a base comum nacional.\n\nÉ exatamente o requisito do cargo de Diretor de Escola neste edital — artigo com alta chance de cair.",
+      "fonte": "Módulo 1, recall bloco 1"
+    },
+    {
+      "id": "cleg-015",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "Cite cinco garantias de valorização dos profissionais da educação (LDB, art. 67).",
+      "verso": "Ingresso EXCLUSIVAMENTE por concurso público de provas e títulos · aperfeiçoamento continuado, com licenciamento periódico REMUNERADO · piso salarial profissional · progressão funcional por titulação/habilitação E avaliação de desempenho · período de estudos, planejamento e avaliação INCLUÍDO na carga de trabalho · condições adequadas de trabalho.\n\nA experiência docente é pré-requisito para outras funções de magistério.",
+      "fonte": "Módulo 1, recall bloco 1"
+    },
+    {
+      "id": "cleg-016",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "A partir de qual percentual de faltas a escola notifica, e a quem?",
+      "verso": "Faltas acima de 30% DO PERCENTUAL PERMITIDO em lei.\n\nTrês destinatários: CONSELHO TUTELAR do Município, JUIZ competente da Comarca e representante do MINISTÉRIO PÚBLICO.",
+      "fonte": "Módulo 1, recall rodada B"
+    },
+    {
+      "id": "cleg-017",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "Qual a faixa etária da educação básica obrigatória e gratuita? E quando começa o dever de matrícula dos pais?",
+      "verso": "Dos 4 aos 17 anos, organizada em pré-escola, ensino fundamental e ensino médio.\n\nÉ dever dos pais efetuar a matrícula a partir dos 4 anos. A educação infantil é gratuita até os 5 anos, mas só a PRÉ-ESCOLA é obrigatória.",
+      "fonte": "Módulo 1, recall rodada A"
+    },
+    {
+      "id": "cleg-018",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "O que é 'direito público subjetivo' e quem pode acioná-lo?",
+      "verso": "É o direito exigível judicialmente de acesso à educação básica obrigatória.\n\nPodem acionar o poder público: qualquer cidadão, grupo de cidadãos, associação comunitária, organização sindical, entidade de classe ou outra legalmente constituída, e ainda o Ministério Público.",
+      "fonte": "Módulo 1, recall rodada C"
+    },
+    {
+      "id": "cleg-019",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "Qual é a finalidade da educação segundo a LDB (art. 2º)? Onde mais aparece essa mesma redação?",
+      "verso": "Pleno desenvolvimento do educando, preparo para o exercício da cidadania e qualificação para o trabalho.\n\nA mesma tríade está na CF art. 205 e no ECA art. 53. Três leis, uma redação — decorar uma vale por três.",
+      "fonte": "Módulo 1, bloco 1.1"
+    },
+    {
+      "id": "cleg-020",
+      "materia": "legislacao",
+      "tema": "ldb",
+      "frente": "Duração e idade de início do ensino fundamental e duração mínima do ensino médio.",
+      "verso": "Ensino fundamental: 9 anos, iniciando aos 6 anos de idade.\nEnsino médio: duração mínima de 3 anos.",
+      "fonte": "Módulo 1, bloco 1.8"
+    },
+    {
+      "id": "cleg-021",
+      "materia": "legislacao",
+      "tema": "constituicao",
+      "frente": "Qual a tríade de finalidades da educação no art. 205 da CF?",
+      "verso": "Pleno desenvolvimento da pessoa · preparo para o exercício da cidadania · qualificação para o trabalho.\n\nA banca troca 'qualificação para o trabalho' por 'inserção no mercado de trabalho'. Está errado.",
+      "fonte": "Módulo 1, recall bloco 2"
+    },
+    {
+      "id": "cleg-022",
+      "materia": "legislacao",
+      "tema": "constituicao",
+      "frente": "Qual a consequência do não oferecimento do ensino obrigatório, ou de sua oferta irregular (CF, art. 208, §2º)?",
+      "verso": "Importa RESPONSABILIDADE DA AUTORIDADE COMPETENTE.\n\nO §1º define o acesso ao ensino obrigatório e gratuito como direito público subjetivo. O §3º manda o Poder Público recensear os educandos, fazer-lhes a chamada e zelar, junto aos pais, pela frequência à escola.",
+      "fonte": "Módulo 1, recall bloco 2"
+    },
+    {
+      "id": "cleg-023",
+      "materia": "legislacao",
+      "tema": "constituicao",
+      "frente": "Percentuais mínimos da receita de impostos a aplicar em educação: União? Estados, DF e Municípios?",
+      "verso": "UNIÃO: 18%. ESTADOS, DF e MUNICÍPIOS: 25%.\n\nA parcela transferida pela União aos demais entes não conta como receita de quem transferiu. Os programas suplementares de alimentação e assistência à saúde NÃO entram no cálculo dos mínimos.",
+      "fonte": "Módulo 1, recall bloco 2"
+    },
+    {
+      "id": "cleg-024",
+      "materia": "legislacao",
+      "tema": "constituicao",
+      "frente": "Qual a duração do PNE e quatro de seus objetivos (CF, art. 214)?",
+      "verso": "Duração DECENAL.\n\nObjetivos: erradicação do analfabetismo · universalização do atendimento escolar · melhoria da qualidade do ensino · formação para o trabalho · promoção humanística, científica e tecnológica do País · meta de aplicação de recursos públicos como proporção do PIB.",
+      "fonte": "Módulo 1, recall bloco 2"
+    },
+    {
+      "id": "cleg-025",
+      "materia": "legislacao",
+      "tema": "constituicao",
+      "frente": "Cite seis princípios do ensino do art. 206 da CF.",
+      "verso": "Igualdade de condições para acesso e permanência · liberdade de aprender, ensinar, pesquisar e divulgar · pluralismo de ideias e coexistência de instituições públicas e privadas · gratuidade do ensino público em estabelecimentos oficiais · valorização dos profissionais, com ingresso exclusivamente por concurso · gestão democrática do ensino público · garantia de padrão de qualidade · piso salarial profissional nacional · direito à educação e à aprendizagem ao longo da vida.",
+      "fonte": "Módulo 1, recall bloco 2"
+    },
+    {
+      "id": "cleg-026",
+      "materia": "legislacao",
+      "tema": "constituicao",
+      "frente": "Quais as duas condições para que o ensino seja livre à iniciativa privada?",
+      "verso": "1) Cumprimento das normas gerais da educação nacional.\n2) Autorização e avaliação de qualidade pelo Poder Público.",
+      "fonte": "Módulo 1, recall bloco 2"
+    },
+    {
+      "id": "cleg-027",
+      "materia": "legislacao",
+      "tema": "constituicao",
+      "frente": "Em que língua é ministrado o ensino fundamental regular? Qual a ressalva constitucional?",
+      "verso": "Em LÍNGUA PORTUGUESA, assegurada às comunidades indígenas também a utilização de suas LÍNGUAS MATERNAS e de processos próprios de aprendizagem.",
+      "fonte": "Módulo 1, recall bloco 2"
+    },
+    {
+      "id": "cleg-028",
+      "materia": "legislacao",
+      "tema": "eca",
+      "frente": "Até que idade se é criança no ECA? E adolescente vai de quando a quando?",
+      "verso": "CRIANÇA: até 12 anos INCOMPLETOS.\nADOLESCENTE: entre 12 e 18 anos de idade.\n\nNos casos EXPRESSOS em lei, aplica-se excepcionalmente o Estatuto a pessoas entre 18 e 21 anos.",
+      "fonte": "Módulo 1, recall bloco 3"
+    },
+    {
+      "id": "cleg-029",
+      "materia": "legislacao",
+      "tema": "eca",
+      "frente": "Quais as quatro alíneas que definem 'absoluta prioridade' (ECA, art. 4º)?",
+      "verso": "a) Primazia de receber proteção e socorro em quaisquer circunstâncias.\nb) Precedência de atendimento nos serviços públicos ou de relevância pública.\nc) Preferência na formulação e na execução das políticas sociais públicas.\nd) Destinação privilegiada de recursos públicos nas áreas de proteção à infância e à juventude.",
+      "fonte": "Módulo 1, recall bloco 3"
+    },
+    {
+      "id": "cleg-030",
+      "materia": "legislacao",
+      "tema": "eca",
+      "frente": "Quais os TRÊS casos que o dirigente de escola comunica ao Conselho Tutelar (ECA, art. 56)?",
+      "verso": "I — Maus-tratos envolvendo seus alunos.\nII — Reiteração de faltas injustificadas e evasão escolar, ESGOTADOS OS RECURSOS ESCOLARES.\nIII — Elevados níveis de repetência.\n\nSão só três. A banca acrescenta um quarto inventado (indisciplina, uso de drogas) e pede a incorreta.",
+      "fonte": "Módulo 1, recall bloco 4"
+    },
+    {
+      "id": "cleg-031",
+      "materia": "legislacao",
+      "tema": "eca",
+      "frente": "Cite cinco aspectos do direito à liberdade (ECA, art. 16).",
+      "verso": "Ir, vir e estar nos logradouros públicos e espaços comunitários · opinião e expressão · crença e culto religioso · brincar, praticar esportes e divertir-se · participar da vida familiar e comunitária sem discriminação · participar da vida política · buscar refúgio, auxílio e orientação.",
+      "fonte": "Módulo 1, recall bloco 3"
+    },
+    {
+      "id": "cleg-032",
+      "materia": "legislacao",
+      "tema": "eca",
+      "frente": "Diferencie castigo físico de tratamento cruel ou degradante (ECA, art. 18-A).",
+      "verso": "CASTIGO FÍSICO: ação disciplinar ou punitiva com uso da FORÇA FÍSICA que resulte em sofrimento físico ou lesão.\nTRATAMENTO CRUEL OU DEGRADANTE: conduta que HUMILHE, AMEACE GRAVEMENTE ou RIDICULARIZE — não exige contato físico.",
+      "fonte": "Módulo 1, recall bloco 3"
+    },
+    {
+      "id": "cleg-033",
+      "materia": "legislacao",
+      "tema": "eca",
+      "frente": "A pobreza é motivo suficiente para perda ou suspensão do poder familiar? Qual a providência correta?",
+      "verso": "NÃO. A falta ou carência de recursos materiais não constitui motivo suficiente.\n\nInexistindo outro motivo, a criança é MANTIDA na família de origem, que deverá obrigatoriamente ser INCLUÍDA EM PROGRAMAS OFICIAIS DE AUXÍLIO.",
+      "fonte": "Módulo 1, recall bloco 3"
+    },
+    {
+      "id": "cleg-034",
+      "materia": "legislacao",
+      "tema": "eca",
+      "frente": "Em que consiste o direito ao RESPEITO no ECA?",
+      "verso": "Na inviolabilidade da integridade FÍSICA, PSÍQUICA e MORAL da criança e do adolescente, abrangendo a preservação da imagem, da identidade, da autonomia, dos valores, ideias e crenças, dos espaços e objetos pessoais.",
+      "fonte": "Módulo 1, recall bloco 3"
+    },
+    {
+      "id": "cleg-035",
+      "materia": "legislacao",
+      "tema": "eca",
+      "frente": "Cite cinco direitos assegurados ao educando pelo art. 53 do ECA.",
+      "verso": "Igualdade de condições para acesso e permanência · direito de ser respeitado por seus educadores · direito de CONTESTAR CRITÉRIOS AVALIATIVOS, recorrendo às instâncias escolares superiores · direito de organização e participação em entidades estudantis · acesso à escola pública e gratuita próxima da residência, garantida vaga a irmãos na mesma etapa ou ciclo.",
+      "fonte": "Módulo 1, recall bloco 4"
+    },
+    {
+      "id": "cleg-036",
+      "materia": "legislacao",
+      "tema": "eca",
+      "frente": "Conselho Tutelar: natureza, composição, mandato e requisitos de candidatura.",
+      "verso": "Órgão PERMANENTE, AUTÔNOMO e NÃO JURISDICIONAL. No mínimo um por Município.\n\nComposição: 5 MEMBROS, escolhidos pela POPULAÇÃO local, mandato de 4 ANOS, permitida recondução.\nRequisitos: reconhecida idoneidade moral, idade superior a 21 ANOS e residir no MUNICÍPIO.",
+      "fonte": "Módulo 1, recall bloco 4"
+    },
+    {
+      "id": "cleg-037",
+      "materia": "legislacao",
+      "tema": "eca",
+      "frente": "Quem organiza o processo de escolha do Conselho Tutelar? Quem fiscaliza?",
+      "verso": "Organiza: o CONSELHO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE (CMDCA), conforme lei municipal.\nFiscaliza: o MINISTÉRIO PÚBLICO.",
+      "fonte": "Módulo 1, recall bloco 4"
+    },
+    {
+      "id": "cleg-038",
+      "materia": "legislacao",
+      "tema": "eca",
+      "frente": "Cite cinco atribuições do Conselho Tutelar (ECA, art. 136).",
+      "verso": "Atender crianças e adolescentes em situação de ameaça ou violação de direitos, aplicando medidas de proteção · atender e aconselhar pais ou responsável · promover a execução de suas decisões, requisitando serviços públicos · encaminhar ao MP notícia de infração administrativa ou penal · encaminhar à autoridade judiciária os casos de sua competência · requisitar certidões de nascimento e óbito · assessorar o Executivo local na proposta orçamentária · representar ao MP para perda ou suspensão do poder familiar.",
+      "fonte": "Módulo 1, recall bloco 4"
+    },
+    {
+      "id": "cleg-039",
+      "materia": "legislacao",
+      "tema": "eca",
+      "frente": "Diferencie Conselho Tutelar de Conselho de Direitos (CMDCA).",
+      "verso": "CONSELHO TUTELAR: não jurisdicional, permanente e autônomo. 5 membros escolhidos pela população, mandato de 4 anos. Atua em CASOS CONCRETOS.\nCMDCA: órgão DELIBERATIVO e CONTROLADOR das ações, composição PARITÁRIA entre governo e sociedade civil. Atua em POLÍTICAS.\n\nRegra: Tutelar cuida do caso; de Direitos cuida da política.",
+      "fonte": "Módulo 1, recall bloco 4"
+    },
+    {
+      "id": "cleg-040",
+      "materia": "legislacao",
+      "tema": "eca",
+      "frente": "As decisões do Conselho Tutelar podem ser revistas? Por quem e a pedido de quem?",
+      "verso": "Sim, somente pela AUTORIDADE JUDICIÁRIA, e a pedido de quem tenha LEGÍTIMO INTERESSE.",
+      "fonte": "Módulo 1, recall bloco 4"
+    },
+    {
+      "id": "cleg-041",
+      "materia": "legislacao",
+      "tema": "eca",
+      "frente": "A quem devem ser comunicados os casos de suspeita ou confirmação de maus-tratos contra criança ou adolescente?",
+      "verso": "Obrigatoriamente ao CONSELHO TUTELAR, sem prejuízo de outras providências legais.\n\nVale para castigo físico, tratamento cruel ou degradante e maus-tratos.",
+      "fonte": "Módulo 1, recall bloco 3"
+    },
+    {
+      "id": "cleg-042",
+      "materia": "legislacao",
+      "tema": "bncc-dcn",
+      "frente": "A BNCC é currículo? Vale para a rede privada?",
+      "verso": "NÃO é currículo — é a BASE sobre a qual os currículos são construídos. Define o comum e obrigatório; o currículo local acrescenta a parte diversificada e as escolhas metodológicas.\n\nSIM, é obrigatória também para a rede PRIVADA. E indica competências e habilidades, sem prescrever metodologia nem material didático.",
+      "fonte": "Módulo 1, recall bloco 5"
+    },
+    {
+      "id": "cleg-043",
+      "materia": "legislacao",
+      "tema": "bncc-dcn",
+      "frente": "Quais os três elementos da definição de competência na BNCC?",
+      "verso": "CONHECIMENTOS (conceitos e procedimentos) + HABILIDADES (práticas, cognitivas e socioemocionais) + ATITUDES E VALORES — mobilizados para resolver demandas complexas da vida cotidiana, do exercício da cidadania e do mundo do trabalho.",
+      "fonte": "Módulo 1, recall bloco 5"
+    },
+    {
+      "id": "cleg-044",
+      "materia": "legislacao",
+      "tema": "bncc-dcn",
+      "frente": "Cite as 10 competências gerais da BNCC.",
+      "verso": "1 Conhecimento · 2 Pensamento científico, crítico e criativo · 3 Repertório cultural · 4 Comunicação · 5 Cultura digital · 6 Trabalho e projeto de vida · 7 Argumentação · 8 Autoconhecimento e autocuidado · 9 Empatia e cooperação · 10 Responsabilidade e cidadania.",
+      "fonte": "Módulo 1, recall bloco 5"
+    },
+    {
+      "id": "cleg-045",
+      "materia": "legislacao",
+      "tema": "bncc-dcn",
+      "frente": "Educação Infantil na BNCC: eixos estruturantes e seis direitos de aprendizagem.",
+      "verso": "EIXOS: INTERAÇÕES e BRINCADEIRA.\nDIREITOS: conviver, brincar, participar, explorar, expressar e conhecer-se.\n\nNão confunda com 'cuidar e educar', que é o binômio da função da etapa, não os eixos.",
+      "fonte": "Módulo 1, recall bloco 5"
+    },
+    {
+      "id": "cleg-046",
+      "materia": "legislacao",
+      "tema": "bncc-dcn",
+      "frente": "Cite os cinco campos de experiências da Educação Infantil.",
+      "verso": "1) O eu, o outro e o nós.\n2) Corpo, gestos e movimentos.\n3) Traços, sons, cores e formas.\n4) Escuta, fala, pensamento e imaginação.\n5) Espaços, tempos, quantidades, relações e transformações.\n\nOrdem lógica: do sujeito ao corpo, do corpo à expressão, da expressão à linguagem, da linguagem ao mundo.",
+      "fonte": "Módulo 1, recall bloco 5"
+    },
+    {
+      "id": "cleg-047",
+      "materia": "legislacao",
+      "tema": "bncc-dcn",
+      "frente": "Quantas áreas do conhecimento no Ensino Fundamental? Quais? E no Ensino Médio?",
+      "verso": "FUNDAMENTAL — cinco: Linguagens; Matemática; Ciências da Natureza; Ciências Humanas; Ensino Religioso.\nMÉDIO — quatro: Linguagens e suas Tecnologias; Matemática e suas Tecnologias; Ciências da Natureza e suas Tecnologias; Ciências Humanas e Sociais Aplicadas (mais formação geral básica e itinerários formativos).",
+      "fonte": "Módulo 1, recall bloco 5"
+    },
+    {
+      "id": "cleg-048",
+      "materia": "legislacao",
+      "tema": "bncc-dcn",
+      "frente": "Decodifique o código de habilidade EF06CI03.",
+      "verso": "EF = etapa (Ensino Fundamental) · 06 = ano (6º) · CI = componente curricular (Ciências) · 03 = número sequencial da habilidade.\n\nLogo: terceira habilidade de Ciências do 6º ano. Na Educação Infantil (EI) os dígitos indicam o grupo etário; no Médio (EM), a área.",
+      "fonte": "Módulo 1, recall bloco 5"
+    },
+    {
+      "id": "cleg-049",
+      "materia": "legislacao",
+      "tema": "bncc-dcn",
+      "frente": "Quais as três dimensões dos princípios nas DCN Gerais (Res. CNE/CEB 04/2010)?",
+      "verso": "ÉTICOS: justiça, solidariedade, liberdade e autonomia.\nPOLÍTICOS: direitos e deveres de cidadania, respeito ao bem comum e à ordem democrática.\nESTÉTICOS: cultivo da sensibilidade, da criatividade, da ludicidade e da diversidade de manifestações artísticas e culturais.",
+      "fonte": "Módulo 1, recall bloco 5"
+    },
+    {
+      "id": "cleg-050",
+      "materia": "legislacao",
+      "tema": "bncc-dcn",
+      "frente": "O que a Resolução CNE/CEB 07/2010 veda nos três anos iniciais do Ensino Fundamental?",
+      "verso": "VEDA a interrupção do trabalho pedagógico com RETENÇÃO do aluno.\n\nOs três anos iniciais formam um bloco pedagógico que deve assegurar a alfabetização e o letramento. Matrícula obrigatória aos 6 anos completos até a data de corte do sistema.",
+      "fonte": "Módulo 1, recall bloco 5"
+    },
+    {
+      "id": "cleg-051",
+      "materia": "legislacao",
+      "tema": "bncc-dcn",
+      "frente": "Como é a avaliação na Educação Infantil, segundo a Resolução CNE/CEB 05/2009?",
+      "verso": "Far-se-á mediante ACOMPANHAMENTO e REGISTRO do desenvolvimento das crianças, SEM O OBJETIVO DE SELEÇÃO, PROMOÇÃO OU CLASSIFICAÇÃO.\n\nHá avaliação — só não tem função classificatória.",
+      "fonte": "Módulo 1, recall bloco 5"
+    },
+    {
+      "id": "cleg-052",
+      "materia": "legislacao",
+      "tema": "normativos-recentes",
+      "frente": "O AEE é complementar ou suplementar? Para quem cada um?",
+      "verso": "COMPLEMENTAR: estudantes com deficiência e com transtornos globais do desenvolvimento — complementa o que a escolarização comum oferece (Libras, Braille, tecnologia assistiva).\nSUPLEMENTAR: altas habilidades ou superdotação — suplementa, enriquece e aprofunda.\n\nNunca SUBSTITUTIVO. A matrícula na rede regular é a regra (Decreto 12.686/2025).",
+      "fonte": "Módulo 1, recall bloco 6"
+    },
+    {
+      "id": "cleg-053",
+      "materia": "legislacao",
+      "tema": "normativos-recentes",
+      "frente": "Quais as TRÊS exceções à restrição de celulares nas escolas (Res. CNE/CEB 02/2025)?",
+      "verso": "1) Uso para fins estritamente PEDAGÓGICOS, sob orientação e supervisão do profissional da educação.\n2) Garantia de ACESSIBILIDADE e inclusão de estudantes com deficiência.\n3) Necessidade de SAÚDE, monitoramento de condição clínica ou uso como equipamento de apoio.\n\nAs regras devem ser construídas COLETIVAMENTE, no PPP e no regimento — não pelo diretor sozinho.",
+      "fonte": "Módulo 1, recall bloco 6"
+    },
+    {
+      "id": "cleg-054",
+      "materia": "legislacao",
+      "tema": "normativos-recentes",
+      "frente": "Diferencie educação integral de tempo integral. Quantas horas define o tempo integral?",
+      "verso": "EDUCAÇÃO INTEGRAL: concepção de formação humana em múltiplas dimensões — intelectual, física, afetiva, social, cultural e ética.\nTEMPO INTEGRAL: ampliação da jornada, igual ou superior a 7 HORAS diárias ou 35 HORAS semanais.\n\nNão são sinônimos: ampliar o tempo sem mudar a concepção é apenas turno estendido (Res. CNE/CEB 07/2025).",
+      "fonte": "Módulo 1, recall bloco 6"
+    },
+    {
+      "id": "cleg-055",
+      "materia": "legislacao",
+      "tema": "normativos-recentes",
+      "frente": "Quais os quatro eixos da Política Nacional de Educação Digital (Lei 14.533/2023)?",
+      "verso": "1) Inclusão digital.\n2) Educação digital escolar.\n3) Capacitação e especialização digital.\n4) Pesquisa e desenvolvimento em tecnologias da informação e comunicação.",
+      "fonte": "Módulo 1, recall bloco 6"
+    },
+    {
+      "id": "cleg-056",
+      "materia": "legislacao",
+      "tema": "normativos-recentes",
+      "frente": "Qual a meta central do Compromisso Nacional Criança Alfabetizada (Decreto 11.556/2023)?",
+      "verso": "Garantir a alfabetização de todas as crianças ao final do 2º ANO do Ensino Fundamental.\n\nPrevê também a recomposição das aprendizagens de estudantes do 3º ao 5º ano que não se alfabetizaram no tempo adequado.",
+      "fonte": "Módulo 1, recall bloco 6"
+    },
+    {
+      "id": "cleg-057",
+      "materia": "legislacao",
+      "tema": "normativos-recentes",
+      "frente": "Cite as seis dimensões da acessibilidade.",
+      "verso": "Arquitetônica · comunicacional · atitudinal · metodológica · instrumental · programática.\n\nAs mais esquecidas — e mais cobradas — são a ATITUDINAL (barreiras nas atitudes) e a PROGRAMÁTICA (barreiras embutidas em normas e políticas).",
+      "fonte": "Módulo 1, recall bloco 6"
+    },
+    {
+      "id": "cleg-058",
+      "materia": "legislacao",
+      "tema": "leis-avulsas",
+      "frente": "Quantas diretrizes e quantas metas tem o PNE? Qual sua duração e as metas de investimento?",
+      "verso": "10 DIRETRIZES e 20 METAS, com estratégias correspondentes. Duração DECENAL (Lei 13.005/2014).\n\nInvestimento público em educação: no mínimo 7% do PIB no 5º ano de vigência e no mínimo 10% do PIB ao final do decênio.",
+      "fonte": "Módulo 1, recall bloco 7"
+    },
+    {
+      "id": "cleg-059",
+      "materia": "legislacao",
+      "tema": "leis-avulsas",
+      "frente": "Quais os três elementos que caracterizam o bullying (Lei 13.185/2015)?",
+      "verso": "INTENCIONALIDADE + REPETIÇÃO + DESEQUILÍBRIO DE PODER.\n\nFaltando um deles, tecnicamente não é bullying: pode ser conflito entre pares ou agressão isolada. A lei privilegia a solução PEDAGÓGICA sobre a punitiva e prevê assistência às vítimas E aos agressores.",
+      "fonte": "Módulo 1, recall bloco 7"
+    },
+    {
+      "id": "cleg-060",
+      "materia": "legislacao",
+      "tema": "leis-avulsas",
+      "frente": "Cite seis classificações de bullying previstas na Lei 13.185/2015.",
+      "verso": "VERBAL (insultar, xingar, apelidar) · MORAL (difamar, caluniar, espalhar rumores) · SEXUAL (assediar, induzir, abusar) · SOCIAL (ignorar, isolar, excluir) · PSICOLÓGICA (perseguir, amedrontar, chantagear) · FÍSICA (socar, chutar, bater) · MATERIAL (furtar, roubar, destruir pertences) · VIRTUAL / cyberbullying.",
+      "fonte": "Módulo 1, recall bloco 7"
+    },
+    {
+      "id": "cleg-061",
+      "materia": "legislacao",
+      "tema": "leis-avulsas",
+      "frente": "Periodicidade e público da capacitação em primeiros socorros (Lei Lucas, 13.722/2018).",
+      "verso": "ANUALMENTE, para professores e funcionários de estabelecimentos de ensino PÚBLICOS E PRIVADOS de educação básica e de recreação infantil.\n\nPreferencialmente por profissionais da área da saúde, com certificação. O estabelecimento deve dispor de kit de primeiros socorros.",
+      "fonte": "Módulo 1, recall bloco 7"
+    },
+    {
+      "id": "cleg-062",
+      "materia": "legislacao",
+      "tema": "leis-avulsas",
+      "frente": "Até que idade vai a primeira infância? Em meses?",
+      "verso": "Os primeiros 6 ANOS COMPLETOS, ou 72 MESES de vida (Lei 13.257/2016 — Marco Legal da Primeira Infância).",
+      "fonte": "Módulo 1, recall bloco 7"
+    },
+    {
+      "id": "cped-001",
+      "materia": "pedagogia",
+      "tema": "tendencias-autores",
+      "frente": "Onde está o centro do processo em cada tendência: tradicional, renovada, tecnicista, libertadora e histórico-crítica?",
+      "verso": "TRADICIONAL: o professor e o conteúdo.\nRENOVADA (Escola Nova): o aluno.\nTECNICISTA: o método e a técnica.\nLIBERTADORA: o diálogo e a conscientização.\nHISTÓRICO-CRÍTICA: a relação entre educação e sociedade.",
+      "fonte": "Módulo 2, recall rodada A"
+    },
+    {
+      "id": "cped-002",
+      "materia": "pedagogia",
+      "tema": "tendencias-autores",
+      "frente": "O que Freire chama de educação bancária? O que propõe no lugar?",
+      "verso": "BANCÁRIA: o educador deposita conteúdos no educando, tratado como recipiente vazio.\nPROBLEMATIZADORA: parte da realidade concreta, dialoga e problematiza, formando sujeitos que leem o mundo.",
+      "fonte": "Módulo 2, recall rodada A"
+    },
+    {
+      "id": "cped-003",
+      "materia": "pedagogia",
+      "tema": "tendencias-autores",
+      "frente": "O que são temas geradores?",
+      "verso": "Conteúdos extraídos do universo vocabular e existencial dos educandos, tomados como ponto de partida do currículo (Paulo Freire).\n\nSe 'temas geradores' aparecer numa alternativa, é pedagogia libertadora.",
+      "fonte": "Módulo 2, recall rodada A"
+    },
+    {
+      "id": "cped-004",
+      "materia": "pedagogia",
+      "tema": "tendencias-autores",
+      "frente": "Cite os cinco passos do método de Saviani, em ordem.",
+      "verso": "1) Prática social inicial.\n2) Problematização.\n3) Instrumentalização.\n4) Catarse.\n5) Prática social final.\n\nComeça e termina na prática social. A CATARSE é a síntese, o momento em que o aluno incorpora o novo saber.",
+      "fonte": "Módulo 2, recall rodada A"
+    },
+    {
+      "id": "cped-005",
+      "materia": "pedagogia",
+      "tema": "tendencias-autores",
+      "frente": "Qual palavra identifica imediatamente Saviani?",
+      "verso": "CATARSE — praticamente exclusiva dele no vocabulário pedagógico.\n\nA outra marca: 'saber elaborado' ou 'saber sistematizado' como objeto próprio da escola.",
+      "fonte": "Módulo 2, recall rodada A"
+    },
+    {
+      "id": "cped-006",
+      "materia": "pedagogia",
+      "tema": "didatica-curriculo",
+      "frente": "O que Libâneo entende por didática? Qual sua pedagogia?",
+      "verso": "DIDÁTICA: a teoria do ensino — ramo da pedagogia que investiga os fundamentos, as condições e os modos de realização da instrução e do ensino.\nPEDAGOGIA CRÍTICO-SOCIAL DOS CONTEÚDOS: o domínio do conhecimento sistematizado é condição para a participação crítica; o conteúdo é instrumento da criticidade, não seu inimigo.",
+      "fonte": "Módulo 2, recall rodada A"
+    },
+    {
+      "id": "cped-007",
+      "materia": "pedagogia",
+      "tema": "gestao-escolar",
+      "frente": "Cite as quatro concepções de organização e gestão escolar segundo Libâneo. Qual ele defende?",
+      "verso": "TÉCNICO-CIENTÍFICA: hierarquia rígida, poder centralizado, ênfase em normas.\nAUTOGESTIONÁRIA: responsabilidade coletiva, recusa a normas e hierarquias.\nINTERPRETATIVA: prioriza significados subjetivos; organização como realidade socialmente construída.\nDEMOCRÁTICO-PARTICIPATIVA: articula direção e participação, decisões coletivas com responsabilização. ← é a defendida por ele.",
+      "fonte": "Módulo 2, recall rodada A"
+    },
+    {
+      "id": "cped-008",
+      "materia": "pedagogia",
+      "tema": "didatica-curriculo",
+      "frente": "Quais os três componentes indissociáveis do processo de ensino, segundo Libâneo?",
+      "verso": "OBJETIVOS, CONTEÚDOS e MÉTODOS.\n\nO ensino é BILATERAL: combina a atividade do professor (ensinar) e a do aluno (aprender).",
+      "fonte": "Módulo 2, bloco 2.1"
+    },
+    {
+      "id": "cped-009",
+      "materia": "pedagogia",
+      "tema": "didatica-curriculo",
+      "frente": "Quem escreveu 'Currículo, território em disputa' e o que a expressão significa?",
+      "verso": "Miguel ARROYO. O currículo não é lista neutra de conteúdos, e sim campo de conflito sobre quais saberes, sujeitos e experiências merecem estar na escola.\n\nPerguntar 'que conhecimentos são legítimos?' é sempre uma pergunta política.",
+      "fonte": "Módulo 2, recall rodada A"
+    },
+    {
+      "id": "cped-010",
+      "materia": "pedagogia",
+      "tema": "didatica-curriculo",
+      "frente": "Quais os três níveis de planejamento segundo Vasconcellos?",
+      "verso": "1) PROJETO POLÍTICO-PEDAGÓGICO — plano global da instituição.\n2) PROJETO DE ENSINO-APRENDIZAGEM — plano do professor com sua turma, mediação entre o PPP e a sala de aula.\n3) PLANO DE CURSO / PLANO DE AULA — detalhamento operacional de curto prazo.",
+      "fonte": "Módulo 2, recall rodada B"
+    },
+    {
+      "id": "cped-011",
+      "materia": "pedagogia",
+      "tema": "didatica-curriculo",
+      "frente": "Quais as três dimensões do PPP segundo Vasconcellos?",
+      "verso": "1) MARCO REFERENCIAL — o que queremos (subdivide-se em marco situacional, doutrinal e operativo).\n2) DIAGNÓSTICO — o que temos, o que falta.\n3) PROGRAMAÇÃO — o que faremos para superar a distância entre os dois.",
+      "fonte": "Módulo 2, recall rodada B"
+    },
+    {
+      "id": "cped-012",
+      "materia": "pedagogia",
+      "tema": "didatica-curriculo",
+      "frente": "Quais os quatro tipos de conteúdo de Zabala, com um exemplo de cada?",
+      "verso": "FACTUAIS: fatos, dados, nomes — a data da Proclamação da República. Aprendem-se por memorização.\nCONCEITUAIS: conceitos e princípios — o conceito de democracia. Por compreensão.\nPROCEDIMENTAIS: habilidades e técnicas — resolver uma equação. Por exercitação progressiva.\nATITUDINAIS: valores, atitudes e normas — respeitar a opinião divergente. Pela vivência e pelo exemplo.",
+      "fonte": "Módulo 2, recall rodada B"
+    },
+    {
+      "id": "cped-013",
+      "materia": "pedagogia",
+      "tema": "didatica-curriculo",
+      "frente": "Diferencie currículo formal, real e oculto.",
+      "verso": "FORMAL: o prescrito nos documentos.\nREAL: o efetivamente praticado em sala.\nOCULTO: o conjunto de valores, normas e relações transmitidos sem estar prescrito — hierarquias, rotinas, formas de tratamento, organização do espaço.",
+      "fonte": "Módulo 2, recall rodada B"
+    },
+    {
+      "id": "cped-014",
+      "materia": "pedagogia",
+      "tema": "avaliacao",
+      "frente": "Qual a oposição central de Luckesi? Cite três diferenças entre os dois polos.",
+      "verso": "EXAME x AVALIAÇÃO.\nExame: pontual, classificatório, excludente, retrospectivo, autoritário.\nAvaliação: processual, diagnóstica, inclusiva, prospectiva, dialógica.\n\n'A avaliação é um ato amoroso': acolhe a situação como ela é para poder transformá-la. Avaliação que não gera decisão pedagógica é exame.",
+      "fonte": "Módulo 2, recall rodada B"
+    },
+    {
+      "id": "cped-015",
+      "materia": "pedagogia",
+      "tema": "avaliacao",
+      "frente": "Diferencie avaliação diagnóstica, formativa e somativa.",
+      "verso": "DIAGNÓSTICA: no INÍCIO, para identificar conhecimentos prévios e planejar a intervenção.\nFORMATIVA: AO LONGO do processo, para regular ensino e aprendizagem enquanto há tempo de agir.\nSOMATIVA: ao FINAL, para verificar resultados e, quando o caso, certificar ou promover.",
+      "fonte": "Módulo 2, recall rodada B"
+    },
+    {
+      "id": "cped-016",
+      "materia": "pedagogia",
+      "tema": "avaliacao",
+      "frente": "A LDB privilegia qual modalidade de avaliação? Com base em qual dispositivo?",
+      "verso": "A FORMATIVA.\n\nO art. 24, V determina avaliação contínua e cumulativa, com prevalência dos aspectos QUALITATIVOS sobre os quantitativos e dos resultados AO LONGO do período sobre os de eventuais provas finais.",
+      "fonte": "Módulo 2, recall rodada B"
+    },
+    {
+      "id": "cped-017",
+      "materia": "pedagogia",
+      "tema": "avaliacao",
+      "frente": "Como se compõe o IDEB? O que acontece se a escola reprova demais?",
+      "verso": "IDEB = DESEMPENHO (Saeb) × FLUXO (aprovação). Escala de 0 a 10.\n\nReprovar em massa derruba o fluxo e, com ele, o índice — mesmo com boas notas. Aprovar em massa sem aprendizagem derruba o desempenho. Foi construído assim de propósito.",
+      "fonte": "Módulo 2, recall rodada B"
+    },
+    {
+      "id": "cped-018",
+      "materia": "pedagogia",
+      "tema": "avaliacao",
+      "frente": "O que são SAEB, taxa de distorção idade-série e indicadores de fluxo?",
+      "verso": "SAEB: Sistema de Avaliação da Educação Básica — avaliação externa em larga escala aplicada pelo Inep.\nDISTORÇÃO IDADE-SÉRIE: proporção de alunos com dois ou mais anos de atraso em relação à idade adequada.\nFLUXO: taxas de aprovação, reprovação e abandono, que compõem o IDEB junto ao desempenho.",
+      "fonte": "Módulo 2, bloco 3.3"
+    },
+    {
+      "id": "cped-019",
+      "materia": "pedagogia",
+      "tema": "inclusao-diversidade",
+      "frente": "Diferencie integração de inclusão segundo Mantoan.",
+      "verso": "INTEGRAÇÃO: o aluno se adapta à escola; inserção condicionada à sua capacidade; currículo mantido; foco na deficiência do sujeito; serviços paralelos e substitutivos.\nINCLUSÃO: a escola se transforma para receber o aluno; direito incondicional; currículo e práticas repensados; foco nas barreiras do ambiente; apoio dentro do percurso comum.",
+      "fonte": "Módulo 2, recall rodada C"
+    },
+    {
+      "id": "cped-020",
+      "materia": "pedagogia",
+      "tema": "inclusao-diversidade",
+      "frente": "O que é sala de recursos multifuncionais? Em que turno funciona?",
+      "verso": "Espaço de realização do Atendimento Educacional Especializado, em TURNO CONTRÁRIO ao da escolarização comum.\n\nO AEE nunca substitui a escolarização comum — apenas a complementa ou suplementa.",
+      "fonte": "Módulo 2, recall rodada C"
+    },
+    {
+      "id": "cped-021",
+      "materia": "pedagogia",
+      "tema": "inclusao-diversidade",
+      "frente": "O que é Desenho Universal para a Aprendizagem?",
+      "verso": "Planejar desde o início para a diversidade, em vez de adaptar depois.\n\nDistingue-se da adaptação ou flexibilização curricular, que ajusta objetivos, conteúdos, metodologias, temporalidade e avaliação preservando o direito de aprender.",
+      "fonte": "Módulo 2, recall rodada C"
+    },
+    {
+      "id": "cped-022",
+      "materia": "pedagogia",
+      "tema": "inclusao-diversidade",
+      "frente": "Quem é o público-alvo da educação especial?",
+      "verso": "Pessoas com DEFICIÊNCIA, com TRANSTORNOS GLOBAIS DO DESENVOLVIMENTO e com ALTAS HABILIDADES ou SUPERDOTAÇÃO.\n\nDificuldade de aprendizagem em geral e distorção idade-série NÃO integram esse público.",
+      "fonte": "Módulo 2, bloco 4.2"
+    },
+    {
+      "id": "cped-023",
+      "materia": "pedagogia",
+      "tema": "inclusao-diversidade",
+      "frente": "Quais os princípios das Diretrizes Nacionais para a Educação em Direitos Humanos (Parecer CNE/CP 08/2012)?",
+      "verso": "Dignidade humana · igualdade de direitos · reconhecimento e valorização das diferenças e diversidades · laicidade do Estado · democracia na educação · transversalidade, vivência e globalidade · sustentabilidade socioambiental.\n\nPode ser desenvolvida de forma transversal, como conteúdo específico ou de maneira mista.",
+      "fonte": "Módulo 2, bloco 4.3"
+    },
+    {
+      "id": "cped-024",
+      "materia": "pedagogia",
+      "tema": "gestao-escolar",
+      "frente": "Diferencie reflexão NA ação de reflexão SOBRE a ação (Schön).",
+      "verso": "NA AÇÃO: durante a prática, ajustando em tempo real.\nSOBRE A AÇÃO: depois, analisando o ocorrido.\nSOBRE A REFLEXÃO NA AÇÃO: metanálise que constrói repertório profissional.",
+      "fonte": "Módulo 2, recall rodada C"
+    },
+    {
+      "id": "cped-025",
+      "materia": "pedagogia",
+      "tema": "gestao-escolar",
+      "frente": "Quais os quatro tipos de saberes docentes de Tardif?",
+      "verso": "1) Da FORMAÇÃO PROFISSIONAL (ciências da educação e ideologia pedagógica).\n2) DISCIPLINARES (dos campos do conhecimento).\n3) CURRICULARES (programas, objetivos, métodos).\n4) EXPERIENCIAIS ou práticos (construídos no exercício cotidiano).\n\nO saber docente é plural, temporal e situado — e os experienciais são os mais valorizados pelos próprios professores.",
+      "fonte": "Módulo 2, recall rodada C"
+    },
+    {
+      "id": "cped-026",
+      "materia": "pedagogia",
+      "tema": "didatica-curriculo",
+      "frente": "O que é TPACK? Onde está a competência do professor nesse modelo?",
+      "verso": "Modelo que articula três conhecimentos: TECNOLÓGICO, PEDAGÓGICO e do CONTEÚDO.\n\nA competência está na INTERSEÇÃO dos três, não em cada um isoladamente.",
+      "fonte": "Módulo 2, recall rodada C"
+    },
+    {
+      "id": "cped-027",
+      "materia": "pedagogia",
+      "tema": "tendencias-autores",
+      "frente": "Diferencie alfabetização de letramento (Magda Soares).",
+      "verso": "ALFABETIZAÇÃO: aquisição do sistema de escrita alfabético e ortográfico — codificar e decodificar.\nLETRAMENTO: capacidade de usar a leitura e a escrita em práticas sociais reais.\n\nSão processos DISTINTOS e SIMULTÂNEOS: alfabetizar letrando. Não são sinônimos nem etapas sucessivas.",
+      "fonte": "Módulo 2, recall rodada C"
+    },
+    {
+      "id": "cped-028",
+      "materia": "pedagogia",
+      "tema": "gestao-escolar",
+      "frente": "Cite três marcas típicas da alternativa ERRADA em questões de gestão de conflito.",
+      "verso": "O diretor decide sozinho, sem ouvir os envolvidos ou o colegiado · a escola transfere imediatamente ao Conselho Tutelar um problema pedagógico · a escola oculta o caso da família para 'não gerar conflito' · a resposta é apenas punitiva, sem dimensão formativa · a resposta exclui o aluno do convívio como primeira medida.",
+      "fonte": "Módulo 2, recall rodada C"
+    },
+    {
+      "id": "cped-029",
+      "materia": "pedagogia",
+      "tema": "gestao-escolar",
+      "frente": "Qual o padrão de conduta CORRETA do gestor diante de um conflito escolar?",
+      "verso": "Escutar todas as partes antes de decidir · distinguir o problema pedagógico do disciplinar e do de proteção · buscar solução coletiva e institucional · registrar e dar retorno formal às partes · acionar a rede de proteção quando houver indício de violação de direitos, sem transferir a ela o que é responsabilidade pedagógica da escola.",
+      "fonte": "Módulo 2, bloco 5.2"
+    },
+    {
+      "id": "cped-030",
+      "materia": "pedagogia",
+      "tema": "gestao-escolar",
+      "frente": "Conselho de Escola, APM, Grêmio Estudantil e Conselho de Classe: qual a natureza de cada um?",
+      "verso": "CONSELHO DE ESCOLA: colegiado DELIBERATIVO e consultivo, com todos os segmentos. Aprecia o PPP, o plano de aplicação de recursos e as normas de convivência.\nAPM: entidade de direito privado, sem fins lucrativos; colabora na gestão de recursos e na integração escola-comunidade.\nGRÊMIO: organização autônoma dos estudantes, garantida pelo ECA (art. 53).\nCONSELHO DE CLASSE: avaliação coletiva do processo de ensino-aprendizagem.",
+      "fonte": "Módulo 2, bloco 5.1"
+    },
+    {
+      "id": "cped-031",
+      "materia": "pedagogia",
+      "tema": "gestao-escolar",
+      "frente": "O que Moran defende sobre tecnologias na educação?",
+      "verso": "Integração como TRANSFORMAÇÃO METODOLÓGICA, não como substituição de recurso: colocar vídeo no lugar do livro sem mudar a concepção de ensino não altera nada.\n\nTrabalha com metodologias ativas, ensino híbrido e personalização dos percursos.",
+      "fonte": "Módulo 2, bloco 5.4"
+    },
+    {
+      "id": "cped-032",
+      "materia": "pedagogia",
+      "tema": "didatica-curriculo",
+      "frente": "O que são sala de aula invertida e ensino híbrido?",
+      "verso": "SALA INVERTIDA: o primeiro contato com o conteúdo ocorre fora da aula; o tempo presencial é usado para aplicação, discussão e dúvidas.\nENSINO HÍBRIDO: combinação intencional de momentos presenciais e digitais — rotação por estações, laboratório rotacional ou sala invertida.",
+      "fonte": "Módulo 2, bloco 5.4"
+    },
+    {
+      "id": "cped-033",
+      "materia": "pedagogia",
+      "tema": "tendencias-autores",
+      "frente": "Cortella e bell hooks: qual a tese central de cada um?",
+      "verso": "CORTELLA: o conhecimento é construído socialmente e a escola NÃO É NEUTRA — toda prática pedagógica carrega uma opção política. Recusar-se a assumi-la já é uma opção.\nBELL HOOKS: educação como prática da liberdade; a sala de aula como espaço de engajamento radical, em que corpo, emoção e experiência não são expulsos do ato de aprender.",
+      "fonte": "Módulo 2, bloco 1.2"
+    },
+    {
+      "id": "cped-034",
+      "materia": "pedagogia",
+      "tema": "tendencias-autores",
+      "frente": "Quais saberes de 'Pedagogia da Autonomia' (Freire) são mais cobrados?",
+      "verso": "Não há docência sem discência · ensinar exige rigorosidade metódica, pesquisa, respeito aos saberes dos educandos, criticidade, estética e ética · exige risco e aceitação do novo · exige reflexão crítica sobre a prática · exige consciência do inacabamento e respeito à autonomia do educando · exige a convicção de que a mudança é possível.\n\n'Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua produção.'",
+      "fonte": "Módulo 2, bloco 1.3"
+    },
+    {
+      "id": "cped-035",
+      "materia": "pedagogia",
+      "tema": "didatica-curriculo",
+      "frente": "Como as DCN Gerais (Res. CNE/CEB 04/2010) definem currículo?",
+      "verso": "Conjunto de valores e práticas que proporcionam a produção e a socialização de significados no espaço social e contribuem para a construção de identidades socioculturais.",
+      "fonte": "Módulo 2, bloco 2.4"
+    },
+    {
+      "id": "cmat-001",
+      "materia": "matematica",
+      "tema": "logica",
+      "frente": "Quando o condicional p → q é FALSO?",
+      "verso": "Em um único caso: p VERDADEIRO e q FALSO.\n\nNos outros três casos é verdadeiro. Decore: V → F = F. Todo o resto = V.",
+      "fonte": "Módulo 3, bloco 1.1"
+    },
+    {
+      "id": "cmat-002",
+      "materia": "matematica",
+      "tema": "logica",
+      "frente": "Quando são verdadeiros: conjunção, disjunção, disjunção exclusiva e bicondicional?",
+      "verso": "E (∧): só quando AMBAS forem verdadeiras.\nOU (∨): quando AO MENOS UMA for verdadeira.\nOU... OU (exclusiva): quando tiverem valores DIFERENTES.\nSE E SOMENTE SE (↔): quando tiverem o MESMO valor.",
+      "fonte": "Módulo 3, bloco 1.1"
+    },
+    {
+      "id": "cmat-003",
+      "materia": "matematica",
+      "tema": "logica",
+      "frente": "Enuncie as Leis de De Morgan.",
+      "verso": "~(p ∧ q) ≡ ~p ∨ ~q — nega o E, vira OU.\n~(p ∨ q) ≡ ~p ∧ ~q — nega o OU, vira E.\n\nEm palavras: nega as duas partes e troca o conectivo.",
+      "fonte": "Módulo 3, bloco 1.2"
+    },
+    {
+      "id": "cmat-004",
+      "materia": "matematica",
+      "tema": "logica",
+      "frente": "Como se nega um condicional?",
+      "verso": "~(p → q) ≡ p ∧ ~q — mantém a primeira, nega a segunda, junta com E.\n\nA negação de 'Se chover, levarei guarda-chuva' é 'Choveu E não levei guarda-chuva'.",
+      "fonte": "Módulo 3, bloco 1.2"
+    },
+    {
+      "id": "cmat-005",
+      "materia": "matematica",
+      "tema": "logica",
+      "frente": "Negação dos quantificadores: TODO, NENHUM e ALGUM.",
+      "verso": "TODO A é B → ALGUM A NÃO é B.\nNENHUM A é B → ALGUM A é B.\nALGUM A é B → NENHUM A é B.\nALGUM A não é B → TODO A é B.\n\nErro clássico: negar 'todos passaram' com 'nenhum passou'. O correto é 'pelo menos um não passou'.",
+      "fonte": "Módulo 3, bloco 1.2"
+    },
+    {
+      "id": "cmat-006",
+      "materia": "matematica",
+      "tema": "logica",
+      "frente": "Contrapositiva, recíproca e inversa: qual delas equivale ao condicional original?",
+      "verso": "Original: p → q.\nCONTRAPOSITIVA ~q → ~p — EQUIVALE. ✓\nRECÍPROCA q → p — não equivale. ✗\nINVERSA ~p → ~q — não equivale. ✗\n\nA contrapositiva inverte a ordem E nega ambas. Fazer só uma das duas coisas produz proposição diferente.",
+      "fonte": "Módulo 3, bloco 1.3"
+    },
+    {
+      "id": "cmat-007",
+      "materia": "matematica",
+      "tema": "logica",
+      "frente": "Como resolver questões de diagramas lógicos com 'todo', 'algum' e 'nenhum'?",
+      "verso": "TODO A é B → A inteiramente dentro de B.\nNENHUM A é B → círculos separados.\nALGUM A é B → sobreposição parcial (admite que seja 'todo').\n\nRegra de ouro: desenhe TODAS as configurações possíveis. Se você consegue desenhar UM cenário que respeita as premissas e contraria a conclusão, a conclusão não é válida.",
+      "fonte": "Módulo 3, bloco 1.4"
+    },
+    {
+      "id": "cmat-008",
+      "materia": "matematica",
+      "tema": "logica",
+      "frente": "O que é uma proposição? O que NÃO é proposição?",
+      "verso": "PROPOSIÇÃO: toda sentença DECLARATIVA à qual se pode atribuir verdadeiro ou falso.\n\nNÃO são proposições: perguntas, ordens (imperativo), exclamações e sentenças abertas com variável indefinida (x + 2 = 5).",
+      "fonte": "Módulo 3, bloco 1.1"
+    },
+    {
+      "id": "cmat-009",
+      "materia": "matematica",
+      "tema": "logica",
+      "frente": "Como identificar o padrão de uma sequência numérica?",
+      "verso": "1) Calcule as diferenças entre termos consecutivos. Constantes → aritmética.\n2) Se não, calcule as diferenças das diferenças.\n3) Teste a divisão entre termos → geométrica.\n4) Teste posições alternadas → duas sequências intercaladas.\n\nTambém aparecem padrões do tipo 'multiplica por 2 e soma 1' e sequências figurais (rotação, reflexão, acréscimo).",
+      "fonte": "Módulo 3, bloco 1.5"
+    },
+    {
+      "id": "cmat-010",
+      "materia": "matematica",
+      "tema": "aritmetica",
+      "frente": "As três operações básicas de porcentagem.",
+      "verso": "PARTE = Total × (percentual ÷ 100). Ex.: 15% de 840 = 126.\nPERCENTUAL = (Parte ÷ Total) × 100. Ex.: 126 de 840 = 15%.\nTOTAL = Parte ÷ (percentual ÷ 100). Ex.: 126 é 15% de 840.",
+      "fonte": "Módulo 3, bloco 2.1"
+    },
+    {
+      "id": "cmat-011",
+      "materia": "matematica",
+      "tema": "aritmetica",
+      "frente": "Como calcular acréscimos e descontos sucessivos?",
+      "verso": "Use FATORES e multiplique. Aumento de 20% → ×1,20. Desconto de 20% → ×0,80. Desconto de 35% → ×0,65.\n\nSUCESSIVOS: multiplique os fatores. +10% seguido de −10% → 1,10 × 0,90 = 0,99, ou seja, PERDA de 1%.\n\nAumentar e depois descontar o mesmo percentual sempre gera perda.",
+      "fonte": "Módulo 3, bloco 2.1"
+    },
+    {
+      "id": "cmat-012",
+      "materia": "matematica",
+      "tema": "aritmetica",
+      "frente": "Como saber se uma regra de três é direta ou inversa?",
+      "verso": "DIRETA: uma aumenta, a outra aumenta. Mais alunos → mais merenda.\nINVERSA: uma aumenta, a outra diminui. Mais operários → menos dias.\n\nTeste mental: se eu dobrar a primeira grandeza, a segunda dobra ou cai pela metade? É aqui que se perde a questão — não na conta.",
+      "fonte": "Módulo 3, bloco 2.2"
+    },
+    {
+      "id": "cmat-013",
+      "materia": "matematica",
+      "tema": "aritmetica",
+      "frente": "Como montar uma regra de três COMPOSTA?",
+      "verso": "Fixe a coluna da incógnita e analise cada outra grandeza SEPARADAMENTE em relação a ela, decidindo se é direta ou inversa. Depois monte a proporção invertendo as razões das grandezas inversas.\n\nEx.: 4 professores corrigem 200 provas em 5 dias; 6 professores e 450 provas → 5/x = (6/4) × (200/450) = 2/3 → x = 7,5 dias.",
+      "fonte": "Módulo 3, bloco 2.2"
+    },
+    {
+      "id": "cmat-014",
+      "materia": "matematica",
+      "tema": "aritmetica",
+      "frente": "Como se calcula a média ponderada? Qual o erro mais comum?",
+      "verso": "Soma dos produtos (valor × peso) dividida pela SOMA DOS PESOS.\n\nEx.: 7 (peso 2), 8 (peso 3), 6 (peso 5) → (14+24+30) ÷ 10 = 6,8.\n\nErro comum: dividir pela QUANTIDADE de valores (3) em vez da soma dos pesos (10). A banca costuma colocar esse resultado errado entre as alternativas.",
+      "fonte": "Módulo 3, bloco 2.3"
+    },
+    {
+      "id": "cmat-015",
+      "materia": "matematica",
+      "tema": "aritmetica",
+      "frente": "Fórmula do juro simples e as duas exigências que derrubam candidato.",
+      "verso": "J = C × i × t · M = C + J\n\n1) TAXA E TEMPO NA MESMA UNIDADE. Taxa de 12% ao ano com tempo de 8 meses → converta para 1% ao mês, ou o tempo para 8/12 de ano.\n2) A TAXA ENTRA EM DECIMAL. 5% → 0,05.\n\nNo juro simples, o juro incide sempre sobre o CAPITAL INICIAL.",
+      "fonte": "Módulo 3, bloco 2.4"
+    },
+    {
+      "id": "cmat-016",
+      "materia": "matematica",
+      "tema": "aritmetica",
+      "frente": "Quando usar MMC e quando usar MDC?",
+      "verso": "MMC: problemas de ENCONTRO ou COINCIDÊNCIA. 'Ônibus a cada 12 e 18 minutos, quando coincidem?' → MMC(12,18) = 36.\nMDC: DIVISÃO EM PARTES IGUAIS E MÁXIMAS. '48 cadernos e 36 lápis em kits iguais sem sobra' → MDC(48,36) = 12.\n\nRegra: QUANDO se juntam de novo → MMC. Em QUANTAS partes iguais dividir → MDC.",
+      "fonte": "Módulo 3, bloco 2.5"
+    },
+    {
+      "id": "cmat-017",
+      "materia": "matematica",
+      "tema": "geometria-medidas",
+      "frente": "Conversão de unidades: comprimento, área e volume andam de quanto em quanto?",
+      "verso": "COMPRIMENTO: ×10 a cada degrau.\nÁREA: ×100 a cada degrau.\nVOLUME: ×1000 a cada degrau.\n\n1 m² = 10.000 cm² (não 100!). 1 m³ = 1.000.000 cm³.\nCapacidade: 1 litro = 1 dm³ · 1 m³ = 1000 litros.",
+      "fonte": "Módulo 3, bloco 3.1"
+    },
+    {
+      "id": "cmat-018",
+      "materia": "matematica",
+      "tema": "geometria-medidas",
+      "frente": "Áreas do quadrado, retângulo, triângulo, trapézio e círculo.",
+      "verso": "Quadrado: A = L² · Retângulo: A = b × h · Triângulo: A = (b × h) ÷ 2 · Trapézio: A = [(B + b) × h] ÷ 2 · Círculo: A = πr², comprimento = 2πr.\n\nVolumes: paralelepípedo = a × b × c · cubo = a³ · cilindro = πr² × h.",
+      "fonte": "Módulo 3, bloco 3.2"
+    },
+    {
+      "id": "cmat-019",
+      "materia": "matematica",
+      "tema": "geometria-medidas",
+      "frente": "Teorema de Pitágoras e os ternos pitagóricos que a banca usa.",
+      "verso": "a² = b² + c², em que a é a HIPOTENUSA — lado oposto ao ângulo reto e sempre o maior.\n\nTernos: (3,4,5) · (6,8,10) · (5,12,13) · (9,12,15). Reconhecer dois valores dispensa a conta.",
+      "fonte": "Módulo 3, bloco 3.2"
+    },
+    {
+      "id": "cmat-020",
+      "materia": "matematica",
+      "tema": "geometria-medidas",
+      "frente": "O que a banca testa em leitura de tabelas e gráficos?",
+      "verso": "Ler o valor correto atentando para a escala e para a origem do eixo (nem sempre é zero) · calcular variação percentual: [(final − inicial) ÷ inicial] × 100 · distinguir variação ABSOLUTA da RELATIVA · identificar o gráfico adequado (linhas para evolução, barras para comparação, setores para composição).\n\nCuidado com o gráfico truncado: leia os NÚMEROS, nunca a impressão visual.",
+      "fonte": "Módulo 3, bloco 3.3"
+    },
+    {
+      "id": "cpor-001",
+      "materia": "portugues",
+      "tema": "crase-regencia",
+      "frente": "Qual o teste que resolve a maioria das questões de crase?",
+      "verso": "Troque a palavra feminina por uma masculina equivalente.\n\nSe aparecer AO na versão masculina, há crase na feminina. Se aparecer apenas A ou O, não há.\n\n'Vou À escola' → 'Vou AO colégio' ✓ · 'Vou A pé' → 'Vou A pé' ✗",
+      "fonte": "Módulo 4, bloco 1.1"
+    },
+    {
+      "id": "cpor-002",
+      "materia": "portugues",
+      "tema": "crase-regencia",
+      "frente": "Em que casos NUNCA há crase?",
+      "verso": "Antes de palavra masculina · antes de verbo · antes de pronome pessoal · antes da maioria dos indefinidos e demonstrativos · entre palavras repetidas (dia a dia, cara a cara) · antes de nome de cidade que não admite artigo · antes de numeral cardinal.",
+      "fonte": "Módulo 4, bloco 1.2"
+    },
+    {
+      "id": "cpor-003",
+      "materia": "portugues",
+      "tema": "crase-regencia",
+      "frente": "Em que casos SEMPRE há crase?",
+      "verso": "Em locuções adverbiais, prepositivas e conjuntivas femininas: à noite, às pressas, à vista, à toa, à medida que, à custa de, à procura de.\nNa indicação de HORAS DETERMINADAS: às 14h30.\nNas expressões À MODA DE e À MANEIRA DE, mesmo subentendidas: bife à milanesa.",
+      "fonte": "Módulo 4, bloco 1.3"
+    },
+    {
+      "id": "cpor-004",
+      "materia": "portugues",
+      "tema": "crase-regencia",
+      "frente": "Quais os três casos de crase FACULTATIVA?",
+      "verso": "1) Antes de nome PRÓPRIO FEMININO: 'a Maria' ou 'à Maria'.\n2) Antes de PRONOME POSSESSIVO FEMININO: 'a sua proposta' ou 'à sua proposta'.\n3) Depois da preposição ATÉ: 'até a escola' ou 'até à escola'.\n\nA banca apresenta um desses e afirma que há erro. Não há.",
+      "fonte": "Módulo 4, bloco 1.3"
+    },
+    {
+      "id": "cpor-005",
+      "materia": "portugues",
+      "tema": "crase-regencia",
+      "frente": "Diante de palavra no plural, quando usar 'a' e quando usar 'às'?",
+      "verso": "'Refiro-me A pessoas responsáveis' — sem artigo, sentido GENÉRICO.\n'Refiro-me ÀS pessoas responsáveis' — com artigo, sentido DETERMINADO.\n\nVer 'a' singular diante de plural é sinal de que não há artigo, logo não há crase.",
+      "fonte": "Módulo 4, bloco 1.4"
+    },
+    {
+      "id": "cpor-006",
+      "materia": "portugues",
+      "tema": "crase-regencia",
+      "frente": "Assistir, aspirar e visar: como muda o sentido com a regência?",
+      "verso": "ASSISTIR — sem prep.: auxiliar ('o médico assistiu o paciente'). Com A: ver ('assistimos AO filme').\nASPIRAR — sem prep.: sorver ('aspirou o ar'). Com A: almejar ('aspira AO cargo').\nVISAR — sem prep.: mirar, dar visto ('visou o cheque'). Com A: ter por objetivo ('visa AO aumento').",
+      "fonte": "Módulo 4, bloco 2.1"
+    },
+    {
+      "id": "cpor-007",
+      "materia": "portugues",
+      "tema": "crase-regencia",
+      "frente": "Qual é o erro de regência mais frequente na fala e na escrita cotidiana?",
+      "verso": "IMPLICAR no sentido de acarretar NÃO pede preposição: 'a ausência implica reprovação', nunca 'implica EM reprovação'.\n\nCom preposição, muda o sentido: 'implicou-se EM negócios duvidosos' (envolver-se).",
+      "fonte": "Módulo 4, bloco 2.1"
+    },
+    {
+      "id": "cpor-008",
+      "materia": "portugues",
+      "tema": "crase-regencia",
+      "frente": "Regência de obedecer, pagar, esquecer, chegar e namorar.",
+      "verso": "OBEDECER/DESOBEDECER: pedem A — 'obedecer às normas'.\nPAGAR/PERDOAR: coisa sem preposição, pessoa com — 'paguei a conta', 'paguei ao fornecedor'.\nESQUECER/LEMBRAR: sem pronome, sem preposição ('esqueci o documento'); com pronome, com DE ('esqueci-me do documento').\nCHEGAR/IR: pedem A, não EM — 'cheguei à escola'.\nNAMORAR: sem preposição — 'namora a colega'.",
+      "fonte": "Módulo 4, bloco 2.2"
+    },
+    {
+      "id": "cpor-009",
+      "materia": "portugues",
+      "tema": "crase-regencia",
+      "frente": "Cite oito casos de regência NOMINAL cobrados com frequência.",
+      "verso": "acessível A · alusão A · aversão A/POR · capaz DE · compatível COM · dúvida SOBRE/EM/ACERCA DE · favorável A · imune A/DE · prejudicial A · preferência POR · propenso A · respeito A/POR/COM · útil A",
+      "fonte": "Módulo 4, bloco 2.2"
+    },
+    {
+      "id": "cpor-010",
+      "materia": "portugues",
+      "tema": "colocacao-concordancia",
+      "frente": "Quais são as palavras ATRATIVAS que exigem próclise?",
+      "verso": "NEGAÇÃO (não, nunca, jamais, nada, ninguém, nem) · ADVÉRBIO sem vírgula (sempre, já, talvez, aqui, bem) · PRONOME RELATIVO, INDEFINIDO ou DEMONSTRATIVO (que, quem, qual, alguém, tudo, isso) · CONJUNÇÃO SUBORDINATIVA (quando, se, porque, embora, conforme) · orações exclamativas, optativas e interrogativas · EM + gerúndio.\n\nO caso do QUE é o mais cobrado: 'Foi ele que me avisou' — nunca 'que avisou-me'.",
+      "fonte": "Módulo 4, bloco 3.1"
+    },
+    {
+      "id": "cpor-011",
+      "materia": "portugues",
+      "tema": "colocacao-concordancia",
+      "frente": "Quando se usa ênclise? E qual a regra absoluta sobre início de período?",
+      "verso": "ÊNCLISE: verbo iniciando a oração · imperativo afirmativo · gerúndio sem EM antecedente · infinitivo impessoal.\n\nREGRA ABSOLUTA: nunca se inicia período com pronome oblíquo átono na norma culta escrita. 'Me disseram' é aceito na fala, mas é erro na prova.",
+      "fonte": "Módulo 4, bloco 3.2"
+    },
+    {
+      "id": "cpor-012",
+      "materia": "portugues",
+      "tema": "colocacao-concordancia",
+      "frente": "Quando se usa mesóclise?",
+      "verso": "Apenas com FUTURO DO PRESENTE ou FUTURO DO PRETÉRITO, e desde que NÃO haja palavra atrativa.\n\n'Far-se-á a leitura da ata.' · 'Dir-lhe-ia a verdade.'\nMAS: 'Não se fará a leitura' — com atrativa, volta à próclise.",
+      "fonte": "Módulo 4, bloco 3.3"
+    },
+    {
+      "id": "cpor-013",
+      "materia": "portugues",
+      "tema": "colocacao-concordancia",
+      "frente": "Concordância do verbo HAVER: quando fica no singular?",
+      "verso": "HAVER no sentido de EXISTIR é IMPESSOAL e fica sempre no singular: 'Havia muitos candidatos.' Nunca 'haviam'.\n\nA impessoalidade se transmite ao auxiliar: 'devia haver poucos inscritos', nunca 'deviam haver'.\n\nMas 'haviam chegado' (haver auxiliar) é correto — aí ele não é impessoal. E EXISTIR concorda normalmente: 'existiam muitos candidatos'.",
+      "fonte": "Módulo 4, bloco 4.1"
+    },
+    {
+      "id": "cpor-014",
+      "materia": "portugues",
+      "tema": "colocacao-concordancia",
+      "frente": "Concordância verbal: sujeito composto, verbo FAZER, partitivas e porcentagem.",
+      "verso": "SUJEITO COMPOSTO antes do verbo: plural. Depois do verbo: admite plural ou concordância com o mais próximo.\nFAZER indicando tempo decorrido é impessoal: 'faz dois anos', nunca 'fazem'.\nPARTITIVAS (a maioria de, grande parte de): admitem singular ou plural.\nPORCENTAGEM: concorda com o numeral ou com o especificador.\nRelativo QUE: concorda com o antecedente ('fui eu que resolvi'). Com QUEM, admite 3ª pessoa ('fui eu quem resolveu').",
+      "fonte": "Módulo 4, bloco 4.1"
+    },
+    {
+      "id": "cpor-015",
+      "materia": "portugues",
+      "tema": "colocacao-concordancia",
+      "frente": "Concordância nominal: anexo, em anexo, meio, bastante, é proibido.",
+      "verso": "ANEXO, INCLUSO, OBRIGADO: concordam — 'seguem anexas as cópias'.\nEM ANEXO: invariável.\nMEIO: advérbio invariável ('meio cansada'); numeral varia ('meia hora').\nBASTANTE: varia como adjetivo ('bastantes motivos'), não varia como advérbio ('estudou bastante').\nÉ PROIBIDO / É NECESSÁRIO: invariáveis SEM artigo ('é proibido entrada'); variam COM artigo ('é proibida a entrada').",
+      "fonte": "Módulo 4, bloco 4.2"
+    },
+    {
+      "id": "cpor-016",
+      "materia": "portugues",
+      "tema": "colocacao-concordancia",
+      "frente": "Quais as regras de pontuação que a banca mais testa?",
+      "verso": "NUNCA separe sujeito de predicado por vírgula · NUNCA separe verbo de complemento direto.\nUSE vírgula para isolar APOSTO, VOCATIVO e ADJUNTO ADVERBIAL DESLOCADO.\n\nOração adjetiva EXPLICATIVA vai entre vírgulas; RESTRITIVA não leva vírgula.",
+      "fonte": "Módulo 4, bloco 4.3"
+    },
+    {
+      "id": "cpor-017",
+      "materia": "portugues",
+      "tema": "colocacao-concordancia",
+      "frente": "Diferencie oração adjetiva explicativa de restritiva.",
+      "verso": "COM vírgulas (explicativa): a informação vale para TODO o conjunto. 'Os alunos, que faltaram, farão prova' → todos faltaram.\nSEM vírgulas (restritiva): a informação DELIMITA um subconjunto. 'Os alunos que faltaram farão prova' → só os faltosos.\n\nÉ a questão de pontuação mais cobrada, porque a vírgula MUDA O SENTIDO.",
+      "fonte": "Módulo 4, bloco 4.3"
+    },
+    {
+      "id": "cpor-018",
+      "materia": "portugues",
+      "tema": "interpretacao-figuras-oficial",
+      "frente": "Diferencie antítese de paradoxo.",
+      "verso": "ANTÍTESE: os opostos estão em termos DIFERENTES, lado a lado. 'O amor e o ódio caminham juntos.'\nPARADOXO: os opostos estão no MESMO ser ou ideia, criando contradição interna. 'Estou cego de tanto ver.'\n\nÉ a confusão mais comum do tópico.",
+      "fonte": "Módulo 4, bloco 5.2"
+    },
+    {
+      "id": "cpor-019",
+      "materia": "portugues",
+      "tema": "interpretacao-figuras-oficial",
+      "frente": "Metáfora, metonímia, catacrese, hipérbole e eufemismo: defina cada uma.",
+      "verso": "METÁFORA: comparação implícita, sem conectivo.\nMETONÍMIA: troca por proximidade ou parte/todo — 'li Machado de Assis'.\nCATACRESE: metáfora já cristalizada no uso — 'pé da mesa', 'braço do rio'.\nHIPÉRBOLE: exagero intencional.\nEUFEMISMO: suavização de expressão dura — 'ele nos deixou'.",
+      "fonte": "Módulo 4, bloco 5.2"
+    },
+    {
+      "id": "cpor-020",
+      "materia": "portugues",
+      "tema": "interpretacao-figuras-oficial",
+      "frente": "Documentos oficiais: ofício, ata, requerimento, relatório e parecer.",
+      "verso": "OFÍCIO: comunicação oficial entre órgãos e destes com particulares. Documento padrão.\nATA: registro fiel e cronológico de reunião, sem parágrafos, sem rasuras, números por extenso.\nREQUERIMENTO: solicitação de algo a que se tem ou julga ter direito.\nRELATÓRIO: exposição circunstanciada de atividades ou fatos.\nPARECER: manifestação técnica fundamentada sobre matéria submetida a exame.",
+      "fonte": "Módulo 4, bloco 5.3"
+    },
+    {
+      "id": "cpor-021",
+      "materia": "portugues",
+      "tema": "interpretacao-figuras-oficial",
+      "frente": "Pronomes de tratamento: quando usar VOSSA e quando usar SUA?",
+      "verso": "VOSSA quando se fala COM a pessoa. SUA quando se fala DELA.\n'Vossa Excelência solicitou' x 'Sua Excelência, o Prefeito, solicitou.'\n\nVossa Excelência: autoridades dos três poderes. Vossa Senhoria: demais autoridades e particulares em tratamento formal. Vossa Magnificência: Reitores.\n\nConcordância sempre na TERCEIRA pessoa: 'Vossa Senhoria deverá apresentar SEU relatório' — nunca 'vosso'.",
+      "fonte": "Módulo 4, bloco 5.3"
+    },
+    {
+      "id": "cpor-022",
+      "materia": "portugues",
+      "tema": "interpretacao-figuras-oficial",
+      "frente": "Qual o método para questões de interpretação de texto?",
+      "verso": "Leia primeiro o ENUNCIADO, depois o texto — você lê procurando algo.\nDistinga o que o texto DIZ do que SUGERE e do que VOCÊ pensa. A resposta está sempre no primeiro grupo.\nDesconfie de termos absolutos (sempre, nunca, todos, exclusivamente) quando o texto foi cauteloso.\n\nINFERE-SE / DEPREENDE-SE / CONCLUI-SE pedem o que o texto sustenta sem dizer literalmente. AFIRMA / MENCIONA pedem o explícito.",
+      "fonte": "Módulo 4, bloco 5.1"
+    },
+    {
+      "id": "cinf-001",
+      "materia": "informatica",
+      "tema": "excel",
+      "frente": "Qual a diferença entre : e ; nas fórmulas do Excel?",
+      "verso": "DOIS-PONTOS (:) indica INTERVALO contínuo: =SOMA(A1:A5) soma cinco células.\nPONTO E VÍRGULA (;) SEPARA argumentos: =SOMA(A1;A5) soma apenas duas.\n\nÉ a pegadinha mais frequente do Excel em concurso.",
+      "fonte": "Módulo 5, bloco 3.3"
+    },
+    {
+      "id": "cinf-002",
+      "materia": "informatica",
+      "tema": "excel",
+      "frente": "Como funcionam as referências relativa, absoluta e mista no Excel?",
+      "verso": "A1 relativa: ajusta linha e coluna ao copiar.\n$A$1 absoluta: não muda nada.\n$A1 mista: fixa a COLUNA, a linha varia.\nA$1 mista: fixa a LINHA, a coluna varia.\n\nO $ trava o que vem DEPOIS dele. F4 alterna entre os quatro tipos durante a edição.",
+      "fonte": "Módulo 5, bloco 3.1"
+    },
+    {
+      "id": "cinf-003",
+      "materia": "informatica",
+      "tema": "excel",
+      "frente": "CONT.NÚM, CONT.VALORES e CONTAR.VAZIO: o que cada uma conta?",
+      "verso": "CONT.NÚM: apenas células com NÚMEROS.\nCONT.VALORES: todas as células NÃO VAZIAS — números, textos, datas.\nCONTAR.VAZIO: as vazias.\n\nEx.: 3 números, 2 textos e 1 vazia → CONT.NÚM = 3 · CONT.VALORES = 5 · CONTAR.VAZIO = 1.",
+      "fonte": "Módulo 5, bloco 3.2"
+    },
+    {
+      "id": "cinf-004",
+      "materia": "informatica",
+      "tema": "excel",
+      "frente": "Cite as funções essenciais do Excel cobradas em prova.",
+      "verso": "=SOMA · =MÉDIA · =MÁXIMO · =MÍNIMO · =CONT.NÚM · =CONT.VALORES · =CONTAR.VAZIO · =SE(teste;valor_se_verdadeiro;valor_se_falso) · =SOMASE · =CONT.SE · =PROCV(valor;matriz;coluna;0) · =HOJE() · =CONCATENAR(A1;B1) ou A1&B1.",
+      "fonte": "Módulo 5, bloco 3.2"
+    },
+    {
+      "id": "cinf-005",
+      "materia": "informatica",
+      "tema": "excel",
+      "frente": "O que significam os erros #DIV/0!, #VALOR!, #NOME?, #REF! e #N/D?",
+      "verso": "#DIV/0! divisão por zero ou por célula vazia.\n#VALOR! tipo de dado incompatível.\n#NOME? função escrita errada.\n#REF! referência a célula excluída.\n#N/D valor não encontrado — típico do PROCV.",
+      "fonte": "Módulo 5, bloco 3.3"
+    },
+    {
+      "id": "cinf-006",
+      "materia": "informatica",
+      "tema": "excel",
+      "frente": "Qual a ordem das operações em uma fórmula do Excel?",
+      "verso": "Parênteses → potenciação (^) → multiplicação e divisão → soma e subtração.\n\nToda fórmula começa com o sinal de igual (=).",
+      "fonte": "Módulo 5, bloco 3.3"
+    },
+    {
+      "id": "cinf-007",
+      "materia": "informatica",
+      "tema": "windows-word",
+      "frente": "Atalhos do Word em PORTUGUÊS: negrito, itálico, sublinhado e salvar.",
+      "verso": "Ctrl+N = Negrito · Ctrl+I = Itálico · Ctrl+S = Sublinhado · Ctrl+B = Salvar.\n\nEm inglês é o contrário: Ctrl+S = Save e Ctrl+B = Bold. A banca explora exatamente essa diferença.\n\nOutros: Ctrl+E centralizar · Ctrl+J justificar · Ctrl+Q alinhar à esquerda · Ctrl+G alinhar à direita · Ctrl+U substituir.",
+      "fonte": "Módulo 5, bloco 2.2"
+    },
+    {
+      "id": "cinf-008",
+      "materia": "informatica",
+      "tema": "windows-word",
+      "frente": "Diferencie quebra de página de quebra de seção no Word.",
+      "verso": "QUEBRA DE PÁGINA (Ctrl+Enter): força o início de nova página, mantendo a formatação da seção.\nQUEBRA DE SEÇÃO: permite formatações DIFERENTES em partes do mesmo documento — orientação, margens, numeração independente.\n\nA quebra de seção é o recurso mais perguntado do Word.",
+      "fonte": "Módulo 5, bloco 2.1"
+    },
+    {
+      "id": "cinf-009",
+      "materia": "informatica",
+      "tema": "windows-word",
+      "frente": "Estilos, sumário automático, legenda e controle de alterações: onde ficam e para que servem?",
+      "verso": "ESTILOS: formatações nomeadas (Título 1, Título 2, Normal). São a BASE para o sumário automático.\nSUMÁRIO AUTOMÁTICO: gerado a partir dos estilos de título, na guia REFERÊNCIAS.\nLEGENDA: rótulo numerado de imagem, tabela ou equação, também em Referências.\nCONTROLE DE ALTERAÇÕES: registra as modificações, na guia REVISÃO.",
+      "fonte": "Módulo 5, bloco 2.1"
+    },
+    {
+      "id": "cinf-010",
+      "materia": "informatica",
+      "tema": "windows-word",
+      "frente": "Atalhos essenciais do Windows.",
+      "verso": "Ctrl+C copiar · Ctrl+X recortar · Ctrl+V colar · Ctrl+Z desfazer · Ctrl+Y refazer · Ctrl+A selecionar tudo · Ctrl+P imprimir · Ctrl+F localizar · F2 renomear · F5 atualizar · Delete enviar à Lixeira · Shift+Delete excluir sem Lixeira · Alt+Tab alternar janelas · Win+D mostrar área de trabalho · Win+E abrir Explorador · Win+L bloquear a sessão · PrtScn capturar a tela.",
+      "fonte": "Módulo 5, bloco 1.2"
+    },
+    {
+      "id": "cinf-011",
+      "materia": "informatica",
+      "tema": "windows-word",
+      "frente": "O que acontece ao excluir um ATALHO no Windows?",
+      "verso": "Remove apenas o atalho — o arquivo ORIGINAL permanece em sua pasta e continua acessível.\n\nO atalho é só um ponteiro para o item. Item recorrente em prova.",
+      "fonte": "Módulo 5, bloco 1.1"
+    },
+    {
+      "id": "cinf-012",
+      "materia": "informatica",
+      "tema": "windows-word",
+      "frente": "O que são área de transferência, extensão e Lixeira?",
+      "verso": "ÁREA DE TRANSFERÊNCIA: memória temporária onde ficam os itens recortados ou copiados até serem colados.\nEXTENSÃO: sufixo que identifica o tipo de arquivo (.docx, .xlsx, .pptx, .pdf, .txt).\nLIXEIRA: destino dos arquivos excluídos do disco local, de onde podem ser restaurados. Shift+Delete pula a Lixeira.",
+      "fonte": "Módulo 5, bloco 1.1"
+    },
+    {
+      "id": "cinf-013",
+      "materia": "informatica",
+      "tema": "powerpoint-internet",
+      "frente": "Transição x animação no PowerPoint.",
+      "verso": "TRANSIÇÃO: efeito na passagem ENTRE slides.\nANIMAÇÃO: efeito aplicado a um objeto DENTRO do slide.\n\nRegra de memória: transição = transitar de um slide para outro. A banca troca os dois termos.",
+      "fonte": "Módulo 5, bloco 4.1"
+    },
+    {
+      "id": "cinf-014",
+      "materia": "informatica",
+      "tema": "powerpoint-internet",
+      "frente": "Slide mestre, layout, anotações e botão de ação: o que é cada um?",
+      "verso": "SLIDE MESTRE: define a formatação padrão de TODOS os slides.\nLAYOUT: disposição dos espaços reservados em um slide específico.\nANOTAÇÕES: texto de apoio ao apresentador, não projetado.\nBOTÃO DE AÇÃO: executa um comando (ir para slide, abrir arquivo, executar som).\n\nF5 inicia do começo · Shift+F5 inicia do slide atual · Esc encerra.",
+      "fonte": "Módulo 5, bloco 4.1"
+    },
+    {
+      "id": "cinf-015",
+      "materia": "informatica",
+      "tema": "powerpoint-internet",
+      "frente": "Correio eletrônico: Para, Cc, Cco, Responder x Responder a todos, Encaminhar.",
+      "verso": "PARA: destinatário principal.\nCc: cópia VISÍVEL a todos.\nCco: cópia OCULTA — os demais não veem o endereço.\nRESPONDER: envia só ao remetente. RESPONDER A TODOS: a todos os destinatários visíveis.\nENCAMINHAR: envia a um terceiro, preservando conteúdo original e anexos.",
+      "fonte": "Módulo 5, bloco 4.2"
+    },
+    {
+      "id": "cinf-016",
+      "materia": "informatica",
+      "tema": "powerpoint-internet",
+      "frente": "Diferencie spam de phishing.",
+      "verso": "SPAM: mensagens não solicitadas, geralmente publicitárias.\nPHISHING: mensagem FRAUDULENTA que simula remetente confiável para obter dados do usuário.\n\nA diferença está na intenção de fraude, não no volume.",
+      "fonte": "Módulo 5, bloco 4.2"
+    },
+    {
+      "id": "cinf-017",
+      "materia": "informatica",
+      "tema": "powerpoint-internet",
+      "frente": "URL, HTTP x HTTPS, navegador x buscador, download x upload e cookie.",
+      "verso": "URL: endereço de um recurso — protocolo://domínio/caminho.\nHTTPS: o S indica conexão CRIPTOGRAFADA.\nNAVEGADOR: o programa (Chrome, Firefox). BUSCADOR: um site de pesquisa (Google, Bing).\nDOWNLOAD: baixar da rede. UPLOAD: enviar para a rede.\nCOOKIE: arquivo que armazena informações da navegação.",
+      "fonte": "Módulo 5, bloco 4.3"
+    },
+    {
+      "id": "cinf-018",
+      "materia": "informatica",
+      "tema": "powerpoint-internet",
+      "frente": "O que a navegação anônima faz — e o que NÃO faz?",
+      "verso": "FAZ: deixa de gravar histórico, cookies e dados locais da sessão no dispositivo.\n\nNÃO FAZ: não torna o usuário invisível ao provedor, ao empregador nem aos sites visitados; não criptografa o tráfego (isso é o HTTPS).\n\nÉ um mal-entendido comum, e por isso vira questão.",
+      "fonte": "Módulo 5, bloco 4.3"
+    }
+  ]
+}
