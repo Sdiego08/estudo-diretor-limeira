@@ -8,7 +8,8 @@ import { QUESTOES_POR_DIA } from '../nucleo/questoesDoDia'
 const ROTULO_TEMA = new Map(TEMAS.map((t) => [t.id, t.rotulo]))
 
 export default function Hoje({ aoIrParaCartoes }: { aoIrParaCartoes: () => void }) {
-  const { estado, questoesDeHoje, questaoAtual, concluiuHoje, responder, avancar } = useEstudo()
+  const { estado, questoesDeHoje, questaoAtual, concluiuHoje, responder, avancar, continuar } =
+    useEstudo()
   const topo = useRef<HTMLDivElement>(null)
   const indice = estado.hoje?.indice ?? 0
 
@@ -36,13 +37,22 @@ export default function Hoje({ aoIrParaCartoes }: { aoIrParaCartoes: () => void 
                   errou === 1 ? 'foi agendado' : 'foram agendados'
                 } para revisão em Cartões.`}
           </p>
-          <button
-            type="button"
-            onClick={aoIrParaCartoes}
-            className="mt-8 self-start rounded-carta bg-quadro px-6 py-4 text-[15px] text-papel"
-          >
-            Ir para os cartões
-          </button>
+          <div className="mt-8 flex flex-col gap-3">
+            <button
+              type="button"
+              onClick={continuar}
+              className="rounded-carta bg-quadro px-6 py-4 text-[15px] text-papel"
+            >
+              Responder mais {QUESTOES_POR_DIA}
+            </button>
+            <button
+              type="button"
+              onClick={aoIrParaCartoes}
+              className="rounded-carta border border-linha bg-white/70 px-6 py-4 text-[15px] text-quadro"
+            >
+              Ir para os cartões
+            </button>
+          </div>
         </div>
       </div>
     )
@@ -65,7 +75,7 @@ export default function Hoje({ aoIrParaCartoes }: { aoIrParaCartoes: () => void 
 
   return (
     <div ref={topo} className="min-h-dvh pb-28">
-      <Contador direita={`Questão ${indice + 1} de ${QUESTOES_POR_DIA}`} />
+      <Contador direita={`Questão ${indice + 1} de ${questoesDeHoje.length}`} />
 
       <div className="px-5">
         <p className="rotulo-secao text-quadro">{ROTULO_TEMA.get(questaoAtual.tema) ?? questaoAtual.tema}</p>

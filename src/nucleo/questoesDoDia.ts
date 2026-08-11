@@ -6,8 +6,27 @@ export const QUESTOES_POR_DIA = 3
 /** Semente fixa: a ordem do banco é sempre a mesma para este app. */
 const SEMENTE_BASE = 20261213
 
+export function nivel(item: { dificuldade?: number }): number {
+  return item.dificuldade ?? 2
+}
+
+/**
+ * Ordem do banco: primeiro as fáceis, por último as difíceis.
+ * Dentro de cada nível, embaralha com semente e intercala matérias, para que as
+ * 3 questões do dia não caiam todas no mesmo assunto.
+ */
 function gerarOrdem(questoes: Questao[], rodada: number): string[] {
-  return ordemEstratificada(questoes, (q) => q.materia, SEMENTE_BASE + rodada).map((q) => q.id)
+  const ids: string[] = []
+  for (const grau of [1, 2, 3]) {
+    const doGrau = questoes.filter((q) => nivel(q) === grau)
+    if (doGrau.length === 0) continue
+    ids.push(
+      ...ordemEstratificada(doGrau, (q) => q.materia, SEMENTE_BASE + rodada * 10 + grau).map(
+        (q) => q.id,
+      ),
+    )
+  }
+  return ids
 }
 
 /**
@@ -50,6 +69,40 @@ function conciliarOrdem(estado: Estado, questoes: Questao[]): Estado {
 }
 
 /**
+ * Retira as próximas `quantidade` questões do cursor, virando de rodada se o banco acabar.
+ * Devolve os ids e a posição atualizada do cursor.
+ */
+function puxar(
+  ordem: Estado['ordemQuestoes'],
+  questoes: Questao[],
+  quantidade: number,
+): { retirados: string[]; ordem: Estado['ordemQuestoes'] } {
+  let { ids, cursor, rodada } = ordem
+
+  // Banco esgotado: nova rodada, com outra ordem.
+  if (cursor >= ids.length) {
+    rodada += 1
+    ids = gerarOrdem(questoes, rodada)
+    cursor = 0
+  }
+
+  const retirados = ids.slice(cursor, cursor + quantidade)
+
+  // Se a rodada acabar no meio, completa com o começo da seguinte.
+  if (retirados.length < quantidade) {
+    const faltam = quantidade - retirados.length
+    const proximaRodada = rodada + 1
+    const novos = gerarOrdem(questoes, proximaRodada)
+    return {
+      retirados: [...retirados, ...novos.slice(0, faltam)],
+      ordem: { ids: novos, cursor: faltam, rodada: proximaRodada },
+    }
+  }
+
+  return { retirados, ordem: { ids, cursor: cursor + retirados.length, rodada } }
+}
+
+/**
  * Garante que `estado.hoje` corresponda ao dia corrente.
  * Recarregar a página no mesmo dia devolve exatamente as mesmas questões.
  */
@@ -58,35 +111,24 @@ export function garantirDia(estadoEntrada: Estado, questoes: Questao[]): Estado 
   const hoje = hojeISO()
   if (estado.hoje && estado.hoje.data === hoje) return estado
 
-  let { ids, cursor, rodada } = estado.ordemQuestoes
-
-  // Banco esgotado: nova rodada, com outra ordem, sem repetir dentro da rodada anterior.
-  if (cursor >= ids.length) {
-    rodada += 1
-    ids = gerarOrdem(questoes, rodada)
-    cursor = 0
-  }
-
-  const doDia = ids.slice(cursor, cursor + QUESTOES_POR_DIA)
-  // Se a rodada acabar no meio, completa com o começo da rodada seguinte.
-  if (doDia.length < QUESTOES_POR_DIA) {
-    const proximaRodada = rodada + 1
-    const novos = gerarOrdem(questoes, proximaRodada)
-    return {
-      ...estado,
-      ordemQuestoes: { ids: novos, cursor: QUESTOES_POR_DIA - doDia.length, rodada: proximaRodada },
-      hoje: {
-        data: hoje,
-        ids: [...doDia, ...novos.slice(0, QUESTOES_POR_DIA - doDia.length)],
-        indice: 0,
-        respostas: [],
-      },
-    }
-  }
-
+  const { retirados, ordem } = puxar(estado.ordemQuestoes, questoes, QUESTOES_POR_DIA)
   return {
     ...estado,
-    ordemQuestoes: { ids, cursor: cursor + doDia.length, rodada },
-    hoje: { data: hoje, ids: doDia, indice: 0, respostas: [] },
+    ordemQuestoes: ordem,
+    hoje: { data: hoje, ids: retirados, indice: 0, respostas: [] },
+  }
+}
+
+/**
+ * Acrescenta mais um bloco de questões ao dia corrente, para quem quiser passar das 3.
+ * Continua consumindo o mesmo cursor, então não repete nem quebra o determinismo.
+ */
+export function estenderDia(estado: Estado, questoes: Questao[]): Estado {
+  if (!estado.hoje) return estado
+  const { retirados, ordem } = puxar(estado.ordemQuestoes, questoes, QUESTOES_POR_DIA)
+  return {
+    ...estado,
+    ordemQuestoes: ordem,
+    hoje: { ...estado.hoje, ids: [...estado.hoje.ids, ...retirados] },
   }
 }

@@ -5,6 +5,7 @@
       "id": "leg-001",
       "materia": "legislacao",
       "tema": "ldb",
+      "dificuldade": 3,
       "enunciado": "Segundo a LDB, é incumbência do estabelecimento de ensino:",
       "alternativas": [
         "Elaborar e cumprir plano de trabalho segundo a proposta pedagógica.",
@@ -21,6 +22,7 @@
       "id": "leg-002",
       "materia": "legislacao",
       "tema": "ldb",
+      "dificuldade": 2,
       "enunciado": "Sobre a atuação prioritária dos entes federados na educação, é correto afirmar que:",
       "alternativas": [
         "Os Municípios oferecerão a educação infantil e, com prioridade, o ensino médio.",
@@ -37,6 +39,7 @@
       "id": "leg-003",
       "materia": "legislacao",
       "tema": "ldb",
+      "dificuldade": 2,
       "enunciado": "Quanto à verificação do rendimento escolar na LDB, é correto:",
       "alternativas": [
         "Prevalência dos aspectos quantitativos sobre os qualitativos.",
@@ -53,6 +56,7 @@
       "id": "leg-004",
       "materia": "legislacao",
       "tema": "ldb",
+      "dificuldade": 2,
       "enunciado": "São princípios da gestão democrática do ensino público na educação básica, segundo o art. 14 da LDB:",
       "alternativas": [
         "Participação dos profissionais na elaboração do projeto pedagógico e participação das comunidades escolar e local em conselhos escolares.",
@@ -69,6 +73,7 @@
       "id": "leg-005",
       "materia": "legislacao",
       "tema": "eca",
+      "dificuldade": 2,
       "enunciado": "Nos termos do ECA, os dirigentes de estabelecimentos de ensino fundamental comunicarão ao Conselho Tutelar os casos de:",
       "alternativas": [
         "Maus-tratos, indisciplina reiterada e evasão escolar.",
@@ -85,6 +90,7 @@
       "id": "leg-006",
       "materia": "legislacao",
       "tema": "eca",
+      "dificuldade": 2,
       "enunciado": "Sobre o Conselho Tutelar, assinale a alternativa correta:",
       "alternativas": [
         "É órgão jurisdicional, composto por 5 membros com mandato de 3 anos.",
@@ -101,6 +107,7 @@
       "id": "leg-007",
       "materia": "legislacao",
       "tema": "bncc-dcn",
+      "dificuldade": 1,
       "enunciado": "Segundo a BNCC, competência é definida como a mobilização de:",
       "alternativas": [
         "Conteúdos, metodologias e recursos didáticos.",
@@ -117,6 +124,7 @@
       "id": "leg-008",
       "materia": "legislacao",
       "tema": "bncc-dcn",
+      "dificuldade": 3,
       "enunciado": "Sobre a BNCC, é INCORRETO afirmar que:",
       "alternativas": [
         "Tem caráter normativo.",
@@ -133,6 +141,7 @@
       "id": "leg-009",
       "materia": "legislacao",
       "tema": "bncc-dcn",
+      "dificuldade": 1,
       "enunciado": "Os eixos estruturantes da prática pedagógica na Educação Infantil, conforme a BNCC e as DCNEI, são:",
       "alternativas": [
         "Cuidar e educar.",
@@ -149,6 +158,7 @@
       "id": "leg-010",
       "materia": "legislacao",
       "tema": "constituicao",
+      "dificuldade": 1,
       "enunciado": "Nos termos do art. 208 da Constituição Federal, o não oferecimento do ensino obrigatório pelo Poder Público, ou sua oferta irregular:",
       "alternativas": [
         "Enseja apenas advertência administrativa ao gestor.",
@@ -165,6 +175,7 @@
       "id": "leg-011",
       "materia": "legislacao",
       "tema": "ldb",
+      "dificuldade": 1,
       "enunciado": "Sobre a educação especial na LDB, assinale a correta:",
       "alternativas": [
         "É oferecida exclusivamente em classes especiais.",
@@ -181,6 +192,7 @@
       "id": "leg-012",
       "materia": "legislacao",
       "tema": "bncc-dcn",
+      "dificuldade": 2,
       "enunciado": "A Resolução CNE/CEB 07/2010, que fixa as DCN para o Ensino Fundamental de 9 anos, estabelece que nos três anos iniciais:",
       "alternativas": [
         "A retenção é obrigatória para alunos não alfabetizados.",
@@ -197,6 +209,7 @@
       "id": "leg-013",
       "materia": "legislacao",
       "tema": "normativos-recentes",
+      "dificuldade": 2,
       "enunciado": "Sobre o uso de dispositivos digitais nas escolas, conforme a Resolução CNE/CEB 02/2025, é correto afirmar que:",
       "alternativas": [
         "A proibição é absoluta, sem qualquer exceção.",
@@ -213,6 +226,7 @@
       "id": "leg-014",
       "materia": "legislacao",
       "tema": "normativos-recentes",
+      "dificuldade": 3,
       "enunciado": "A distinção entre educação integral e tempo integral, conforme a Resolução CNE/CEB 07/2025, indica que:",
       "alternativas": [
         "São expressões sinônimas.",
@@ -229,6 +243,7 @@
       "id": "leg-015",
       "materia": "legislacao",
       "tema": "eca",
+      "dificuldade": 1,
       "enunciado": "Segundo o ECA, a falta ou carência de recursos materiais:",
       "alternativas": [
         "Constitui motivo suficiente para a perda do poder familiar.",
@@ -245,6 +260,7 @@
       "id": "leg-016",
       "materia": "legislacao",
       "tema": "leis-avulsas",
+      "dificuldade": 2,
       "enunciado": "Considera-se intimidação sistemática (bullying), nos termos da Lei 13.185/2015, o ato:",
       "alternativas": [
         "Isolado de agressão física entre alunos de mesma idade.",
@@ -261,6 +277,7 @@
       "id": "leg-017",
       "materia": "legislacao",
       "tema": "ldb",
+      "dificuldade": 2,
       "enunciado": "Quanto à valorização dos profissionais da educação (art. 67 da LDB), é assegurado:",
       "alternativas": [
         "Ingresso por concurso público de provas e títulos ou por processo seletivo simplificado.",
@@ -277,6 +294,7 @@
       "id": "leg-018",
       "materia": "legislacao",
       "tema": "normativos-recentes",
+      "dificuldade": 2,
       "enunciado": "Conforme o Decreto 12.686/2025, o atendimento educacional especializado é:",
       "alternativas": [
         "Substitutivo à escolarização comum.",
@@ -293,6 +311,7 @@
       "id": "leg-019",
       "materia": "legislacao",
       "tema": "ldb",
+      "dificuldade": 1,
       "enunciado": "A carga horária mínima anual da educação básica, nos termos da LDB, é de:",
       "alternativas": [
         "720 horas distribuídas em 180 dias letivos.",
@@ -309,6 +328,7 @@
       "id": "leg-020",
       "materia": "legislacao",
       "tema": "ldb",
+      "dificuldade": 1,
       "enunciado": "A formação de profissionais de educação para administração, planejamento, inspeção, supervisão e orientação educacional para a educação básica será feita:",
       "alternativas": [
         "Exclusivamente em cursos de mestrado na área.",
@@ -325,6 +345,7 @@
       "id": "leg-021",
       "materia": "legislacao",
       "tema": "ldb",
+      "dificuldade": 3,
       "enunciado": "NÃO constitui princípio do ensino, nos termos do art. 3º da LDB:",
       "alternativas": [
         "Pluralismo de ideias e de concepções pedagógicas.",
@@ -341,6 +362,7 @@
       "id": "leg-022",
       "materia": "legislacao",
       "tema": "ldb",
+      "dificuldade": 3,
       "enunciado": "A LDB determina que o estabelecimento de ensino notifique a relação de alunos com excesso de faltas. O percentual de referência e os destinatários da notificação são:",
       "alternativas": [
         "20% das faltas, ao Conselho Escolar e à Secretaria de Educação.",
@@ -357,6 +379,7 @@
       "id": "leg-023",
       "materia": "legislacao",
       "tema": "ldb",
+      "dificuldade": 3,
       "enunciado": "Nos termos do art. 13 da LDB, incumbe aos docentes:",
       "alternativas": [
         "Administrar o pessoal e os recursos materiais e financeiros da escola.",
@@ -373,6 +396,7 @@
       "id": "leg-024",
       "materia": "legislacao",
       "tema": "ldb",
+      "dificuldade": 2,
       "enunciado": "O art. 15 da LDB assegura às unidades escolares públicas de educação básica progressivos graus de autonomia:",
       "alternativas": [
         "Pedagógica, administrativa e de gestão financeira.",
@@ -389,6 +413,7 @@
       "id": "leg-025",
       "materia": "legislacao",
       "tema": "ldb",
+      "dificuldade": 2,
       "enunciado": "O acesso à educação básica obrigatória é direito público subjetivo. Pode acionar o poder público para exigi-lo:",
       "alternativas": [
         "Apenas o Ministério Público.",
@@ -405,6 +430,7 @@
       "id": "leg-026",
       "materia": "legislacao",
       "tema": "ldb",
+      "dificuldade": 1,
       "enunciado": "A educação básica obrigatória e gratuita, conforme a LDB e a Constituição, abrange a faixa etária:",
       "alternativas": [
         "Dos 6 aos 14 anos, correspondente ao ensino fundamental.",
@@ -421,6 +447,7 @@
       "id": "leg-027",
       "materia": "legislacao",
       "tema": "ldb",
+      "dificuldade": 1,
       "enunciado": "As idades mínimas para inscrição em exames supletivos de Educação de Jovens e Adultos são:",
       "alternativas": [
         "14 anos para o ensino fundamental e 17 para o médio.",
@@ -437,6 +464,7 @@
       "id": "leg-028",
       "materia": "legislacao",
       "tema": "ldb",
+      "dificuldade": 2,
       "enunciado": "Sobre o ensino religioso nas escolas públicas de ensino fundamental, a LDB e a Constituição estabelecem que é:",
       "alternativas": [
         "De oferta facultativa pela escola e matrícula obrigatória para o aluno.",
@@ -453,6 +481,7 @@
       "id": "leg-029",
       "materia": "legislacao",
       "tema": "constituicao",
+      "dificuldade": 1,
       "enunciado": "Conforme o art. 205 da Constituição Federal, a educação visa:",
       "alternativas": [
         "Ao pleno desenvolvimento da pessoa, seu preparo para o exercício da cidadania e sua qualificação para o trabalho.",
@@ -469,6 +498,7 @@
       "id": "leg-030",
       "materia": "legislacao",
       "tema": "constituicao",
+      "dificuldade": 1,
       "enunciado": "Os percentuais mínimos da receita resultante de impostos que devem ser aplicados na manutenção e desenvolvimento do ensino são:",
       "alternativas": [
         "18% para a União e 25% para Estados, DF e Municípios.",
@@ -485,6 +515,7 @@
       "id": "leg-031",
       "materia": "legislacao",
       "tema": "constituicao",
+      "dificuldade": 1,
       "enunciado": "O Plano Nacional de Educação, previsto no art. 214 da Constituição Federal, tem duração:",
       "alternativas": [
         "Quadrienal, coincidente com o mandato presidencial.",
@@ -501,6 +532,7 @@
       "id": "leg-032",
       "materia": "legislacao",
       "tema": "eca",
+      "dificuldade": 2,
       "enunciado": "Nos termos do ECA, considera-se:",
       "alternativas": [
         "Criança a pessoa até 12 anos completos e adolescente a de 12 a 18 anos.",
@@ -517,6 +549,7 @@
       "id": "leg-033",
       "materia": "legislacao",
       "tema": "eca",
+      "dificuldade": 2,
       "enunciado": "A garantia de ABSOLUTA PRIORIDADE prevista no art. 4º do ECA compreende:",
       "alternativas": [
         "Apenas a destinação privilegiada de recursos públicos à infância.",
@@ -533,6 +566,7 @@
       "id": "leg-034",
       "materia": "legislacao",
       "tema": "eca",
+      "dificuldade": 3,
       "enunciado": "Segundo o ECA, com a redação dada pela Lei Menino Bernardo, tratamento cruel ou degradante caracteriza-se por:",
       "alternativas": [
         "Uso da força física que resulte em sofrimento ou lesão.",
@@ -549,6 +583,7 @@
       "id": "leg-035",
       "materia": "legislacao",
       "tema": "eca",
+      "dificuldade": 3,
       "enunciado": "Sobre a distinção entre o Conselho Tutelar e o Conselho Municipal dos Direitos da Criança e do Adolescente (CMDCA), é correto afirmar:",
       "alternativas": [
         "Ambos atuam em casos concretos, diferindo apenas na forma de escolha dos membros.",
@@ -565,6 +600,7 @@
       "id": "leg-036",
       "materia": "legislacao",
       "tema": "bncc-dcn",
+      "dificuldade": 2,
       "enunciado": "Na BNCC, o código de habilidade EF06CI03 indica:",
       "alternativas": [
         "Terceira habilidade de Ciências do 6º ano do Ensino Fundamental.",
@@ -581,6 +617,7 @@
       "id": "leg-037",
       "materia": "legislacao",
       "tema": "bncc-dcn",
+      "dificuldade": 3,
       "enunciado": "Os cinco campos de experiências que organizam a Educação Infantil na BNCC incluem:",
       "alternativas": [
         "Linguagens, Matemática, Ciências da Natureza, Ciências Humanas e Ensino Religioso.",
@@ -597,6 +634,7 @@
       "id": "leg-038",
       "materia": "legislacao",
       "tema": "normativos-recentes",
+      "dificuldade": 2,
       "enunciado": "A Política Nacional de Educação Digital, instituída pela Lei 14.533/2023, estrutura-se nos eixos:",
       "alternativas": [
         "Inclusão digital; educação digital escolar; capacitação e especialização digital; e pesquisa e desenvolvimento em TIC.",
@@ -613,6 +651,7 @@
       "id": "leg-039",
       "materia": "legislacao",
       "tema": "leis-avulsas",
+      "dificuldade": 1,
       "enunciado": "A Lei 13.722/2018 (Lei Lucas) determina que a capacitação em noções básicas de primeiros socorros seja:",
       "alternativas": [
         "Realizada uma única vez, no ato da contratação do profissional.",
@@ -629,6 +668,7 @@
       "id": "leg-040",
       "materia": "legislacao",
       "tema": "leis-avulsas",
+      "dificuldade": 1,
       "enunciado": "O Marco Legal da Primeira Infância (Lei 13.257/2016) define primeira infância como o período que abrange:",
       "alternativas": [
         "Os primeiros 3 anos completos, ou 36 meses de vida.",
@@ -645,6 +685,7 @@
       "id": "ped-001",
       "materia": "pedagogia",
       "tema": "tendencias-autores",
+      "dificuldade": 1,
       "enunciado": "A concepção pedagógica que se caracteriza pela ênfase em objetivos operacionais, eficiência e planejamento por especialistas externos à sala de aula é a:",
       "alternativas": ["Tradicional", "Renovada", "Tecnicista", "Libertadora", "Histórico-crítica"],
       "gabarito": 2,
@@ -655,6 +696,7 @@
       "id": "ped-002",
       "materia": "pedagogia",
       "tema": "tendencias-autores",
+      "dificuldade": 2,
       "enunciado": "Os cinco passos do método pedagógico proposto por Saviani são, na ordem:",
       "alternativas": [
         "Diagnóstico, planejamento, execução, avaliação e replanejamento",
@@ -671,6 +713,7 @@
       "id": "ped-003",
       "materia": "pedagogia",
       "tema": "didatica-curriculo",
+      "dificuldade": 2,
       "enunciado": "Segundo Zabala, a capacidade de utilizar corretamente um instrumento de medida em laboratório corresponde a conteúdo:",
       "alternativas": ["Factual", "Conceitual", "Procedimental", "Atitudinal", "Transversal"],
       "gabarito": 2,
@@ -681,6 +724,7 @@
       "id": "ped-004",
       "materia": "pedagogia",
       "tema": "avaliacao",
+      "dificuldade": 2,
       "enunciado": "Para Luckesi, a diferença essencial entre exame e avaliação da aprendizagem está em que a avaliação:",
       "alternativas": [
         "É mais rigorosa e utiliza instrumentos padronizados",
@@ -697,6 +741,7 @@
       "id": "ped-005",
       "materia": "pedagogia",
       "tema": "didatica-curriculo",
+      "dificuldade": 1,
       "enunciado": "Sobre o Projeto Político-Pedagógico, é correto afirmar que:",
       "alternativas": [
         "Deve ser elaborado pelo diretor e apresentado à equipe para ciência",
@@ -713,6 +758,7 @@
       "id": "ped-006",
       "materia": "pedagogia",
       "tema": "inclusao-diversidade",
+      "dificuldade": 1,
       "enunciado": "A distinção entre integração e inclusão escolar, conforme Mantoan, indica que na inclusão:",
       "alternativas": [
         "O aluno com deficiência deve adaptar-se às condições existentes na escola",
@@ -729,6 +775,7 @@
       "id": "ped-007",
       "materia": "pedagogia",
       "tema": "gestao-escolar",
+      "dificuldade": 1,
       "enunciado": "O IDEB é composto pela combinação de:",
       "alternativas": [
         "Desempenho em avaliações externas e fluxo escolar",
@@ -745,6 +792,7 @@
       "id": "ped-008",
       "materia": "pedagogia",
       "tema": "gestao-escolar",
+      "dificuldade": 2,
       "enunciado": "Os saberes docentes, segundo Tardif, classificam-se em:",
       "alternativas": [
         "Teóricos e práticos",
@@ -761,6 +809,7 @@
       "id": "ped-009",
       "materia": "pedagogia",
       "tema": "gestao-escolar",
+      "dificuldade": 1,
       "enunciado": "O conceito de 'reflexão na ação', de Donald Schön, refere-se ao processo de:",
       "alternativas": [
         "Analisar a prática depois de encerrada, em momento de formação",
@@ -777,6 +826,7 @@
       "id": "ped-010",
       "materia": "pedagogia",
       "tema": "tendencias-autores",
+      "dificuldade": 2,
       "enunciado": "Sobre alfabetização e letramento, segundo Magda Soares, é correto afirmar:",
       "alternativas": [
         "São sinônimos",
@@ -793,6 +843,7 @@
       "id": "ped-011",
       "materia": "pedagogia",
       "tema": "gestao-escolar",
+      "dificuldade": 3,
       "enunciado": "Na concepção democrático-participativa de gestão escolar defendida por Libâneo:",
       "alternativas": [
         "As decisões são centralizadas no diretor, garantindo agilidade",
@@ -809,6 +860,7 @@
       "id": "ped-012",
       "materia": "pedagogia",
       "tema": "didatica-curriculo",
+      "dificuldade": 2,
       "enunciado": "O currículo oculto pode ser definido como:",
       "alternativas": [
         "Os conteúdos previstos e não ministrados por falta de tempo",
@@ -825,6 +877,7 @@
       "id": "ped-013",
       "materia": "pedagogia",
       "tema": "gestao-escolar",
+      "dificuldade": 2,
       "enunciado": "Diante de um conflito entre uma família e um professor sobre critérios de avaliação, a conduta mais adequada do Diretor é:",
       "alternativas": [
         "Decidir imediatamente em favor do professor, para preservar sua autoridade",
@@ -841,6 +894,7 @@
       "id": "ped-014",
       "materia": "pedagogia",
       "tema": "didatica-curriculo",
+      "dificuldade": 1,
       "enunciado": "O modelo TPACK indica que a competência do professor para o uso de tecnologias está:",
       "alternativas": [
         "No domínio técnico dos equipamentos",
@@ -857,6 +911,7 @@
       "id": "ped-015",
       "materia": "pedagogia",
       "tema": "inclusao-diversidade",
+      "dificuldade": 2,
       "enunciado": "Sobre a educação em direitos humanos na educação básica, conforme as Diretrizes Nacionais, é correto afirmar que:",
       "alternativas": [
         "Deve constituir disciplina obrigatória e autônoma no currículo",
@@ -873,6 +928,7 @@
       "id": "ped-016",
       "materia": "pedagogia",
       "tema": "tendencias-autores",
+      "dificuldade": 1,
       "enunciado": "A expressão 'educação bancária', criticada por Paulo Freire, designa a concepção em que:",
       "alternativas": [
         "O currículo é organizado a partir do interesse espontâneo do aluno.",
@@ -889,6 +945,7 @@
       "id": "ped-017",
       "materia": "pedagogia",
       "tema": "didatica-curriculo",
+      "dificuldade": 2,
       "enunciado": "Para Libâneo, os três componentes indissociáveis do processo de ensino são:",
       "alternativas": [
         "Planejamento, execução e avaliação.",
@@ -905,6 +962,7 @@
       "id": "ped-018",
       "materia": "pedagogia",
       "tema": "didatica-curriculo",
+      "dificuldade": 2,
       "enunciado": "Celso Vasconcellos distingue três níveis de planejamento. O plano de trabalho do professor com sua turma, que faz a mediação entre o PPP e a sala de aula, é o:",
       "alternativas": [
         "Projeto Político-Pedagógico.",
@@ -921,6 +979,7 @@
       "id": "ped-019",
       "materia": "pedagogia",
       "tema": "didatica-curriculo",
+      "dificuldade": 3,
       "enunciado": "As três dimensões do Projeto Político-Pedagógico, segundo Vasconcellos, são:",
       "alternativas": [
         "Marco referencial, diagnóstico e programação.",
@@ -937,6 +996,7 @@
       "id": "ped-020",
       "materia": "pedagogia",
       "tema": "didatica-curriculo",
+      "dificuldade": 1,
       "enunciado": "Na classificação de Zabala, 'respeitar a opinião divergente do colega' constitui conteúdo:",
       "alternativas": ["Factual", "Conceitual", "Procedimental", "Atitudinal", "Conceitual e procedimental"],
       "gabarito": 3,
@@ -947,6 +1007,7 @@
       "id": "ped-021",
       "materia": "pedagogia",
       "tema": "avaliacao",
+      "dificuldade": 1,
       "enunciado": "A avaliação realizada ao longo do processo, com a finalidade de regular o ensino e a aprendizagem enquanto ainda há tempo de intervir, denomina-se:",
       "alternativas": ["Diagnóstica", "Formativa", "Somativa", "Classificatória", "Externa"],
       "gabarito": 1,
@@ -957,6 +1018,7 @@
       "id": "ped-022",
       "materia": "pedagogia",
       "tema": "avaliacao",
+      "dificuldade": 2,
       "enunciado": "Conforme a Resolução CNE/CEB 05/2009, a avaliação na Educação Infantil deve:",
       "alternativas": [
         "Ser realizada por meio de provas bimestrais adaptadas à faixa etária.",
@@ -973,6 +1035,7 @@
       "id": "ped-023",
       "materia": "pedagogia",
       "tema": "inclusao-diversidade",
+      "dificuldade": 3,
       "enunciado": "Descreve a lógica da INTEGRAÇÃO escolar, e não da inclusão, a afirmação de que:",
       "alternativas": [
         "A escola repensa currículo, práticas e organização para receber todos os alunos.",
@@ -989,6 +1052,7 @@
       "id": "ped-024",
       "materia": "pedagogia",
       "tema": "inclusao-diversidade",
+      "dificuldade": 2,
       "enunciado": "O Atendimento Educacional Especializado é SUPLEMENTAR para estudantes:",
       "alternativas": [
         "Com deficiência.",
@@ -1005,6 +1069,7 @@
       "id": "ped-025",
       "materia": "pedagogia",
       "tema": "inclusao-diversidade",
+      "dificuldade": 3,
       "enunciado": "As seis dimensões da acessibilidade compreendem:",
       "alternativas": [
         "Arquitetônica, comunicacional, atitudinal, metodológica, instrumental e programática.",
@@ -1021,6 +1086,7 @@
       "id": "ped-026",
       "materia": "pedagogia",
       "tema": "gestao-escolar",
+      "dificuldade": 2,
       "enunciado": "O Conselho de Escola caracteriza-se por ser órgão:",
       "alternativas": [
         "Consultivo apenas, sem poder de decisão sobre o PPP.",
@@ -1037,6 +1103,7 @@
       "id": "ped-027",
       "materia": "pedagogia",
       "tema": "gestao-escolar",
+      "dificuldade": 2,
       "enunciado": "Em uma situação de conflito escolar, constitui marca típica da conduta INADEQUADA do gestor:",
       "alternativas": [
         "Escutar todas as partes antes de formar juízo.",
@@ -1053,6 +1120,7 @@
       "id": "ped-028",
       "materia": "pedagogia",
       "tema": "didatica-curriculo",
+      "dificuldade": 1,
       "enunciado": "Na metodologia conhecida como sala de aula invertida:",
       "alternativas": [
         "O aluno assume o papel de professor durante parte das aulas.",
@@ -1069,6 +1137,7 @@
       "id": "ped-029",
       "materia": "pedagogia",
       "tema": "tendencias-autores",
+      "dificuldade": 1,
       "enunciado": "A tese de que o currículo é um 'território em disputa', e não uma lista neutra de conteúdos, é associada a:",
       "alternativas": ["Cipriano Luckesi", "Miguel Arroyo", "Antoni Zabala", "Maurice Tardif", "Donald Schön"],
       "gabarito": 1,
@@ -1079,6 +1148,7 @@
       "id": "ped-030",
       "materia": "pedagogia",
       "tema": "gestao-escolar",
+      "dificuldade": 3,
       "enunciado": "Uma escola apresenta boas notas no Saeb, mas IDEB abaixo do esperado. A explicação mais provável é:",
       "alternativas": [
         "Baixo investimento por aluno na rede.",
@@ -1095,6 +1165,7 @@
       "id": "mat-001",
       "materia": "matematica",
       "tema": "logica",
+      "dificuldade": 1,
       "enunciado": "A negação da proposição 'Todos os professores da escola participaram da formação' é:",
       "alternativas": [
         "Nenhum professor da escola participou da formação",
@@ -1110,6 +1181,7 @@
       "id": "mat-002",
       "materia": "matematica",
       "tema": "logica",
+      "dificuldade": 2,
       "enunciado": "A negação de 'Se chover, então a aula será cancelada' é:",
       "alternativas": [
         "Se não chover, a aula não será cancelada",
@@ -1125,6 +1197,7 @@
       "id": "mat-003",
       "materia": "matematica",
       "tema": "logica",
+      "dificuldade": 2,
       "enunciado": "A proposição equivalente a 'Se é diretor, então tem formação pedagógica' é:",
       "alternativas": [
         "Se tem formação pedagógica, então é diretor",
@@ -1140,6 +1213,7 @@
       "id": "mat-004",
       "materia": "matematica",
       "tema": "aritmetica",
+      "dificuldade": 2,
       "enunciado": "Um produto custa R$ 480. Sofre um aumento de 25% e, em seguida, um desconto de 20% sobre o novo valor. O preço final é:",
       "alternativas": ["R$ 456,00", "R$ 480,00", "R$ 504,00", "R$ 528,00"],
       "gabarito": 1,
@@ -1150,6 +1224,7 @@
       "id": "mat-005",
       "materia": "matematica",
       "tema": "aritmetica",
+      "dificuldade": 1,
       "enunciado": "Seis operários constroem um muro em 10 dias. Mantido o ritmo, 15 operários construirão o mesmo muro em:",
       "alternativas": ["4 dias", "6 dias", "8 dias", "25 dias"],
       "gabarito": 0,
@@ -1160,6 +1235,7 @@
       "id": "mat-006",
       "materia": "matematica",
       "tema": "aritmetica",
+      "dificuldade": 2,
       "enunciado": "Um aluno obteve notas 7,0 (peso 2), 6,0 (peso 3) e 9,0 (peso 5). Sua média ponderada é:",
       "alternativas": ["7,33", "7,40", "7,70", "8,00"],
       "gabarito": 2,
@@ -1170,6 +1246,7 @@
       "id": "mat-007",
       "materia": "matematica",
       "tema": "aritmetica",
+      "dificuldade": 2,
       "enunciado": "Um capital de R$ 4.000 aplicado a juro simples de 1,5% ao mês durante 10 meses gera montante de:",
       "alternativas": ["R$ 600,00", "R$ 4.600,00", "R$ 4.060,00", "R$ 6.000,00"],
       "gabarito": 1,
@@ -1180,6 +1257,7 @@
       "id": "mat-008",
       "materia": "matematica",
       "tema": "logica",
+      "dificuldade": 3,
       "enunciado": "Considere: 'Todo diretor é pedagogo' e 'Algum pedagogo é pesquisador'. Pode-se concluir necessariamente que:",
       "alternativas": [
         "Algum diretor é pesquisador",
@@ -1195,6 +1273,7 @@
       "id": "mat-009",
       "materia": "matematica",
       "tema": "logica",
+      "dificuldade": 3,
       "enunciado": "Na sequência 2, 5, 11, 23, 47, ... o próximo termo é:",
       "alternativas": ["71", "83", "94", "95"],
       "gabarito": 3,
@@ -1205,6 +1284,7 @@
       "id": "mat-010",
       "materia": "matematica",
       "tema": "aritmetica",
+      "dificuldade": 1,
       "enunciado": "Dois ônibus partem do terminal simultaneamente. O primeiro parte a cada 18 minutos e o segundo a cada 24 minutos. Eles voltarão a partir juntos após:",
       "alternativas": ["42 minutos", "48 minutos", "72 minutos", "6 minutos"],
       "gabarito": 2,
@@ -1215,6 +1295,7 @@
       "id": "mat-011",
       "materia": "matematica",
       "tema": "geometria-medidas",
+      "dificuldade": 2,
       "enunciado": "Uma sala retangular mede 6 m por 4,5 m. A área, em centímetros quadrados, é:",
       "alternativas": ["2.700 cm²", "27.000 cm²", "270.000 cm²", "2.700.000 cm²"],
       "gabarito": 2,
@@ -1225,6 +1306,7 @@
       "id": "mat-012",
       "materia": "matematica",
       "tema": "geometria-medidas",
+      "dificuldade": 1,
       "enunciado": "Em um triângulo retângulo, os catetos medem 9 cm e 12 cm. A hipotenusa mede:",
       "alternativas": ["13 cm", "15 cm", "18 cm", "21 cm"],
       "gabarito": 1,
@@ -1235,6 +1317,7 @@
       "id": "mat-013",
       "materia": "matematica",
       "tema": "logica",
+      "dificuldade": 2,
       "enunciado": "A negação de 'O aluno estudou e foi aprovado' é:",
       "alternativas": [
         "O aluno não estudou e não foi aprovado",
@@ -1250,6 +1333,7 @@
       "id": "mat-014",
       "materia": "matematica",
       "tema": "aritmetica",
+      "dificuldade": 3,
       "enunciado": "Quatro professores corrigem 200 provas em 5 dias. Nas mesmas condições, 6 professores corrigirão 450 provas em:",
       "alternativas": ["5 dias", "6,5 dias", "7,5 dias", "9 dias"],
       "gabarito": 2,
@@ -1260,6 +1344,7 @@
       "id": "mat-015",
       "materia": "matematica",
       "tema": "aritmetica",
+      "dificuldade": 2,
       "enunciado": "Em uma escola com 750 alunos, 18% participam do contraturno. O número de alunos que NÃO participam é:",
       "alternativas": ["135", "570", "615", "732"],
       "gabarito": 2,
@@ -1270,6 +1355,7 @@
       "id": "mat-016",
       "materia": "matematica",
       "tema": "aritmetica",
+      "dificuldade": 2,
       "enunciado": "A matrícula de uma escola passou de 640 para 800 alunos. O aumento percentual foi de:",
       "alternativas": ["16%", "20%", "25%", "160%"],
       "gabarito": 2,
@@ -1280,6 +1366,7 @@
       "id": "mat-017",
       "materia": "matematica",
       "tema": "logica",
+      "dificuldade": 1,
       "enunciado": "São proposições lógicas, EXCETO:",
       "alternativas": [
         "Limeira pertence ao estado de São Paulo",
@@ -1295,6 +1382,7 @@
       "id": "mat-018",
       "materia": "matematica",
       "tema": "geometria-medidas",
+      "dificuldade": 2,
       "enunciado": "Um reservatório tem 2,5 m de comprimento, 1,2 m de largura e 0,8 m de altura. Sua capacidade, em litros, é:",
       "alternativas": ["240 L", "2.400 L", "24.000 L", "2,4 L"],
       "gabarito": 1,
@@ -1305,6 +1393,7 @@
       "id": "mat-019",
       "materia": "matematica",
       "tema": "logica",
+      "dificuldade": 3,
       "enunciado": "Se p é verdadeira e q é falsa, o valor lógico da proposição (p → q) ∨ (~p ∧ q) é:",
       "alternativas": [
         "Verdadeiro",
@@ -1320,6 +1409,7 @@
       "id": "mat-020",
       "materia": "matematica",
       "tema": "aritmetica",
+      "dificuldade": 1,
       "enunciado": "Uma turma tem 32 alunos. Se 3/8 são meninos, o número de meninas é:",
       "alternativas": ["12", "20", "24", "8"],
       "gabarito": 1,
@@ -1330,6 +1420,7 @@
       "id": "mat-021",
       "materia": "matematica",
       "tema": "logica",
+      "dificuldade": 2,
       "enunciado": "A negação de 'Nenhum candidato faltou à prova' é:",
       "alternativas": [
         "Todos os candidatos faltaram à prova",
@@ -1345,6 +1436,7 @@
       "id": "mat-022",
       "materia": "matematica",
       "tema": "aritmetica",
+      "dificuldade": 2,
       "enunciado": "Um material escolar teve o preço aumentado em 10% e, no mês seguinte, sofreu desconto de 10% sobre o novo valor. Em relação ao preço original, houve:",
       "alternativas": [
         "Retorno exato ao preço original",
@@ -1360,6 +1452,7 @@
       "id": "mat-023",
       "materia": "matematica",
       "tema": "aritmetica",
+      "dificuldade": 2,
       "enunciado": "Uma escola quer montar kits iguais, sem sobra, com 48 cadernos e 36 lápis, no maior número possível de kits. Quantos kits serão montados?",
       "alternativas": ["6", "12", "84", "144"],
       "gabarito": 1,
@@ -1370,6 +1463,7 @@
       "id": "mat-024",
       "materia": "matematica",
       "tema": "aritmetica",
+      "dificuldade": 3,
       "enunciado": "Um capital de R$ 6.000 é aplicado a juro simples com taxa de 12% ao ano, durante 8 meses. O juro produzido é:",
       "alternativas": ["R$ 480,00", "R$ 720,00", "R$ 5.760,00", "R$ 96,00"],
       "gabarito": 0,
@@ -1380,6 +1474,7 @@
       "id": "mat-025",
       "materia": "matematica",
       "tema": "logica",
+      "dificuldade": 3,
       "enunciado": "A proposição 'Se o candidato estuda, então é aprovado' equivale, na forma disjuntiva, a:",
       "alternativas": [
         "O candidato estuda ou é aprovado",
@@ -1395,6 +1490,7 @@
       "id": "por-001",
       "materia": "portugues",
       "tema": "crase-regencia",
+      "dificuldade": 2,
       "enunciado": "Assinale a alternativa em que o sinal indicativo de crase está corretamente empregado:",
       "alternativas": [
         "Cheguei à casa cansado depois da reunião.",
@@ -1410,6 +1506,7 @@
       "id": "por-002",
       "materia": "portugues",
       "tema": "crase-regencia",
+      "dificuldade": 2,
       "enunciado": "Assinale a frase correta quanto à regência verbal:",
       "alternativas": [
         "Assisti o congresso de educação em Campinas.",
@@ -1425,6 +1522,7 @@
       "id": "por-003",
       "materia": "portugues",
       "tema": "colocacao-concordancia",
+      "dificuldade": 2,
       "enunciado": "A colocação pronominal está correta em:",
       "alternativas": [
         "Me disseram que a prova será em dezembro.",
@@ -1440,6 +1538,7 @@
       "id": "por-004",
       "materia": "portugues",
       "tema": "colocacao-concordancia",
+      "dificuldade": 1,
       "enunciado": "Assinale a alternativa correta quanto à concordância verbal:",
       "alternativas": [
         "Haviam muitos candidatos inscritos no certame.",
@@ -1455,6 +1554,7 @@
       "id": "por-005",
       "materia": "portugues",
       "tema": "colocacao-concordancia",
+      "dificuldade": 2,
       "enunciado": "Considere: 'Os professores, que participaram da formação, receberão certificado.' A vírgula indica que:",
       "alternativas": [
         "Apenas os professores participantes receberão certificado",
@@ -1470,6 +1570,7 @@
       "id": "por-006",
       "materia": "portugues",
       "tema": "colocacao-concordancia",
+      "dificuldade": 2,
       "enunciado": "Assinale a alternativa em que a concordância nominal está correta:",
       "alternativas": [
         "Seguem anexo as cópias do relatório.",
@@ -1485,6 +1586,7 @@
       "id": "por-007",
       "materia": "portugues",
       "tema": "interpretacao-figuras-oficial",
+      "dificuldade": 1,
       "enunciado": "Em 'Li Drummond durante toda a tarde', a figura de linguagem presente é:",
       "alternativas": ["Metáfora", "Metonímia", "Hipérbole", "Catacrese"],
       "gabarito": 1,
@@ -1495,6 +1597,7 @@
       "id": "por-008",
       "materia": "portugues",
       "tema": "crase-regencia",
+      "dificuldade": 3,
       "enunciado": "Assinale a alternativa em que NÃO ocorre crase:",
       "alternativas": [
         "Estarei disponível às 14 horas.",
@@ -1510,6 +1613,7 @@
       "id": "por-009",
       "materia": "portugues",
       "tema": "colocacao-concordancia",
+      "dificuldade": 2,
       "enunciado": "Assinale a frase pontuada corretamente:",
       "alternativas": [
         "Os alunos da escola municipal, receberam o material didático.",
@@ -1525,6 +1629,7 @@
       "id": "por-010",
       "materia": "portugues",
       "tema": "interpretacao-figuras-oficial",
+      "dificuldade": 2,
       "enunciado": "Quanto aos pronomes de tratamento na redação oficial, é correto afirmar:",
       "alternativas": [
         "Vossa Excelência exige verbos na segunda pessoa",
@@ -1540,6 +1645,7 @@
       "id": "por-011",
       "materia": "portugues",
       "tema": "colocacao-concordancia",
+      "dificuldade": 3,
       "enunciado": "Em 'É preciso conhecê-lo melhor antes de decidir', a colocação pronominal é:",
       "alternativas": [
         "Próclise, obrigatória pelo advérbio",
@@ -1555,6 +1661,7 @@
       "id": "por-012",
       "materia": "portugues",
       "tema": "crase-regencia",
+      "dificuldade": 3,
       "enunciado": "Assinale a alternativa correta quanto à regência nominal:",
       "alternativas": [
         "A medida é prejudicial ao rendimento dos alunos.",
@@ -1570,6 +1677,7 @@
       "id": "por-013",
       "materia": "portugues",
       "tema": "interpretacao-figuras-oficial",
+      "dificuldade": 1,
       "enunciado": "Na ata de reunião, é característica exigida:",
       "alternativas": [
         "Divisão em parágrafos numerados para facilitar a leitura",
@@ -1585,6 +1693,7 @@
       "id": "por-014",
       "materia": "portugues",
       "tema": "interpretacao-figuras-oficial",
+      "dificuldade": 2,
       "enunciado": "'Estou cego de tanto ver.' A figura presente é:",
       "alternativas": ["Antítese", "Paradoxo", "Ironia", "Eufemismo"],
       "gabarito": 1,
@@ -1595,6 +1704,7 @@
       "id": "por-015",
       "materia": "portugues",
       "tema": "crase-regencia",
+      "dificuldade": 2,
       "enunciado": "Assinale a alternativa em que a crase é FACULTATIVA:",
       "alternativas": [
         "Entreguei o documento à Maria.",
@@ -1610,6 +1720,7 @@
       "id": "por-016",
       "materia": "portugues",
       "tema": "crase-regencia",
+      "dificuldade": 3,
       "enunciado": "A crase NÃO é facultativa em:",
       "alternativas": [
         "Fui até a secretaria buscar o documento.",
@@ -1625,6 +1736,7 @@
       "id": "por-017",
       "materia": "portugues",
       "tema": "crase-regencia",
+      "dificuldade": 2,
       "enunciado": "Assinale a alternativa em que a regência verbal está de acordo com a norma culta:",
       "alternativas": [
         "Os alunos devem obedecer o regimento escolar.",
@@ -1640,6 +1752,7 @@
       "id": "por-018",
       "materia": "portugues",
       "tema": "colocacao-concordancia",
+      "dificuldade": 3,
       "enunciado": "A próclise é obrigatória, por presença de palavra atrativa, em:",
       "alternativas": [
         "Entregaram-me o relatório na segunda-feira.",
@@ -1655,6 +1768,7 @@
       "id": "por-019",
       "materia": "portugues",
       "tema": "colocacao-concordancia",
+      "dificuldade": 3,
       "enunciado": "A mesóclise está corretamente empregada em:",
       "alternativas": [
         "Não far-se-á a leitura da ata nesta reunião.",
@@ -1670,6 +1784,7 @@
       "id": "por-020",
       "materia": "portugues",
       "tema": "colocacao-concordancia",
+      "dificuldade": 3,
       "enunciado": "Assinale a alternativa correta quanto à concordância nominal:",
       "alternativas": [
         "Seguem em anexas as certidões solicitadas.",
@@ -1685,6 +1800,7 @@
       "id": "por-021",
       "materia": "portugues",
       "tema": "colocacao-concordancia",
+      "dificuldade": 2,
       "enunciado": "A vírgula isola corretamente um VOCATIVO em:",
       "alternativas": [
         "Diretor, o relatório está pronto para assinatura.",
@@ -1700,6 +1816,7 @@
       "id": "por-022",
       "materia": "portugues",
       "tema": "interpretacao-figuras-oficial",
+      "dificuldade": 1,
       "enunciado": "Em 'Ele nos deixou na noite passada', usada para comunicar um falecimento, a figura de linguagem é:",
       "alternativas": ["Ironia", "Eufemismo", "Metonímia", "Hipérbole"],
       "gabarito": 1,
@@ -1710,6 +1827,7 @@
       "id": "por-023",
       "materia": "portugues",
       "tema": "interpretacao-figuras-oficial",
+      "dificuldade": 1,
       "enunciado": "O documento oficial destinado ao registro de manifestação técnica fundamentada sobre matéria submetida a exame denomina-se:",
       "alternativas": ["Ata", "Relatório", "Parecer", "Requerimento"],
       "gabarito": 2,
@@ -1720,6 +1838,7 @@
       "id": "por-024",
       "materia": "portugues",
       "tema": "crase-regencia",
+      "dificuldade": 3,
       "enunciado": "Considere as frases: I. 'Refiro-me a pessoas responsáveis.' II. 'Refiro-me às pessoas responsáveis.' Sobre elas, é correto afirmar:",
       "alternativas": [
         "Apenas I está correta; em II a crase é indevida.",
@@ -1735,6 +1854,7 @@
       "id": "por-025",
       "materia": "portugues",
       "tema": "colocacao-concordancia",
+      "dificuldade": 3,
       "enunciado": "Assinale a alternativa em que a concordância verbal está INCORRETA:",
       "alternativas": [
         "A maioria dos professores aderiu à formação continuada.",
@@ -1750,6 +1870,7 @@
       "id": "inf-001",
       "materia": "informatica",
       "tema": "excel",
+      "dificuldade": 1,
       "enunciado": "No MS-Excel, a fórmula =SOMA(A1;A5) resulta na soma:",
       "alternativas": [
         "Das células A1, A2, A3, A4 e A5",
@@ -1765,6 +1886,7 @@
       "id": "inf-002",
       "materia": "informatica",
       "tema": "excel",
+      "dificuldade": 3,
       "enunciado": "A fórmula =$C2+D$3, digitada em E5 e copiada para G8, tornar-se-á:",
       "alternativas": ["=$C5+F$3", "=$C2+D$3", "=$E5+F$6", "=$C8+F$3"],
       "gabarito": 0,
@@ -1775,6 +1897,7 @@
       "id": "inf-003",
       "materia": "informatica",
       "tema": "windows-word",
+      "dificuldade": 1,
       "enunciado": "No MS-Word em português, o atalho Ctrl+S corresponde a:",
       "alternativas": [
         "Salvar o documento",
@@ -1790,6 +1913,7 @@
       "id": "inf-004",
       "materia": "informatica",
       "tema": "windows-word",
+      "dificuldade": 1,
       "enunciado": "O recurso do MS-Word que permite aplicar orientação de página e numeração diferentes em partes do mesmo documento é:",
       "alternativas": ["Quebra de página", "Quebra de seção", "Caixa de texto", "Coluna"],
       "gabarito": 1,
@@ -1800,6 +1924,7 @@
       "id": "inf-005",
       "materia": "informatica",
       "tema": "excel",
+      "dificuldade": 2,
       "enunciado": "Em um intervalo com 4 células contendo números, 3 contendo texto e 2 vazias, a função CONT.VALORES retornará:",
       "alternativas": ["4", "7", "9", "2"],
       "gabarito": 1,
@@ -1810,6 +1935,7 @@
       "id": "inf-006",
       "materia": "informatica",
       "tema": "powerpoint-internet",
+      "dificuldade": 1,
       "enunciado": "No PowerPoint, o efeito aplicado à passagem de um slide para o seguinte chama-se:",
       "alternativas": ["Animação", "Transição", "Layout", "Slide mestre"],
       "gabarito": 1,
@@ -1820,6 +1946,7 @@
       "id": "inf-007",
       "materia": "informatica",
       "tema": "powerpoint-internet",
+      "dificuldade": 1,
       "enunciado": "No correio eletrônico, o campo Cco tem a função de:",
       "alternativas": [
         "Enviar cópia visível a todos os destinatários",
@@ -1835,6 +1962,7 @@
       "id": "inf-008",
       "materia": "informatica",
       "tema": "excel",
+      "dificuldade": 1,
       "enunciado": "O erro #DIV/0! no Excel indica:",
       "alternativas": [
         "Função escrita incorretamente",
@@ -1850,6 +1978,7 @@
       "id": "inf-009",
       "materia": "informatica",
       "tema": "windows-word",
+      "dificuldade": 1,
       "enunciado": "No Windows, a exclusão de um atalho da área de trabalho:",
       "alternativas": [
         "Exclui também o arquivo original",
@@ -1865,6 +1994,7 @@
       "id": "inf-010",
       "materia": "informatica",
       "tema": "excel",
+      "dificuldade": 2,
       "enunciado": "A fórmula =SE(B2>=6;\"Aprovado\";\"Reprovado\"), com B2 contendo 6, retornará:",
       "alternativas": ["Aprovado", "Reprovado", "#VALOR!", "FALSO"],
       "gabarito": 0,
@@ -1875,6 +2005,7 @@
       "id": "inf-011",
       "materia": "informatica",
       "tema": "powerpoint-internet",
+      "dificuldade": 2,
       "enunciado": "A navegação anônima em um navegador:",
       "alternativas": [
         "Impede que o provedor de internet registre os acessos",
@@ -1890,6 +2021,7 @@
       "id": "inf-012",
       "materia": "informatica",
       "tema": "excel",
+      "dificuldade": 2,
       "enunciado": "No Excel, para fixar a coluna e permitir que a linha varie ao copiar a fórmula, usa-se a referência:",
       "alternativas": ["A1", "$A$1", "$A1", "A$1"],
       "gabarito": 2,
@@ -1900,6 +2032,7 @@
       "id": "inf-013",
       "materia": "informatica",
       "tema": "excel",
+      "dificuldade": 2,
       "enunciado": "Um intervalo contém 5 células com números, 2 com texto e 3 vazias. O resultado de CONT.NÚM aplicado a esse intervalo é:",
       "alternativas": ["5", "7", "10", "3"],
       "gabarito": 0,
@@ -1910,6 +2043,7 @@
       "id": "inf-014",
       "materia": "informatica",
       "tema": "windows-word",
+      "dificuldade": 1,
       "enunciado": "No MS-Word, o atalho Ctrl+Enter executa a ação de:",
       "alternativas": [
         "Inserir quebra de página",
@@ -1925,6 +2059,7 @@
       "id": "inf-015",
       "materia": "informatica",
       "tema": "windows-word",
+      "dificuldade": 1,
       "enunciado": "No Windows, a combinação Shift+Delete aplicada a um arquivo:",
       "alternativas": [
         "Envia o arquivo para a Lixeira",
@@ -1940,6 +2075,7 @@
       "id": "inf-016",
       "materia": "informatica",
       "tema": "excel",
+      "dificuldade": 2,
       "enunciado": "No Excel, o erro #N/D exibido por uma fórmula PROCV indica que:",
       "alternativas": [
         "A função foi escrita com nome incorreto",
@@ -1955,6 +2091,7 @@
       "id": "inf-017",
       "materia": "informatica",
       "tema": "powerpoint-internet",
+      "dificuldade": 1,
       "enunciado": "No PowerPoint, o recurso que define a formatação padrão aplicada a todos os slides da apresentação é:",
       "alternativas": ["Layout", "Slide mestre", "Transição", "Botão de ação"],
       "gabarito": 1,
@@ -1965,6 +2102,7 @@
       "id": "inf-018",
       "materia": "informatica",
       "tema": "powerpoint-internet",
+      "dificuldade": 1,
       "enunciado": "A mensagem fraudulenta que simula um remetente confiável para obter dados pessoais da vítima é denominada:",
       "alternativas": ["Spam", "Phishing", "Cookie", "Anexo"],
       "gabarito": 1,
@@ -1975,6 +2113,7 @@
       "id": "inf-019",
       "materia": "informatica",
       "tema": "powerpoint-internet",
+      "dificuldade": 1,
       "enunciado": "Em um endereço da web, o protocolo HTTPS distingue-se do HTTP por:",
       "alternativas": [
         "Permitir o acesso a páginas hospedadas no exterior",
@@ -1990,6 +2129,7 @@
       "id": "inf-020",
       "materia": "informatica",
       "tema": "powerpoint-internet",
+      "dificuldade": 1,
       "enunciado": "Sobre navegadores e buscadores, é correto afirmar que:",
       "alternativas": [
         "São sinônimos, designando o mesmo tipo de programa",

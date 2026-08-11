@@ -50,6 +50,7 @@ Basta editar os JSON — o app não precisa de nenhuma alteração de código.
   "id": "leg-041",
   "materia": "legislacao",
   "tema": "ldb",
+  "dificuldade": 2,
   "enunciado": "...",
   "alternativas": ["...", "...", "...", "..."],
   "gabarito": 2,
@@ -59,6 +60,7 @@ Basta editar os JSON — o app não precisa de nenhuma alteração de código.
 ```
 
 - `gabarito` é **índice 0-based**: `0` = A, `1` = B, `2` = C…
+- `dificuldade` é `1` fácil, `2` média ou `3` difícil. Se omitir, vale `2`.
 - `alternativas` aceita 4 ou 5 itens.
 - `id` precisa ser único e estável — o progresso salvo aponta para ele.
 - `\n\n` no comentário vira parágrafo; `\n` vira quebra de linha.
@@ -73,20 +75,33 @@ Questões acrescentadas depois entram no fim da fila do dia sem embaralhar o que
 
 ## Como o app decide o que mostrar
 
-**Hoje** — 3 questões por dia, tiradas de uma ordem embaralhada uma única vez com semente
-fixa e estratificada por matéria (as 3 do dia raramente caem no mesmo assunto). Recarregar
-a página devolve exatamente as mesmas questões. Esgotado o banco, começa uma nova rodada
-com outra ordem.
+**Hoje** — 3 questões por dia. A ordem do banco vai **do mais fácil para o mais difícil**:
+percorre todas as de nível 1, depois as de nível 2, depois as de nível 3. Dentro de cada
+nível o embaralhamento usa semente fixa e é estratificado por matéria, então as 3 do dia
+raramente caem no mesmo assunto. Recarregar a página devolve exatamente as mesmas questões.
+Esgotado o banco, começa uma nova rodada com outra ordem.
+
+Ao terminar as 3, a tela de conclusão oferece **Responder mais 3**, que continua consumindo
+o mesmo cursor — sem repetir e sem quebrar o determinismo. Pode repetir quantas vezes quiser.
 
 **Cartões** — repetição espaçada em 6 caixas, com intervalos de 1, 3, 7, 16, 35 e 75 dias.
 *Sabia* sobe uma caixa; *Difícil* mantém a caixa; *Errei* volta à caixa 0 e reagenda para
 hoje, reaparecendo no fim da fila. Só aparecem os cartões devidos, mais até 5 inéditos por dia.
+
+Os inéditos entram do mais fácil para o mais difícil. A fila de **revisão**, porém, continua
+comandada por data de vencimento e não por dificuldade — é isso que faz a repetição espaçada
+funcionar, e ordenar por dificuldade quebraria o mecanismo.
 
 **Erro vira revisão** — ao errar uma questão, o app antecipa para hoje um cartão do mesmo
 tema, preferindo o que você nunca viu, depois o menos consolidado. Sem confirmação e sem aviso.
 
 **Sequência** — um dia entra na contagem quando você conclui as 3 questões ou revisa ao
 menos um cartão.
+
+**Progresso** — além da sequência, do acerto acumulado e dos cartões consolidados, traz o
+resumo dos últimos 30 dias, o recorte por matéria e por tema (mais fracos primeiro) e a lista
+**Suas questões erradas**, que abre o comentário para releitura. Uma questão sai dessa lista
+quando você a acerta numa rodada seguinte.
 
 Constantes ajustáveis em `src/nucleo/repeticao.ts` (`INTERVALOS`, `NOVOS_POR_DIA`,
 `CAIXA_CONSOLIDADO`) e `src/nucleo/questoesDoDia.ts` (`QUESTOES_POR_DIA`).

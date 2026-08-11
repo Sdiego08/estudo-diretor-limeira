@@ -1,6 +1,6 @@
-import type { RecorteTema } from '../nucleo/progresso'
+import type { Recorte } from '../nucleo/progresso'
 
-export default function BarraTema({ tema }: { tema: RecorteTema }) {
+export default function BarraTema({ tema }: { tema: Recorte }) {
   const fraco = tema.percentual < 60
   return (
     <li className="py-3">

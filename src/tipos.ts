@@ -10,6 +10,8 @@ export interface Questao {
   /** Índice 0-based dentro de `alternativas`. */
   gabarito: number
   comentario: string
+  /** 1 fácil · 2 média · 3 difícil. Define a ordem de apresentação. Ausente = 2. */
+  dificuldade?: number
   fonte?: string
 }
 
@@ -19,6 +21,8 @@ export interface Cartao {
   tema: string
   frente: string
   verso: string
+  /** 1 fácil · 2 média · 3 difícil. Ordena a entrada de cartões inéditos. Ausente = 2. */
+  dificuldade?: number
   fonte?: string
 }
 
@@ -73,12 +77,19 @@ export interface RegistroDia {
   cartoes: number
 }
 
+/** Questões erradas ainda não recuperadas — alimentam o relatório de revisão. */
+export interface RegistroErro {
+  vezes: number
+  ultimoErro: string
+}
+
 export interface Estado {
   versao: number
   ordemQuestoes: { ids: string[]; cursor: number; rodada: number }
   hoje: DiaAtual | null
   cartoes: Record<string, EstadoCartao>
   porTema: Record<string, ContagemTema>
+  erros: Record<string, RegistroErro>
   dias: Record<string, RegistroDia>
   sequencia: { atual: number; recorde: number; ultimoDia: string | null }
 }

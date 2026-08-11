@@ -8,7 +8,7 @@ import temasJson from '../data/temas.json'
 import type { Avaliacao, Cartao, Estado, Materia, Questao, Tema } from '../tipos'
 import { carregar, salvar } from './armazenamento'
 import { hojeISO, somaDias } from './datas'
-import { garantirDia, QUESTOES_POR_DIA } from './questoesDoDia'
+import { estenderDia, garantirDia, QUESTOES_POR_DIA } from './questoesDoDia'
 import { avaliar, cartaoParaAntecipar, filaDeHoje } from './repeticao'
 
 export const QUESTOES = questoesJson.questoes as Questao[]
@@ -26,6 +26,7 @@ interface Contexto {
   filaCartoes: Cartao[]
   responder: (escolha: number) => void
   avancar: () => void
+  continuar: () => void
   avaliarCartao: (cartao: Cartao, avaliacao: Avaliacao) => void
   reiniciarDia: () => void
 }
@@ -106,6 +107,18 @@ export function ProvedorEstudo({ children }: { children: ReactNode }) {
       if (atual.hoje.respostas.some((r) => r.id === questao.id)) return atual
 
       const acertou = escolha === questao.gabarito
+
+      // Lista de revisão: entra ao errar, sai quando a mesma questão é acertada depois.
+      const erros = { ...atual.erros }
+      if (acertou) {
+        delete erros[questao.id]
+      } else {
+        erros[questao.id] = {
+          vezes: (erros[questao.id]?.vezes ?? 0) + 1,
+          ultimoErro: hojeISO(),
+        }
+      }
+
       let proximo: Estado = {
         ...atual,
         hoje: {
@@ -119,6 +132,7 @@ export function ProvedorEstudo({ children }: { children: ReactNode }) {
             acertos: (atual.porTema[questao.tema]?.acertos ?? 0) + (acertou ? 1 : 0),
           },
         },
+        erros,
       }
 
       proximo = comRegistroDoDia(proximo, { questoes: 1, acertos: acertou ? 1 : 0 })
@@ -157,6 +171,10 @@ export function ProvedorEstudo({ children }: { children: ReactNode }) {
     })
   }, [])
 
+  const continuar = useCallback(() => {
+    setEstado((atual) => estenderDia(atual, QUESTOES))
+  }, [])
+
   const avaliarCartao = useCallback((cartao: Cartao, avaliacao: Avaliacao) => {
     setEstado((atual) => {
       const proximoCartao = avaliar(atual.cartoes[cartao.id], avaliacao)
@@ -183,6 +201,7 @@ export function ProvedorEstudo({ children }: { children: ReactNode }) {
     filaCartoes,
     responder,
     avancar,
+    continuar,
     avaliarCartao,
     reiniciarDia,
   }

@@ -1,7 +1,7 @@
 import type { Estado } from '../tipos'
 
 const CHAVE = 'estudo:v1'
-export const VERSAO_ESTADO = 1
+export const VERSAO_ESTADO = 2
 
 export function estadoInicial(): Estado {
   return {
@@ -10,6 +10,7 @@ export function estadoInicial(): Estado {
     hoje: null,
     cartoes: {},
     porTema: {},
+    erros: {},
     dias: {},
     sequencia: { atual: 0, recorde: 0, ultimoDia: null },
   }

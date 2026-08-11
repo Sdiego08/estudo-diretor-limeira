@@ -63,6 +63,9 @@ export function filaDeHoje(estado: Estado, cartoes: Cartao[]): Cartao[] {
     return (ca?.ultimoToque ?? 0) - (cb?.ultimoToque ?? 0)
   })
 
+  // Inéditos entram do mais fácil para o mais difícil; empate mantém a ordem do JSON.
+  novos.sort((a, b) => (a.dificuldade ?? 2) - (b.dificuldade ?? 2))
+
   const introduzidosHoje = Object.values(estado.cartoes).filter(
     (c) => c.introduzidoEm === hoje,
   ).length
@@ -103,6 +106,7 @@ export function cartaoParaAntecipar(
     if (!salvo) return -1
     return salvo.caixa
   }
+
 
   const escolher = (candidatos: Cartao[]) => {
     if (candidatos.length === 0) return null
